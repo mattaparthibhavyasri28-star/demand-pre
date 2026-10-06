@@ -1,0 +1,2191 @@
+date,menu_item_id,menu_item_name,prepared_quantity,sold_quantity,remaining_quantity,wasted_quantity,waste_percentage,waste_reason,cost_wasted,prep_cost
+2025-10-06,item-biryani-01,Chicken Biryani,113,105,8,8,7.08,customer_leftover,41.6,5.2
+2025-10-06,item-paneer-02,Paneer Butter Masala,114,99,15,15,13.16,customer_leftover,57.0,3.8
+2025-10-06,item-friedrice-03,Veg Fried Rice,90,70,20,20,22.22,over_production,50.0,2.5
+2025-10-06,item-salmon-04,Grilled Salmon,52,43,9,9,17.31,preparation_error,85.5,9.5
+2025-10-06,item-pizza-05,Margherita Pizza,110,86,24,24,21.82,over_production,76.8,3.2
+2025-10-06,item-salad-06,Caesar Salad,64,56,8,8,12.5,over_production,17.6,2.2
+2025-10-07,item-biryani-01,Chicken Biryani,100,81,19,19,19.0,over_production,98.8,5.2
+2025-10-07,item-paneer-02,Paneer Butter Masala,62,57,5,5,8.06,over_production,19.0,3.8
+2025-10-07,item-friedrice-03,Veg Fried Rice,66,48,18,18,27.27,over_production,45.0,2.5
+2025-10-07,item-salmon-04,Grilled Salmon,39,32,7,7,17.95,expired_shelf_life,66.5,9.5
+2025-10-07,item-pizza-05,Margherita Pizza,67,55,12,12,17.91,over_production,38.4,3.2
+2025-10-07,item-salad-06,Caesar Salad,61,43,18,18,29.51,over_production,39.6,2.2
+2025-10-08,item-biryani-01,Chicken Biryani,92,75,17,17,18.48,over_production,88.4,5.2
+2025-10-08,item-paneer-02,Paneer Butter Masala,63,58,5,5,7.94,customer_leftover,19.0,3.8
+2025-10-08,item-friedrice-03,Veg Fried Rice,54,47,7,7,12.96,over_production,17.5,2.5
+2025-10-08,item-salmon-04,Grilled Salmon,38,33,5,5,13.16,over_production,47.5,9.5
+2025-10-08,item-pizza-05,Margherita Pizza,63,58,5,5,7.94,over_production,16.0,3.2
+2025-10-08,item-salad-06,Caesar Salad,56,46,10,10,17.86,over_production,22.0,2.2
+2025-10-09,item-biryani-01,Chicken Biryani,124,102,22,22,17.74,over_production,114.4,5.2
+2025-10-09,item-paneer-02,Paneer Butter Masala,79,62,17,17,21.52,over_production,64.6,3.8
+2025-10-09,item-friedrice-03,Veg Fried Rice,64,50,14,14,21.88,over_production,35.0,2.5
+2025-10-09,item-salmon-04,Grilled Salmon,44,34,10,10,22.73,expired_shelf_life,95.0,9.5
+2025-10-09,item-pizza-05,Margherita Pizza,100,93,7,7,7.0,preparation_error,22.4,3.2
+2025-10-09,item-salad-06,Caesar Salad,55,43,12,12,21.82,over_production,26.4,2.2
+2025-10-10,item-biryani-01,Chicken Biryani,126,117,9,9,7.14,over_production,46.8,5.2
+2025-10-10,item-paneer-02,Paneer Butter Masala,90,74,16,16,17.78,over_production,60.8,3.8
+2025-10-10,item-friedrice-03,Veg Fried Rice,91,71,20,20,21.98,over_production,50.0,2.5
+2025-10-10,item-salmon-04,Grilled Salmon,54,50,4,4,7.41,over_production,38.0,9.5
+2025-10-10,item-pizza-05,Margherita Pizza,113,98,15,15,13.27,customer_leftover,48.0,3.2
+2025-10-10,item-salad-06,Caesar Salad,56,49,7,7,12.5,preparation_error,15.4,2.2
+2025-10-11,item-biryani-01,Chicken Biryani,172,159,13,13,7.56,preparation_error,67.6,5.2
+2025-10-11,item-paneer-02,Paneer Butter Masala,152,125,27,27,17.76,over_production,102.6,3.8
+2025-10-11,item-friedrice-03,Veg Fried Rice,117,102,15,15,12.82,over_production,37.5,2.5
+2025-10-11,item-salmon-04,Grilled Salmon,143,112,31,31,21.68,over_production,294.5,9.5
+2025-10-11,item-pizza-05,Margherita Pizza,163,142,21,21,12.88,over_production,67.2,3.2
+2025-10-11,item-salad-06,Caesar Salad,96,75,21,21,21.88,over_production,46.2,2.2
+2025-10-12,item-biryani-01,Chicken Biryani,143,124,19,19,13.29,over_production,98.8,5.2
+2025-10-12,item-paneer-02,Paneer Butter Masala,110,86,24,24,21.82,over_production,91.2,3.8
+2025-10-12,item-friedrice-03,Veg Fried Rice,70,57,13,13,18.57,over_production,32.5,2.5
+2025-10-12,item-salmon-04,Grilled Salmon,54,47,7,7,12.96,expired_shelf_life,66.5,9.5
+2025-10-12,item-pizza-05,Margherita Pizza,147,128,19,19,12.93,over_production,60.8,3.2
+2025-10-12,item-salad-06,Caesar Salad,49,45,4,4,8.16,preparation_error,8.8,2.2
+2025-10-13,item-biryani-01,Chicken Biryani,133,116,17,17,12.78,over_production,88.4,5.2
+2025-10-13,item-paneer-02,Paneer Butter Masala,82,64,18,18,21.95,over_production,68.4,3.8
+2025-10-13,item-friedrice-03,Veg Fried Rice,62,54,8,8,12.9,over_production,20.0,2.5
+2025-10-13,item-salmon-04,Grilled Salmon,43,37,6,6,13.95,customer_leftover,57.0,9.5
+2025-10-13,item-pizza-05,Margherita Pizza,123,96,27,27,21.95,over_production,86.4,3.2
+2025-10-13,item-salad-06,Caesar Salad,49,38,11,11,22.45,over_production,24.2,2.2
+2025-10-14,item-biryani-01,Chicken Biryani,114,106,8,8,7.02,customer_leftover,41.6,5.2
+2025-10-14,item-paneer-02,Paneer Butter Masala,76,59,17,17,22.37,over_production,64.6,3.8
+2025-10-14,item-friedrice-03,Veg Fried Rice,61,48,13,13,21.31,over_production,32.5,2.5
+2025-10-14,item-salmon-04,Grilled Salmon,41,38,3,3,7.32,expired_shelf_life,28.5,9.5
+2025-10-14,item-pizza-05,Margherita Pizza,70,65,5,5,7.14,over_production,16.0,3.2
+2025-10-14,item-salad-06,Caesar Salad,49,43,6,6,12.24,over_production,13.2,2.2
+2025-10-15,item-biryani-01,Chicken Biryani,134,105,29,29,21.64,over_production,150.8,5.2
+2025-10-15,item-paneer-02,Paneer Butter Masala,104,81,23,23,22.12,over_production,87.4,3.8
+2025-10-15,item-friedrice-03,Veg Fried Rice,89,73,16,16,17.98,over_production,40.0,2.5
+2025-10-15,item-salmon-04,Grilled Salmon,54,50,4,4,7.41,over_production,38.0,9.5
+2025-10-15,item-pizza-05,Margherita Pizza,189,148,41,41,21.69,over_production,131.2,3.2
+2025-10-15,item-salad-06,Caesar Salad,63,55,8,8,12.7,preparation_error,17.6,2.2
+2025-10-16,item-biryani-01,Chicken Biryani,159,138,21,21,13.21,over_production,109.2,5.2
+2025-10-16,item-paneer-02,Paneer Butter Masala,90,78,12,12,13.33,customer_leftover,45.6,3.8
+2025-10-16,item-friedrice-03,Veg Fried Rice,99,81,18,18,18.18,over_production,45.0,2.5
+2025-10-16,item-salmon-04,Grilled Salmon,48,42,6,6,12.5,over_production,57.0,9.5
+2025-10-16,item-pizza-05,Margherita Pizza,124,102,22,22,17.74,over_production,70.4,3.2
+2025-10-16,item-salad-06,Caesar Salad,63,58,5,5,7.94,preparation_error,11.0,2.2
+2025-10-17,item-biryani-01,Chicken Biryani,136,118,18,18,13.24,over_production,93.6,5.2
+2025-10-17,item-paneer-02,Paneer Butter Masala,77,71,6,6,7.79,over_production,22.8,3.8
+2025-10-17,item-friedrice-03,Veg Fried Rice,68,56,12,12,17.65,over_production,30.0,2.5
+2025-10-17,item-salmon-04,Grilled Salmon,60,56,4,4,6.67,over_production,38.0,9.5
+2025-10-17,item-pizza-05,Margherita Pizza,155,135,20,20,12.9,over_production,64.0,3.2
+2025-10-17,item-salad-06,Caesar Salad,52,48,4,4,7.69,customer_leftover,8.8,2.2
+2025-10-18,item-biryani-01,Chicken Biryani,174,143,31,31,17.82,over_production,161.2,5.2
+2025-10-18,item-paneer-02,Paneer Butter Masala,94,87,7,7,7.45,preparation_error,26.6,3.8
+2025-10-18,item-friedrice-03,Veg Fried Rice,78,64,14,14,17.95,preparation_error,35.0,2.5
+2025-10-18,item-salmon-04,Grilled Salmon,71,62,9,9,12.68,over_production,85.5,9.5
+2025-10-18,item-pizza-05,Margherita Pizza,134,105,29,29,21.64,over_production,92.8,3.2
+2025-10-18,item-salad-06,Caesar Salad,55,51,4,4,7.27,preparation_error,8.8,2.2
+2025-10-19,item-biryani-01,Chicken Biryani,139,121,18,18,12.95,over_production,93.6,5.2
+2025-10-19,item-paneer-02,Paneer Butter Masala,120,98,22,22,18.33,over_production,83.6,3.8
+2025-10-19,item-friedrice-03,Veg Fried Rice,71,66,5,5,7.04,customer_leftover,12.5,2.5
+2025-10-19,item-salmon-04,Grilled Salmon,55,51,4,4,7.27,expired_shelf_life,38.0,9.5
+2025-10-19,item-pizza-05,Margherita Pizza,99,77,22,22,22.22,over_production,70.4,3.2
+2025-10-19,item-salad-06,Caesar Salad,59,51,8,8,13.56,customer_leftover,17.6,2.2
+2025-10-20,item-biryani-01,Chicken Biryani,101,83,18,18,17.82,over_production,93.6,5.2
+2025-10-20,item-paneer-02,Paneer Butter Masala,79,62,17,17,21.52,over_production,64.6,3.8
+2025-10-20,item-friedrice-03,Veg Fried Rice,56,49,7,7,12.5,over_production,17.5,2.5
+2025-10-20,item-salmon-04,Grilled Salmon,52,48,4,4,7.69,over_production,38.0,9.5
+2025-10-20,item-pizza-05,Margherita Pizza,72,59,13,13,18.06,over_production,41.6,3.2
+2025-10-20,item-salad-06,Caesar Salad,43,37,6,6,13.95,over_production,13.2,2.2
+2025-10-21,item-biryani-01,Chicken Biryani,77,56,21,21,27.27,over_production,109.2,5.2
+2025-10-21,item-paneer-02,Paneer Butter Masala,69,64,5,5,7.25,over_production,19.0,3.8
+2025-10-21,item-friedrice-03,Veg Fried Rice,63,46,17,17,26.98,over_production,42.5,2.5
+2025-10-21,item-salmon-04,Grilled Salmon,57,40,17,17,29.82,over_production,161.5,9.5
+2025-10-21,item-pizza-05,Margherita Pizza,96,79,17,17,17.71,over_production,54.4,3.2
+2025-10-21,item-salad-06,Caesar Salad,32,26,6,6,18.75,over_production,13.2,2.2
+2025-10-22,item-biryani-01,Chicken Biryani,120,104,16,16,13.33,over_production,83.2,5.2
+2025-10-22,item-paneer-02,Paneer Butter Masala,95,88,7,7,7.37,over_production,26.6,3.8
+2025-10-22,item-friedrice-03,Veg Fried Rice,78,72,6,6,7.69,over_production,15.0,2.5
+2025-10-22,item-salmon-04,Grilled Salmon,64,50,14,14,21.88,expired_shelf_life,133.0,9.5
+2025-10-22,item-pizza-05,Margherita Pizza,101,88,13,13,12.87,preparation_error,41.6,3.2
+2025-10-22,item-salad-06,Caesar Salad,77,60,17,17,22.08,over_production,37.4,2.2
+2025-10-23,item-biryani-01,Chicken Biryani,110,102,8,8,7.27,customer_leftover,41.6,5.2
+2025-10-23,item-paneer-02,Paneer Butter Masala,87,71,16,16,18.39,over_production,60.8,3.8
+2025-10-23,item-friedrice-03,Veg Fried Rice,59,46,13,13,22.03,over_production,32.5,2.5
+2025-10-23,item-salmon-04,Grilled Salmon,38,33,5,5,13.16,over_production,47.5,9.5
+2025-10-23,item-pizza-05,Margherita Pizza,77,71,6,6,7.79,over_production,19.2,3.2
+2025-10-23,item-salad-06,Caesar Salad,44,38,6,6,13.64,customer_leftover,13.2,2.2
+2025-10-24,item-biryani-01,Chicken Biryani,164,126,38,38,23.17,over_production,197.6,5.2
+2025-10-24,item-paneer-02,Paneer Butter Masala,113,88,25,25,22.12,over_production,95.0,3.8
+2025-10-24,item-friedrice-03,Veg Fried Rice,69,53,16,16,23.19,over_production,40.0,2.5
+2025-10-24,item-salmon-04,Grilled Salmon,58,47,11,11,18.97,over_production,104.5,9.5
+2025-10-24,item-pizza-05,Margherita Pizza,120,104,16,16,13.33,over_production,51.2,3.2
+2025-10-24,item-salad-06,Caesar Salad,56,39,17,17,30.36,over_production,37.4,2.2
+2025-10-25,item-biryani-01,Chicken Biryani,219,160,59,59,26.94,over_production,306.8,5.2
+2025-10-25,item-paneer-02,Paneer Butter Masala,99,77,22,22,22.22,over_production,83.6,3.8
+2025-10-25,item-friedrice-03,Veg Fried Rice,90,63,27,27,30.0,over_production,67.5,2.5
+2025-10-25,item-salmon-04,Grilled Salmon,89,62,27,27,30.34,over_production,256.5,9.5
+2025-10-25,item-pizza-05,Margherita Pizza,115,90,25,25,21.74,over_production,80.0,3.2
+2025-10-25,item-salad-06,Caesar Salad,69,53,16,16,23.19,over_production,35.2,2.2
+2025-10-26,item-biryani-01,Chicken Biryani,160,131,29,29,18.12,over_production,150.8,5.2
+2025-10-26,item-paneer-02,Paneer Butter Masala,89,73,16,16,17.98,over_production,60.8,3.8
+2025-10-26,item-friedrice-03,Veg Fried Rice,58,54,4,4,6.9,preparation_error,10.0,2.5
+2025-10-26,item-salmon-04,Grilled Salmon,63,55,8,8,12.7,preparation_error,76.0,9.5
+2025-10-26,item-pizza-05,Margherita Pizza,128,100,28,28,21.88,over_production,89.6,3.2
+2025-10-26,item-salad-06,Caesar Salad,59,51,8,8,13.56,over_production,17.6,2.2
+2025-10-27,item-biryani-01,Chicken Biryani,140,109,31,31,22.14,over_production,161.2,5.2
+2025-10-27,item-paneer-02,Paneer Butter Masala,101,83,18,18,17.82,over_production,68.4,3.8
+2025-10-27,item-friedrice-03,Veg Fried Rice,88,69,19,19,21.59,over_production,47.5,2.5
+2025-10-27,item-salmon-04,Grilled Salmon,58,45,13,13,22.41,over_production,123.5,9.5
+2025-10-27,item-pizza-05,Margherita Pizza,140,109,31,31,22.14,over_production,99.2,3.2
+2025-10-27,item-salad-06,Caesar Salad,72,56,16,16,22.22,over_production,35.2,2.2
+2025-10-28,item-biryani-01,Chicken Biryani,132,103,29,29,21.97,over_production,150.8,5.2
+2025-10-28,item-paneer-02,Paneer Butter Masala,59,55,4,4,6.78,over_production,15.2,3.8
+2025-10-28,item-friedrice-03,Veg Fried Rice,57,53,4,4,7.02,customer_leftover,10.0,2.5
+2025-10-28,item-salmon-04,Grilled Salmon,41,38,3,3,7.32,expired_shelf_life,28.5,9.5
+2025-10-28,item-pizza-05,Margherita Pizza,83,65,18,18,21.69,over_production,57.6,3.2
+2025-10-28,item-salad-06,Caesar Salad,55,43,12,12,21.82,over_production,26.4,2.2
+2025-10-29,item-biryani-01,Chicken Biryani,144,118,26,26,18.06,over_production,135.2,5.2
+2025-10-29,item-paneer-02,Paneer Butter Masala,75,69,6,6,8.0,over_production,22.8,3.8
+2025-10-29,item-friedrice-03,Veg Fried Rice,56,49,7,7,12.5,preparation_error,17.5,2.5
+2025-10-29,item-salmon-04,Grilled Salmon,51,44,7,7,13.73,expired_shelf_life,66.5,9.5
+2025-10-29,item-pizza-05,Margherita Pizza,70,65,5,5,7.14,customer_leftover,16.0,3.2
+2025-10-29,item-salad-06,Caesar Salad,45,37,8,8,17.78,preparation_error,17.6,2.2
+2025-10-30,item-biryani-01,Chicken Biryani,94,87,7,7,7.45,over_production,36.4,5.2
+2025-10-30,item-paneer-02,Paneer Butter Masala,78,61,17,17,21.79,over_production,64.6,3.8
+2025-10-30,item-friedrice-03,Veg Fried Rice,61,53,8,8,13.11,preparation_error,20.0,2.5
+2025-10-30,item-salmon-04,Grilled Salmon,40,35,5,5,12.5,expired_shelf_life,47.5,9.5
+2025-10-30,item-pizza-05,Margherita Pizza,84,78,6,6,7.14,over_production,19.2,3.2
+2025-10-30,item-salad-06,Caesar Salad,60,47,13,13,21.67,customer_leftover,28.6,2.2
+2025-10-31,item-biryani-01,Chicken Biryani,198,162,36,36,18.18,over_production,187.2,5.2
+2025-10-31,item-paneer-02,Paneer Butter Masala,120,94,26,26,21.67,over_production,98.8,3.8
+2025-10-31,item-friedrice-03,Veg Fried Rice,88,69,19,19,21.59,over_production,47.5,2.5
+2025-10-31,item-salmon-04,Grilled Salmon,83,68,15,15,18.07,over_production,142.5,9.5
+2025-10-31,item-pizza-05,Margherita Pizza,146,120,26,26,17.81,over_production,83.2,3.2
+2025-10-31,item-salad-06,Caesar Salad,76,66,10,10,13.16,customer_leftover,22.0,2.2
+2025-11-01,item-biryani-01,Chicken Biryani,206,169,37,37,17.96,over_production,192.4,5.2
+2025-11-01,item-paneer-02,Paneer Butter Masala,91,79,12,12,13.19,over_production,45.6,3.8
+2025-11-01,item-friedrice-03,Veg Fried Rice,66,54,12,12,18.18,over_production,30.0,2.5
+2025-11-01,item-salmon-04,Grilled Salmon,62,54,8,8,12.9,over_production,76.0,9.5
+2025-11-01,item-pizza-05,Margherita Pizza,142,111,31,31,21.83,over_production,99.2,3.2
+2025-11-01,item-salad-06,Caesar Salad,57,53,4,4,7.02,preparation_error,8.8,2.2
+2025-11-02,item-biryani-01,Chicken Biryani,184,144,40,40,21.74,over_production,208.0,5.2
+2025-11-02,item-paneer-02,Paneer Butter Masala,101,83,18,18,17.82,over_production,68.4,3.8
+2025-11-02,item-friedrice-03,Veg Fried Rice,72,56,16,16,22.22,over_production,40.0,2.5
+2025-11-02,item-salmon-04,Grilled Salmon,65,53,12,12,18.46,expired_shelf_life,114.0,9.5
+2025-11-02,item-pizza-05,Margherita Pizza,120,98,22,22,18.33,over_production,70.4,3.2
+2025-11-02,item-salad-06,Caesar Salad,63,55,8,8,12.7,preparation_error,17.6,2.2
+2025-11-03,item-biryani-01,Chicken Biryani,96,89,7,7,7.29,over_production,36.4,5.2
+2025-11-03,item-paneer-02,Paneer Butter Masala,79,65,14,14,17.72,preparation_error,53.2,3.8
+2025-11-03,item-friedrice-03,Veg Fried Rice,66,54,12,12,18.18,preparation_error,30.0,2.5
+2025-11-03,item-salmon-04,Grilled Salmon,51,42,9,9,17.65,preparation_error,85.5,9.5
+2025-11-03,item-pizza-05,Margherita Pizza,83,65,18,18,21.69,over_production,57.6,3.2
+2025-11-03,item-salad-06,Caesar Salad,54,50,4,4,7.41,over_production,8.8,2.2
+2025-11-04,item-biryani-01,Chicken Biryani,152,119,33,33,21.71,over_production,171.6,5.2
+2025-11-04,item-paneer-02,Paneer Butter Masala,143,132,11,11,7.69,customer_leftover,41.8,3.8
+2025-11-04,item-friedrice-03,Veg Fried Rice,77,71,6,6,7.79,preparation_error,15.0,2.5
+2025-11-04,item-salmon-04,Grilled Salmon,63,52,11,11,17.46,expired_shelf_life,104.5,9.5
+2025-11-04,item-pizza-05,Margherita Pizza,131,102,29,29,22.14,over_production,92.8,3.2
+2025-11-04,item-salad-06,Caesar Salad,66,57,9,9,13.64,over_production,19.8,2.2
+2025-11-05,item-biryani-01,Chicken Biryani,112,104,8,8,7.14,over_production,41.6,5.2
+2025-11-05,item-paneer-02,Paneer Butter Masala,64,56,8,8,12.5,over_production,30.4,3.8
+2025-11-05,item-friedrice-03,Veg Fried Rice,68,59,9,9,13.24,preparation_error,22.5,2.5
+2025-11-05,item-salmon-04,Grilled Salmon,49,45,4,4,8.16,over_production,38.0,9.5
+2025-11-05,item-pizza-05,Margherita Pizza,121,99,22,22,18.18,over_production,70.4,3.2
+2025-11-05,item-salad-06,Caesar Salad,60,47,13,13,21.67,preparation_error,28.6,2.2
+2025-11-06,item-biryani-01,Chicken Biryani,118,103,15,15,12.71,over_production,78.0,5.2
+2025-11-06,item-paneer-02,Paneer Butter Masala,63,52,11,11,17.46,customer_leftover,41.8,3.8
+2025-11-06,item-friedrice-03,Veg Fried Rice,59,48,11,11,18.64,over_production,27.5,2.5
+2025-11-06,item-salmon-04,Grilled Salmon,49,38,11,11,22.45,expired_shelf_life,104.5,9.5
+2025-11-06,item-pizza-05,Margherita Pizza,90,70,20,20,22.22,over_production,64.0,3.2
+2025-11-06,item-salad-06,Caesar Salad,47,37,10,10,21.28,over_production,22.0,2.2
+2025-11-07,item-biryani-01,Chicken Biryani,161,149,12,12,7.45,over_production,62.4,5.2
+2025-11-07,item-paneer-02,Paneer Butter Masala,82,76,6,6,7.32,customer_leftover,22.8,3.8
+2025-11-07,item-friedrice-03,Veg Fried Rice,78,61,17,17,21.79,over_production,42.5,2.5
+2025-11-07,item-salmon-04,Grilled Salmon,61,53,8,8,13.11,over_production,76.0,9.5
+2025-11-07,item-pizza-05,Margherita Pizza,119,93,26,26,21.85,over_production,83.2,3.2
+2025-11-07,item-salad-06,Caesar Salad,72,59,13,13,18.06,customer_leftover,28.6,2.2
+2025-11-08,item-biryani-01,Chicken Biryani,119,110,9,9,7.56,over_production,46.8,5.2
+2025-11-08,item-paneer-02,Paneer Butter Masala,110,86,24,24,21.82,over_production,91.2,3.8
+2025-11-08,item-friedrice-03,Veg Fried Rice,64,59,5,5,7.81,over_production,12.5,2.5
+2025-11-08,item-salmon-04,Grilled Salmon,69,60,9,9,13.04,over_production,85.5,9.5
+2025-11-08,item-pizza-05,Margherita Pizza,105,97,8,8,7.62,over_production,25.6,3.2
+2025-11-08,item-salad-06,Caesar Salad,67,52,15,15,22.39,over_production,33.0,2.2
+2025-11-09,item-biryani-01,Chicken Biryani,230,161,69,69,30.0,over_production,358.8,5.2
+2025-11-09,item-paneer-02,Paneer Butter Masala,108,100,8,8,7.41,customer_leftover,30.4,3.8
+2025-11-09,item-friedrice-03,Veg Fried Rice,82,57,25,25,30.49,over_production,62.5,2.5
+2025-11-09,item-salmon-04,Grilled Salmon,68,50,18,18,26.47,over_production,171.0,9.5
+2025-11-09,item-pizza-05,Margherita Pizza,109,89,20,20,18.35,over_production,64.0,3.2
+2025-11-09,item-salad-06,Caesar Salad,69,48,21,21,30.43,over_production,46.2,2.2
+2025-11-10,item-biryani-01,Chicken Biryani,101,88,13,13,12.87,over_production,67.6,5.2
+2025-11-10,item-paneer-02,Paneer Butter Masala,87,68,19,19,21.84,over_production,72.2,3.8
+2025-11-10,item-friedrice-03,Veg Fried Rice,55,45,10,10,18.18,over_production,25.0,2.5
+2025-11-10,item-salmon-04,Grilled Salmon,51,40,11,11,21.57,over_production,104.5,9.5
+2025-11-10,item-pizza-05,Margherita Pizza,84,66,18,18,21.43,over_production,57.6,3.2
+2025-11-10,item-salad-06,Caesar Salad,44,36,8,8,18.18,over_production,17.6,2.2
+2025-11-11,item-biryani-01,Chicken Biryani,143,112,31,31,21.68,over_production,161.2,5.2
+2025-11-11,item-paneer-02,Paneer Butter Masala,77,60,17,17,22.08,over_production,64.6,3.8
+2025-11-11,item-friedrice-03,Veg Fried Rice,53,46,7,7,13.21,customer_leftover,17.5,2.5
+2025-11-11,item-salmon-04,Grilled Salmon,38,31,7,7,18.42,over_production,66.5,9.5
+2025-11-11,item-pizza-05,Margherita Pizza,88,69,19,19,21.59,over_production,60.8,3.2
+2025-11-11,item-salad-06,Caesar Salad,46,40,6,6,13.04,over_production,13.2,2.2
+2025-11-12,item-biryani-01,Chicken Biryani,119,110,9,9,7.56,over_production,46.8,5.2
+2025-11-12,item-paneer-02,Paneer Butter Masala,84,66,18,18,21.43,over_production,68.4,3.8
+2025-11-12,item-friedrice-03,Veg Fried Rice,63,49,14,14,22.22,customer_leftover,35.0,2.5
+2025-11-12,item-salmon-04,Grilled Salmon,55,45,10,10,18.18,over_production,95.0,9.5
+2025-11-12,item-pizza-05,Margherita Pizza,106,98,8,8,7.55,over_production,25.6,3.2
+2025-11-12,item-salad-06,Caesar Salad,52,48,4,4,7.69,customer_leftover,8.8,2.2
+2025-11-13,item-biryani-01,Chicken Biryani,105,91,14,14,13.33,preparation_error,72.8,5.2
+2025-11-13,item-paneer-02,Paneer Butter Masala,95,74,21,21,22.11,over_production,79.8,3.8
+2025-11-13,item-friedrice-03,Veg Fried Rice,57,50,7,7,12.28,over_production,17.5,2.5
+2025-11-13,item-salmon-04,Grilled Salmon,45,37,8,8,17.78,over_production,76.0,9.5
+2025-11-13,item-pizza-05,Margherita Pizza,87,71,16,16,18.39,over_production,51.2,3.2
+2025-11-13,item-salad-06,Caesar Salad,39,34,5,5,12.82,preparation_error,11.0,2.2
+2025-11-14,item-biryani-01,Chicken Biryani,150,117,33,33,22.0,over_production,171.6,5.2
+2025-11-14,item-paneer-02,Paneer Butter Masala,109,95,14,14,12.84,over_production,53.2,3.8
+2025-11-14,item-friedrice-03,Veg Fried Rice,97,76,21,21,21.65,over_production,52.5,2.5
+2025-11-14,item-salmon-04,Grilled Salmon,65,53,12,12,18.46,over_production,114.0,9.5
+2025-11-14,item-pizza-05,Margherita Pizza,123,101,22,22,17.89,over_production,70.4,3.2
+2025-11-14,item-salad-06,Caesar Salad,64,59,5,5,7.81,over_production,11.0,2.2
+2025-11-15,item-biryani-01,Chicken Biryani,176,153,23,23,13.07,over_production,119.6,5.2
+2025-11-15,item-paneer-02,Paneer Butter Masala,105,91,14,14,13.33,over_production,53.2,3.8
+2025-11-15,item-friedrice-03,Veg Fried Rice,73,60,13,13,17.81,customer_leftover,32.5,2.5
+2025-11-15,item-salmon-04,Grilled Salmon,61,53,8,8,13.11,expired_shelf_life,76.0,9.5
+2025-11-15,item-pizza-05,Margherita Pizza,129,101,28,28,21.71,over_production,89.6,3.2
+2025-11-15,item-salad-06,Caesar Salad,64,56,8,8,12.5,over_production,17.6,2.2
+2025-11-16,item-biryani-01,Chicken Biryani,155,127,28,28,18.06,over_production,145.6,5.2
+2025-11-16,item-paneer-02,Paneer Butter Masala,104,85,19,19,18.27,over_production,72.2,3.8
+2025-11-16,item-friedrice-03,Veg Fried Rice,73,57,16,16,21.92,over_production,40.0,2.5
+2025-11-16,item-salmon-04,Grilled Salmon,64,56,8,8,12.5,over_production,76.0,9.5
+2025-11-16,item-pizza-05,Margherita Pizza,131,102,29,29,22.14,over_production,92.8,3.2
+2025-11-16,item-salad-06,Caesar Salad,57,47,10,10,17.54,preparation_error,22.0,2.2
+2025-11-17,item-biryani-01,Chicken Biryani,107,88,19,19,17.76,over_production,98.8,5.2
+2025-11-17,item-paneer-02,Paneer Butter Masala,70,57,13,13,18.57,preparation_error,49.4,3.8
+2025-11-17,item-friedrice-03,Veg Fried Rice,59,55,4,4,6.78,over_production,10.0,2.5
+2025-11-17,item-salmon-04,Grilled Salmon,45,39,6,6,13.33,over_production,57.0,9.5
+2025-11-17,item-pizza-05,Margherita Pizza,87,68,19,19,21.84,over_production,60.8,3.2
+2025-11-17,item-salad-06,Caesar Salad,50,46,4,4,8.0,over_production,8.8,2.2
+2025-11-18,item-biryani-01,Chicken Biryani,109,85,24,24,22.02,over_production,124.8,5.2
+2025-11-18,item-paneer-02,Paneer Butter Masala,74,64,10,10,13.51,over_production,38.0,3.8
+2025-11-18,item-friedrice-03,Veg Fried Rice,61,48,13,13,21.31,over_production,32.5,2.5
+2025-11-18,item-salmon-04,Grilled Salmon,44,38,6,6,13.64,over_production,57.0,9.5
+2025-11-18,item-pizza-05,Margherita Pizza,117,96,21,21,17.95,over_production,67.2,3.2
+2025-11-18,item-salad-06,Caesar Salad,52,43,9,9,17.31,preparation_error,19.8,2.2
+2025-11-19,item-biryani-01,Chicken Biryani,139,121,18,18,12.95,over_production,93.6,5.2
+2025-11-19,item-paneer-02,Paneer Butter Masala,75,69,6,6,8.0,preparation_error,22.8,3.8
+2025-11-19,item-friedrice-03,Veg Fried Rice,62,54,8,8,12.9,customer_leftover,20.0,2.5
+2025-11-19,item-salmon-04,Grilled Salmon,34,30,4,4,11.76,customer_leftover,38.0,9.5
+2025-11-19,item-pizza-05,Margherita Pizza,72,67,5,5,6.94,over_production,16.0,3.2
+2025-11-19,item-salad-06,Caesar Salad,54,44,10,10,18.52,customer_leftover,22.0,2.2
+2025-11-20,item-biryani-01,Chicken Biryani,112,104,8,8,7.14,preparation_error,41.6,5.2
+2025-11-20,item-paneer-02,Paneer Butter Masala,101,79,22,22,21.78,over_production,83.6,3.8
+2025-11-20,item-friedrice-03,Veg Fried Rice,51,47,4,4,7.84,over_production,10.0,2.5
+2025-11-20,item-salmon-04,Grilled Salmon,38,35,3,3,7.89,over_production,28.5,9.5
+2025-11-20,item-pizza-05,Margherita Pizza,71,58,13,13,18.31,over_production,41.6,3.2
+2025-11-20,item-salad-06,Caesar Salad,70,55,15,15,21.43,over_production,33.0,2.2
+2025-11-21,item-biryani-01,Chicken Biryani,196,151,45,45,22.96,over_production,234.0,5.2
+2025-11-21,item-paneer-02,Paneer Butter Masala,128,105,23,23,17.97,over_production,87.4,3.8
+2025-11-21,item-friedrice-03,Veg Fried Rice,78,57,21,21,26.92,over_production,52.5,2.5
+2025-11-21,item-salmon-04,Grilled Salmon,67,49,18,18,26.87,over_production,171.0,9.5
+2025-11-21,item-pizza-05,Margherita Pizza,128,100,28,28,21.88,over_production,89.6,3.2
+2025-11-21,item-salad-06,Caesar Salad,75,61,14,14,18.67,over_production,30.8,2.2
+2025-11-22,item-biryani-01,Chicken Biryani,186,145,41,41,22.04,over_production,213.2,5.2
+2025-11-22,item-paneer-02,Paneer Butter Masala,94,87,7,7,7.45,over_production,26.6,3.8
+2025-11-22,item-friedrice-03,Veg Fried Rice,63,55,8,8,12.7,over_production,20.0,2.5
+2025-11-22,item-salmon-04,Grilled Salmon,72,67,5,5,6.94,expired_shelf_life,47.5,9.5
+2025-11-22,item-pizza-05,Margherita Pizza,167,137,30,30,17.96,over_production,96.0,3.2
+2025-11-22,item-salad-06,Caesar Salad,55,51,4,4,7.27,over_production,8.8,2.2
+2025-11-23,item-biryani-01,Chicken Biryani,149,138,11,11,7.38,over_production,57.2,5.2
+2025-11-23,item-paneer-02,Paneer Butter Masala,100,87,13,13,13.0,preparation_error,49.4,3.8
+2025-11-23,item-friedrice-03,Veg Fried Rice,64,59,5,5,7.81,over_production,12.5,2.5
+2025-11-23,item-salmon-04,Grilled Salmon,87,71,16,16,18.39,over_production,152.0,9.5
+2025-11-23,item-pizza-05,Margherita Pizza,115,90,25,25,21.74,over_production,80.0,3.2
+2025-11-23,item-salad-06,Caesar Salad,54,50,4,4,7.41,over_production,8.8,2.2
+2025-11-24,item-biryani-01,Chicken Biryani,152,125,27,27,17.76,over_production,140.4,5.2
+2025-11-24,item-paneer-02,Paneer Butter Masala,101,88,13,13,12.87,over_production,49.4,3.8
+2025-11-24,item-friedrice-03,Veg Fried Rice,70,65,5,5,7.14,preparation_error,12.5,2.5
+2025-11-24,item-salmon-04,Grilled Salmon,63,49,14,14,22.22,over_production,133.0,9.5
+2025-11-24,item-pizza-05,Margherita Pizza,94,87,7,7,7.45,customer_leftover,22.4,3.2
+2025-11-24,item-salad-06,Caesar Salad,56,52,4,4,7.14,over_production,8.8,2.2
+2025-11-25,item-biryani-01,Chicken Biryani,89,82,7,7,7.87,customer_leftover,36.4,5.2
+2025-11-25,item-paneer-02,Paneer Butter Masala,78,61,17,17,21.79,over_production,64.6,3.8
+2025-11-25,item-friedrice-03,Veg Fried Rice,61,50,11,11,18.03,preparation_error,27.5,2.5
+2025-11-25,item-salmon-04,Grilled Salmon,38,35,3,3,7.89,expired_shelf_life,28.5,9.5
+2025-11-25,item-pizza-05,Margherita Pizza,76,66,10,10,13.16,over_production,32.0,3.2
+2025-11-25,item-salad-06,Caesar Salad,43,40,3,3,6.98,preparation_error,6.6,2.2
+2025-11-26,item-biryani-01,Chicken Biryani,116,95,21,21,18.1,over_production,109.2,5.2
+2025-11-26,item-paneer-02,Paneer Butter Masala,87,81,6,6,6.9,over_production,22.8,3.8
+2025-11-26,item-friedrice-03,Veg Fried Rice,85,70,15,15,17.65,over_production,37.5,2.5
+2025-11-26,item-salmon-04,Grilled Salmon,42,33,9,9,21.43,expired_shelf_life,85.5,9.5
+2025-11-26,item-pizza-05,Margherita Pizza,92,75,17,17,18.48,over_production,54.4,3.2
+2025-11-26,item-salad-06,Caesar Salad,52,41,11,11,21.15,over_production,24.2,2.2
+2025-11-27,item-biryani-01,Chicken Biryani,114,80,34,34,29.82,over_production,176.8,5.2
+2025-11-27,item-paneer-02,Paneer Butter Masala,72,59,13,13,18.06,over_production,49.4,3.8
+2025-11-27,item-friedrice-03,Veg Fried Rice,65,53,12,12,18.46,customer_leftover,30.0,2.5
+2025-11-27,item-salmon-04,Grilled Salmon,52,38,14,14,26.92,over_production,133.0,9.5
+2025-11-27,item-pizza-05,Margherita Pizza,69,60,9,9,13.04,customer_leftover,28.8,3.2
+2025-11-27,item-salad-06,Caesar Salad,42,34,8,8,19.05,preparation_error,17.6,2.2
+2025-11-28,item-biryani-01,Chicken Biryani,157,129,28,28,17.83,over_production,145.6,5.2
+2025-11-28,item-paneer-02,Paneer Butter Masala,106,87,19,19,17.92,over_production,72.2,3.8
+2025-11-28,item-friedrice-03,Veg Fried Rice,69,64,5,5,7.25,over_production,12.5,2.5
+2025-11-28,item-salmon-04,Grilled Salmon,64,59,5,5,7.81,expired_shelf_life,47.5,9.5
+2025-11-28,item-pizza-05,Margherita Pizza,186,145,41,41,22.04,over_production,131.2,3.2
+2025-11-28,item-salad-06,Caesar Salad,53,49,4,4,7.55,over_production,8.8,2.2
+2025-11-29,item-biryani-01,Chicken Biryani,159,147,12,12,7.55,over_production,62.4,5.2
+2025-11-29,item-paneer-02,Paneer Butter Masala,106,87,19,19,17.92,over_production,72.2,3.8
+2025-11-29,item-friedrice-03,Veg Fried Rice,66,57,9,9,13.64,over_production,22.5,2.5
+2025-11-29,item-salmon-04,Grilled Salmon,71,58,13,13,18.31,preparation_error,123.5,9.5
+2025-11-29,item-pizza-05,Margherita Pizza,111,103,8,8,7.21,over_production,25.6,3.2
+2025-11-29,item-salad-06,Caesar Salad,61,53,8,8,13.11,over_production,17.6,2.2
+2025-11-30,item-biryani-01,Chicken Biryani,163,134,29,29,17.79,over_production,150.8,5.2
+2025-11-30,item-paneer-02,Paneer Butter Masala,137,127,10,10,7.3,over_production,38.0,3.8
+2025-11-30,item-friedrice-03,Veg Fried Rice,92,80,12,12,13.04,over_production,30.0,2.5
+2025-11-30,item-salmon-04,Grilled Salmon,87,71,16,16,18.39,over_production,152.0,9.5
+2025-11-30,item-pizza-05,Margherita Pizza,173,135,38,38,21.97,over_production,121.6,3.2
+2025-11-30,item-salad-06,Caesar Salad,75,69,6,6,8.0,over_production,13.2,2.2
+2025-12-01,item-biryani-01,Chicken Biryani,94,87,7,7,7.45,over_production,36.4,5.2
+2025-12-01,item-paneer-02,Paneer Butter Masala,71,58,13,13,18.31,over_production,49.4,3.8
+2025-12-01,item-friedrice-03,Veg Fried Rice,56,44,12,12,21.43,preparation_error,30.0,2.5
+2025-12-01,item-salmon-04,Grilled Salmon,36,31,5,5,13.89,expired_shelf_life,47.5,9.5
+2025-12-01,item-pizza-05,Margherita Pizza,79,73,6,6,7.59,over_production,19.2,3.2
+2025-12-01,item-salad-06,Caesar Salad,46,43,3,3,6.52,over_production,6.6,2.2
+2025-12-02,item-biryani-01,Chicken Biryani,91,79,12,12,13.19,customer_leftover,62.4,5.2
+2025-12-02,item-paneer-02,Paneer Butter Masala,68,59,9,9,13.24,over_production,34.2,3.8
+2025-12-02,item-friedrice-03,Veg Fried Rice,65,51,14,14,21.54,customer_leftover,35.0,2.5
+2025-12-02,item-salmon-04,Grilled Salmon,52,41,11,11,21.15,preparation_error,104.5,9.5
+2025-12-02,item-pizza-05,Margherita Pizza,91,71,20,20,21.98,over_production,64.0,3.2
+2025-12-02,item-salad-06,Caesar Salad,55,45,10,10,18.18,over_production,22.0,2.2
+2025-12-03,item-biryani-01,Chicken Biryani,116,107,9,9,7.76,over_production,46.8,5.2
+2025-12-03,item-paneer-02,Paneer Butter Masala,70,65,5,5,7.14,over_production,19.0,3.8
+2025-12-03,item-friedrice-03,Veg Fried Rice,55,51,4,4,7.27,over_production,10.0,2.5
+2025-12-03,item-salmon-04,Grilled Salmon,37,32,5,5,13.51,preparation_error,47.5,9.5
+2025-12-03,item-pizza-05,Margherita Pizza,87,68,19,19,21.84,over_production,60.8,3.2
+2025-12-03,item-salad-06,Caesar Salad,49,45,4,4,8.16,over_production,8.8,2.2
+2025-12-04,item-biryani-01,Chicken Biryani,89,82,7,7,7.87,over_production,36.4,5.2
+2025-12-04,item-paneer-02,Paneer Butter Masala,67,58,9,9,13.43,preparation_error,34.2,3.8
+2025-12-04,item-friedrice-03,Veg Fried Rice,55,43,12,12,21.82,customer_leftover,30.0,2.5
+2025-12-04,item-salmon-04,Grilled Salmon,50,39,11,11,22.0,customer_leftover,104.5,9.5
+2025-12-04,item-pizza-05,Margherita Pizza,86,75,11,11,12.79,over_production,35.2,3.2
+2025-12-04,item-salad-06,Caesar Salad,43,40,3,3,6.98,customer_leftover,6.6,2.2
+2025-12-05,item-biryani-01,Chicken Biryani,180,126,54,54,30.0,over_production,280.8,5.2
+2025-12-05,item-paneer-02,Paneer Butter Masala,105,97,8,8,7.62,over_production,30.4,3.8
+2025-12-05,item-friedrice-03,Veg Fried Rice,68,50,18,18,26.47,over_production,45.0,2.5
+2025-12-05,item-salmon-04,Grilled Salmon,48,35,13,13,27.08,expired_shelf_life,123.5,9.5
+2025-12-05,item-pizza-05,Margherita Pizza,118,109,9,9,7.63,over_production,28.8,3.2
+2025-12-05,item-salad-06,Caesar Salad,46,37,9,9,19.57,over_production,19.8,2.2
+2025-12-06,item-biryani-01,Chicken Biryani,207,170,37,37,17.87,over_production,192.4,5.2
+2025-12-06,item-paneer-02,Paneer Butter Masala,123,114,9,9,7.32,over_production,34.2,3.8
+2025-12-06,item-friedrice-03,Veg Fried Rice,81,75,6,6,7.41,over_production,15.0,2.5
+2025-12-06,item-salmon-04,Grilled Salmon,102,80,22,22,21.57,over_production,209.0,9.5
+2025-12-06,item-pizza-05,Margherita Pizza,184,144,40,40,21.74,over_production,128.0,3.2
+2025-12-06,item-salad-06,Caesar Salad,75,65,10,10,13.33,preparation_error,22.0,2.2
+2025-12-07,item-biryani-01,Chicken Biryani,189,175,14,14,7.41,over_production,72.8,5.2
+2025-12-07,item-paneer-02,Paneer Butter Masala,140,109,31,31,22.14,over_production,117.8,3.8
+2025-12-07,item-friedrice-03,Veg Fried Rice,100,87,13,13,13.0,over_production,32.5,2.5
+2025-12-07,item-salmon-04,Grilled Salmon,107,88,19,19,17.76,over_production,180.5,9.5
+2025-12-07,item-pizza-05,Margherita Pizza,168,138,30,30,17.86,over_production,96.0,3.2
+2025-12-07,item-salad-06,Caesar Salad,83,65,18,18,21.69,over_production,39.6,2.2
+2025-12-08,item-biryani-01,Chicken Biryani,124,97,27,27,21.77,over_production,140.4,5.2
+2025-12-08,item-paneer-02,Paneer Butter Masala,67,55,12,12,17.91,over_production,45.6,3.8
+2025-12-08,item-friedrice-03,Veg Fried Rice,66,57,9,9,13.64,over_production,22.5,2.5
+2025-12-08,item-salmon-04,Grilled Salmon,52,43,9,9,17.31,expired_shelf_life,85.5,9.5
+2025-12-08,item-pizza-05,Margherita Pizza,104,81,23,23,22.12,over_production,73.6,3.2
+2025-12-08,item-salad-06,Caesar Salad,51,40,11,11,21.57,customer_leftover,24.2,2.2
+2025-12-09,item-biryani-01,Chicken Biryani,107,99,8,8,7.48,preparation_error,41.6,5.2
+2025-12-09,item-paneer-02,Paneer Butter Masala,72,59,13,13,18.06,over_production,49.4,3.8
+2025-12-09,item-friedrice-03,Veg Fried Rice,53,49,4,4,7.55,preparation_error,10.0,2.5
+2025-12-09,item-salmon-04,Grilled Salmon,47,37,10,10,21.28,expired_shelf_life,95.0,9.5
+2025-12-09,item-pizza-05,Margherita Pizza,127,104,23,23,18.11,over_production,73.6,3.2
+2025-12-09,item-salad-06,Caesar Salad,41,38,3,3,7.32,over_production,6.6,2.2
+2025-12-10,item-biryani-01,Chicken Biryani,123,96,27,27,21.95,over_production,140.4,5.2
+2025-12-10,item-paneer-02,Paneer Butter Masala,60,49,11,11,18.33,customer_leftover,41.8,3.8
+2025-12-10,item-friedrice-03,Veg Fried Rice,56,44,12,12,21.43,over_production,30.0,2.5
+2025-12-10,item-salmon-04,Grilled Salmon,63,52,11,11,17.46,over_production,104.5,9.5
+2025-12-10,item-pizza-05,Margherita Pizza,101,79,22,22,21.78,over_production,70.4,3.2
+2025-12-10,item-salad-06,Caesar Salad,45,39,6,6,13.33,over_production,13.2,2.2
+2025-12-11,item-biryani-01,Chicken Biryani,106,87,19,19,17.92,over_production,98.8,5.2
+2025-12-11,item-paneer-02,Paneer Butter Masala,81,75,6,6,7.41,over_production,22.8,3.8
+2025-12-11,item-friedrice-03,Veg Fried Rice,62,54,8,8,12.9,over_production,20.0,2.5
+2025-12-11,item-salmon-04,Grilled Salmon,43,35,8,8,18.6,preparation_error,76.0,9.5
+2025-12-11,item-pizza-05,Margherita Pizza,75,65,10,10,13.33,over_production,32.0,3.2
+2025-12-11,item-salad-06,Caesar Salad,43,35,8,8,18.6,over_production,17.6,2.2
+2025-12-12,item-biryani-01,Chicken Biryani,269,188,81,81,30.11,over_production,421.2,5.2
+2025-12-12,item-paneer-02,Paneer Butter Masala,140,109,31,31,22.14,over_production,117.8,3.8
+2025-12-12,item-friedrice-03,Veg Fried Rice,91,74,17,17,18.68,over_production,42.5,2.5
+2025-12-12,item-salmon-04,Grilled Salmon,92,67,25,25,27.17,over_production,237.5,9.5
+2025-12-12,item-pizza-05,Margherita Pizza,159,124,35,35,22.01,over_production,112.0,3.2
+2025-12-12,item-salad-06,Caesar Salad,90,66,24,24,26.67,over_production,52.8,2.2
+2025-12-13,item-biryani-01,Chicken Biryani,173,141,32,32,18.5,over_production,166.4,5.2
+2025-12-13,item-paneer-02,Paneer Butter Masala,102,89,13,13,12.75,customer_leftover,49.4,3.8
+2025-12-13,item-friedrice-03,Veg Fried Rice,86,66,20,20,23.26,over_production,50.0,2.5
+2025-12-13,item-salmon-04,Grilled Salmon,64,47,17,17,26.56,over_production,161.5,9.5
+2025-12-13,item-pizza-05,Margherita Pizza,128,105,23,23,17.97,over_production,73.6,3.2
+2025-12-13,item-salad-06,Caesar Salad,63,46,17,17,26.98,over_production,37.4,2.2
+2025-12-14,item-biryani-01,Chicken Biryani,146,112,34,34,23.29,over_production,176.8,5.2
+2025-12-14,item-paneer-02,Paneer Butter Masala,95,78,17,17,17.89,over_production,64.6,3.8
+2025-12-14,item-friedrice-03,Veg Fried Rice,80,65,15,15,18.75,customer_leftover,37.5,2.5
+2025-12-14,item-salmon-04,Grilled Salmon,79,58,21,21,26.58,over_production,199.5,9.5
+2025-12-14,item-pizza-05,Margherita Pizza,111,87,24,24,21.62,over_production,76.8,3.2
+2025-12-14,item-salad-06,Caesar Salad,59,48,11,11,18.64,over_production,24.2,2.2
+2025-12-15,item-biryani-01,Chicken Biryani,121,99,22,22,18.18,over_production,114.4,5.2
+2025-12-15,item-paneer-02,Paneer Butter Masala,63,58,5,5,7.94,preparation_error,19.0,3.8
+2025-12-15,item-friedrice-03,Veg Fried Rice,63,49,14,14,22.22,over_production,35.0,2.5
+2025-12-15,item-salmon-04,Grilled Salmon,41,34,7,7,17.07,over_production,66.5,9.5
+2025-12-15,item-pizza-05,Margherita Pizza,81,66,15,15,18.52,customer_leftover,48.0,3.2
+2025-12-15,item-salad-06,Caesar Salad,42,39,3,3,7.14,customer_leftover,6.6,2.2
+2025-12-16,item-biryani-01,Chicken Biryani,127,98,29,29,22.83,over_production,150.8,5.2
+2025-12-16,item-paneer-02,Paneer Butter Masala,68,56,12,12,17.65,preparation_error,45.6,3.8
+2025-12-16,item-friedrice-03,Veg Fried Rice,73,51,22,22,30.14,over_production,55.0,2.5
+2025-12-16,item-salmon-04,Grilled Salmon,48,35,13,13,27.08,preparation_error,123.5,9.5
+2025-12-16,item-pizza-05,Margherita Pizza,88,69,19,19,21.59,over_production,60.8,3.2
+2025-12-16,item-salad-06,Caesar Salad,48,37,11,11,22.92,customer_leftover,24.2,2.2
+2025-12-17,item-biryani-01,Chicken Biryani,112,104,8,8,7.14,over_production,41.6,5.2
+2025-12-17,item-paneer-02,Paneer Butter Masala,76,62,14,14,18.42,over_production,53.2,3.8
+2025-12-17,item-friedrice-03,Veg Fried Rice,53,46,7,7,13.21,over_production,17.5,2.5
+2025-12-17,item-salmon-04,Grilled Salmon,45,35,10,10,22.22,over_production,95.0,9.5
+2025-12-17,item-pizza-05,Margherita Pizza,80,74,6,6,7.5,preparation_error,19.2,3.2
+2025-12-17,item-salad-06,Caesar Salad,51,42,9,9,17.65,over_production,19.8,2.2
+2025-12-18,item-biryani-01,Chicken Biryani,86,80,6,6,6.98,preparation_error,31.2,5.2
+2025-12-18,item-paneer-02,Paneer Butter Masala,81,63,18,18,22.22,over_production,68.4,3.8
+2025-12-18,item-friedrice-03,Veg Fried Rice,54,47,7,7,12.96,over_production,17.5,2.5
+2025-12-18,item-salmon-04,Grilled Salmon,37,30,7,7,18.92,expired_shelf_life,66.5,9.5
+2025-12-18,item-pizza-05,Margherita Pizza,74,61,13,13,17.57,over_production,41.6,3.2
+2025-12-18,item-salad-06,Caesar Salad,51,40,11,11,21.57,over_production,24.2,2.2
+2025-12-19,item-biryani-01,Chicken Biryani,141,131,10,10,7.09,over_production,52.0,5.2
+2025-12-19,item-paneer-02,Paneer Butter Masala,98,85,13,13,13.27,over_production,49.4,3.8
+2025-12-19,item-friedrice-03,Veg Fried Rice,67,52,15,15,22.39,preparation_error,37.5,2.5
+2025-12-19,item-salmon-04,Grilled Salmon,56,52,4,4,7.14,customer_leftover,38.0,9.5
+2025-12-19,item-pizza-05,Margherita Pizza,114,89,25,25,21.93,over_production,80.0,3.2
+2025-12-19,item-salad-06,Caesar Salad,54,47,7,7,12.96,over_production,15.4,2.2
+2025-12-20,item-biryani-01,Chicken Biryani,217,189,28,28,12.9,over_production,145.6,5.2
+2025-12-20,item-paneer-02,Paneer Butter Masala,142,111,31,31,21.83,over_production,117.8,3.8
+2025-12-20,item-friedrice-03,Veg Fried Rice,110,90,20,20,18.18,over_production,50.0,2.5
+2025-12-20,item-salmon-04,Grilled Salmon,92,72,20,20,21.74,over_production,190.0,9.5
+2025-12-20,item-pizza-05,Margherita Pizza,182,149,33,33,18.13,over_production,105.6,3.2
+2025-12-20,item-salad-06,Caesar Salad,78,64,14,14,17.95,customer_leftover,30.8,2.2
+2025-12-21,item-biryani-01,Chicken Biryani,158,137,21,21,13.29,over_production,109.2,5.2
+2025-12-21,item-paneer-02,Paneer Butter Masala,83,65,18,18,21.69,over_production,68.4,3.8
+2025-12-21,item-friedrice-03,Veg Fried Rice,68,56,12,12,17.65,over_production,30.0,2.5
+2025-12-21,item-salmon-04,Grilled Salmon,67,55,12,12,17.91,expired_shelf_life,114.0,9.5
+2025-12-21,item-pizza-05,Margherita Pizza,123,96,27,27,21.95,over_production,86.4,3.2
+2025-12-21,item-salad-06,Caesar Salad,65,51,14,14,21.54,over_production,30.8,2.2
+2025-12-22,item-biryani-01,Chicken Biryani,125,98,27,27,21.6,over_production,140.4,5.2
+2025-12-22,item-paneer-02,Paneer Butter Masala,76,59,17,17,22.37,over_production,64.6,3.8
+2025-12-22,item-friedrice-03,Veg Fried Rice,67,55,12,12,17.91,over_production,30.0,2.5
+2025-12-22,item-salmon-04,Grilled Salmon,41,36,5,5,12.2,expired_shelf_life,47.5,9.5
+2025-12-22,item-pizza-05,Margherita Pizza,83,72,11,11,13.25,customer_leftover,35.2,3.2
+2025-12-22,item-salad-06,Caesar Salad,50,39,11,11,22.0,preparation_error,24.2,2.2
+2025-12-23,item-biryani-01,Chicken Biryani,151,118,33,33,21.85,over_production,171.6,5.2
+2025-12-23,item-paneer-02,Paneer Butter Masala,89,77,12,12,13.48,over_production,45.6,3.8
+2025-12-23,item-friedrice-03,Veg Fried Rice,65,60,5,5,7.69,customer_leftover,12.5,2.5
+2025-12-23,item-salmon-04,Grilled Salmon,49,45,4,4,8.16,preparation_error,38.0,9.5
+2025-12-23,item-pizza-05,Margherita Pizza,117,102,15,15,12.82,customer_leftover,48.0,3.2
+2025-12-23,item-salad-06,Caesar Salad,68,53,15,15,22.06,preparation_error,33.0,2.2
+2025-12-24,item-biryani-01,Chicken Biryani,116,107,9,9,7.76,over_production,46.8,5.2
+2025-12-24,item-paneer-02,Paneer Butter Masala,74,58,16,16,21.62,over_production,60.8,3.8
+2025-12-24,item-friedrice-03,Veg Fried Rice,48,42,6,6,12.5,over_production,15.0,2.5
+2025-12-24,item-salmon-04,Grilled Salmon,35,32,3,3,8.57,expired_shelf_life,28.5,9.5
+2025-12-24,item-pizza-05,Margherita Pizza,73,60,13,13,17.81,customer_leftover,41.6,3.2
+2025-12-24,item-salad-06,Caesar Salad,48,39,9,9,18.75,over_production,19.8,2.2
+2025-12-25,item-biryani-01,Chicken Biryani,120,111,9,9,7.5,customer_leftover,46.8,5.2
+2025-12-25,item-paneer-02,Paneer Butter Masala,79,62,17,17,21.52,over_production,64.6,3.8
+2025-12-25,item-friedrice-03,Veg Fried Rice,56,49,7,7,12.5,preparation_error,17.5,2.5
+2025-12-25,item-salmon-04,Grilled Salmon,47,37,10,10,21.28,over_production,95.0,9.5
+2025-12-25,item-pizza-05,Margherita Pizza,63,58,5,5,7.94,over_production,16.0,3.2
+2025-12-25,item-salad-06,Caesar Salad,44,41,3,3,6.82,customer_leftover,6.6,2.2
+2025-12-26,item-biryani-01,Chicken Biryani,133,109,24,24,18.05,over_production,124.8,5.2
+2025-12-26,item-paneer-02,Paneer Butter Masala,101,88,13,13,12.87,customer_leftover,49.4,3.8
+2025-12-26,item-friedrice-03,Veg Fried Rice,76,62,14,14,18.42,over_production,35.0,2.5
+2025-12-26,item-salmon-04,Grilled Salmon,59,51,8,8,13.56,over_production,76.0,9.5
+2025-12-26,item-pizza-05,Margherita Pizza,132,103,29,29,21.97,over_production,92.8,3.2
+2025-12-26,item-salad-06,Caesar Salad,72,59,13,13,18.06,preparation_error,28.6,2.2
+2025-12-27,item-biryani-01,Chicken Biryani,221,192,29,29,13.12,over_production,150.8,5.2
+2025-12-27,item-paneer-02,Paneer Butter Masala,132,103,29,29,21.97,over_production,110.2,3.8
+2025-12-27,item-friedrice-03,Veg Fried Rice,100,87,13,13,13.0,over_production,32.5,2.5
+2025-12-27,item-salmon-04,Grilled Salmon,96,75,21,21,21.88,over_production,199.5,9.5
+2025-12-27,item-pizza-05,Margherita Pizza,155,121,34,34,21.94,over_production,108.8,3.2
+2025-12-27,item-salad-06,Caesar Salad,83,65,18,18,21.69,over_production,39.6,2.2
+2025-12-28,item-biryani-01,Chicken Biryani,236,184,52,52,22.03,over_production,270.4,5.2
+2025-12-28,item-paneer-02,Paneer Butter Masala,112,104,8,8,7.14,over_production,30.4,3.8
+2025-12-28,item-friedrice-03,Veg Fried Rice,118,97,21,21,17.8,over_production,52.5,2.5
+2025-12-28,item-salmon-04,Grilled Salmon,68,63,5,5,7.35,preparation_error,47.5,9.5
+2025-12-28,item-pizza-05,Margherita Pizza,130,120,10,10,7.69,customer_leftover,32.0,3.2
+2025-12-28,item-salad-06,Caesar Salad,74,58,16,16,21.62,over_production,35.2,2.2
+2025-12-29,item-biryani-01,Chicken Biryani,109,101,8,8,7.34,over_production,41.6,5.2
+2025-12-29,item-paneer-02,Paneer Butter Masala,78,64,14,14,17.95,preparation_error,53.2,3.8
+2025-12-29,item-friedrice-03,Veg Fried Rice,59,46,13,13,22.03,over_production,32.5,2.5
+2025-12-29,item-salmon-04,Grilled Salmon,40,37,3,3,7.5,over_production,28.5,9.5
+2025-12-29,item-pizza-05,Margherita Pizza,100,78,22,22,22.0,over_production,70.4,3.2
+2025-12-29,item-salad-06,Caesar Salad,47,41,6,6,12.77,over_production,13.2,2.2
+2025-12-30,item-biryani-01,Chicken Biryani,102,80,22,22,21.57,over_production,114.4,5.2
+2025-12-30,item-paneer-02,Paneer Butter Masala,58,54,4,4,6.9,customer_leftover,15.2,3.8
+2025-12-30,item-friedrice-03,Veg Fried Rice,55,43,12,12,21.82,over_production,30.0,2.5
+2025-12-30,item-salmon-04,Grilled Salmon,57,53,4,4,7.02,customer_leftover,38.0,9.5
+2025-12-30,item-pizza-05,Margherita Pizza,80,74,6,6,7.5,preparation_error,19.2,3.2
+2025-12-30,item-salad-06,Caesar Salad,46,40,6,6,13.04,over_production,13.2,2.2
+2025-12-31,item-biryani-01,Chicken Biryani,89,77,12,12,13.48,over_production,62.4,5.2
+2025-12-31,item-paneer-02,Paneer Butter Masala,88,72,16,16,18.18,over_production,60.8,3.8
+2025-12-31,item-friedrice-03,Veg Fried Rice,70,61,9,9,12.86,over_production,22.5,2.5
+2025-12-31,item-salmon-04,Grilled Salmon,43,35,8,8,18.6,over_production,76.0,9.5
+2025-12-31,item-pizza-05,Margherita Pizza,95,74,21,21,22.11,over_production,67.2,3.2
+2025-12-31,item-salad-06,Caesar Salad,51,42,9,9,17.65,over_production,19.8,2.2
+2026-01-01,item-biryani-01,Chicken Biryani,102,80,22,22,21.57,over_production,114.4,5.2
+2026-01-01,item-paneer-02,Paneer Butter Masala,79,62,17,17,21.52,over_production,64.6,3.8
+2026-01-01,item-friedrice-03,Veg Fried Rice,67,58,9,9,13.43,over_production,22.5,2.5
+2026-01-01,item-salmon-04,Grilled Salmon,42,39,3,3,7.14,customer_leftover,28.5,9.5
+2026-01-01,item-pizza-05,Margherita Pizza,91,79,12,12,13.19,preparation_error,38.4,3.2
+2026-01-01,item-salad-06,Caesar Salad,41,38,3,3,7.32,customer_leftover,6.6,2.2
+2026-01-02,item-biryani-01,Chicken Biryani,171,140,31,31,18.13,over_production,161.2,5.2
+2026-01-02,item-paneer-02,Paneer Butter Masala,87,81,6,6,6.9,customer_leftover,22.8,3.8
+2026-01-02,item-friedrice-03,Veg Fried Rice,83,65,18,18,21.69,over_production,45.0,2.5
+2026-01-02,item-salmon-04,Grilled Salmon,52,45,7,7,13.46,expired_shelf_life,66.5,9.5
+2026-01-02,item-pizza-05,Margherita Pizza,134,110,24,24,17.91,over_production,76.8,3.2
+2026-01-02,item-salad-06,Caesar Salad,63,49,14,14,22.22,over_production,30.8,2.2
+2026-01-03,item-biryani-01,Chicken Biryani,177,138,39,39,22.03,over_production,202.8,5.2
+2026-01-03,item-paneer-02,Paneer Butter Masala,90,74,16,16,17.78,over_production,60.8,3.8
+2026-01-03,item-friedrice-03,Veg Fried Rice,81,66,15,15,18.52,customer_leftover,37.5,2.5
+2026-01-03,item-salmon-04,Grilled Salmon,64,56,8,8,12.5,expired_shelf_life,76.0,9.5
+2026-01-03,item-pizza-05,Margherita Pizza,119,93,26,26,21.85,over_production,83.2,3.2
+2026-01-03,item-salad-06,Caesar Salad,54,47,7,7,12.96,over_production,15.4,2.2
+2026-01-04,item-biryani-01,Chicken Biryani,206,161,45,45,21.84,over_production,234.0,5.2
+2026-01-04,item-paneer-02,Paneer Butter Masala,101,79,22,22,21.78,over_production,83.6,3.8
+2026-01-04,item-friedrice-03,Veg Fried Rice,65,53,12,12,18.46,preparation_error,30.0,2.5
+2026-01-04,item-salmon-04,Grilled Salmon,65,51,14,14,21.54,expired_shelf_life,133.0,9.5
+2026-01-04,item-pizza-05,Margherita Pizza,104,96,8,8,7.69,over_production,25.6,3.2
+2026-01-04,item-salad-06,Caesar Salad,51,47,4,4,7.84,over_production,8.8,2.2
+2026-01-05,item-biryani-01,Chicken Biryani,160,125,35,35,21.88,over_production,182.0,5.2
+2026-01-05,item-paneer-02,Paneer Butter Masala,81,63,18,18,22.22,over_production,68.4,3.8
+2026-01-05,item-friedrice-03,Veg Fried Rice,62,57,5,5,8.06,preparation_error,12.5,2.5
+2026-01-05,item-salmon-04,Grilled Salmon,41,38,3,3,7.32,expired_shelf_life,28.5,9.5
+2026-01-05,item-pizza-05,Margherita Pizza,83,68,15,15,18.07,preparation_error,48.0,3.2
+2026-01-05,item-salad-06,Caesar Salad,46,36,10,10,21.74,over_production,22.0,2.2
+2026-01-06,item-biryani-01,Chicken Biryani,116,85,31,31,26.72,over_production,161.2,5.2
+2026-01-06,item-paneer-02,Paneer Butter Masala,68,56,12,12,17.65,customer_leftover,45.6,3.8
+2026-01-06,item-friedrice-03,Veg Fried Rice,76,53,23,23,30.26,over_production,57.5,2.5
+2026-01-06,item-salmon-04,Grilled Salmon,45,35,10,10,22.22,expired_shelf_life,95.0,9.5
+2026-01-06,item-pizza-05,Margherita Pizza,77,71,6,6,7.79,over_production,19.2,3.2
+2026-01-06,item-salad-06,Caesar Salad,59,48,11,11,18.64,over_production,24.2,2.2
+2026-01-07,item-biryani-01,Chicken Biryani,180,141,39,39,21.67,over_production,202.8,5.2
+2026-01-07,item-paneer-02,Paneer Butter Masala,57,47,10,10,17.54,over_production,38.0,3.8
+2026-01-07,item-friedrice-03,Veg Fried Rice,54,50,4,4,7.41,over_production,10.0,2.5
+2026-01-07,item-salmon-04,Grilled Salmon,41,32,9,9,21.95,expired_shelf_life,85.5,9.5
+2026-01-07,item-pizza-05,Margherita Pizza,77,63,14,14,18.18,over_production,44.8,3.2
+2026-01-07,item-salad-06,Caesar Salad,60,49,11,11,18.33,preparation_error,24.2,2.2
+2026-01-08,item-biryani-01,Chicken Biryani,90,83,7,7,7.78,over_production,36.4,5.2
+2026-01-08,item-paneer-02,Paneer Butter Masala,76,59,17,17,22.37,over_production,64.6,3.8
+2026-01-08,item-friedrice-03,Veg Fried Rice,63,52,11,11,17.46,over_production,27.5,2.5
+2026-01-08,item-salmon-04,Grilled Salmon,40,37,3,3,7.5,customer_leftover,28.5,9.5
+2026-01-08,item-pizza-05,Margherita Pizza,68,63,5,5,7.35,over_production,16.0,3.2
+2026-01-08,item-salad-06,Caesar Salad,50,39,11,11,22.0,over_production,24.2,2.2
+2026-01-09,item-biryani-01,Chicken Biryani,188,147,41,41,21.81,over_production,213.2,5.2
+2026-01-09,item-paneer-02,Paneer Butter Masala,97,76,21,21,21.65,over_production,79.8,3.8
+2026-01-09,item-friedrice-03,Veg Fried Rice,87,71,16,16,18.39,over_production,40.0,2.5
+2026-01-09,item-salmon-04,Grilled Salmon,57,53,4,4,7.02,expired_shelf_life,38.0,9.5
+2026-01-09,item-pizza-05,Margherita Pizza,106,92,14,14,13.21,over_production,44.8,3.2
+2026-01-09,item-salad-06,Caesar Salad,62,57,5,5,8.06,over_production,11.0,2.2
+2026-01-10,item-biryani-01,Chicken Biryani,166,130,36,36,21.69,over_production,187.2,5.2
+2026-01-10,item-paneer-02,Paneer Butter Masala,120,111,9,9,7.5,customer_leftover,34.2,3.8
+2026-01-10,item-friedrice-03,Veg Fried Rice,70,57,13,13,18.57,customer_leftover,32.5,2.5
+2026-01-10,item-salmon-04,Grilled Salmon,58,54,4,4,6.9,over_production,38.0,9.5
+2026-01-10,item-pizza-05,Margherita Pizza,117,102,15,15,12.82,customer_leftover,48.0,3.2
+2026-01-10,item-salad-06,Caesar Salad,67,55,12,12,17.91,customer_leftover,26.4,2.2
+2026-01-11,item-biryani-01,Chicken Biryani,166,144,22,22,13.25,over_production,114.4,5.2
+2026-01-11,item-paneer-02,Paneer Butter Masala,106,83,23,23,21.7,over_production,87.4,3.8
+2026-01-11,item-friedrice-03,Veg Fried Rice,78,68,10,10,12.82,customer_leftover,25.0,2.5
+2026-01-11,item-salmon-04,Grilled Salmon,83,65,18,18,21.69,over_production,171.0,9.5
+2026-01-11,item-pizza-05,Margherita Pizza,119,93,26,26,21.85,over_production,83.2,3.2
+2026-01-11,item-salad-06,Caesar Salad,56,46,10,10,17.86,over_production,22.0,2.2
+2026-01-12,item-biryani-01,Chicken Biryani,129,112,17,17,13.18,over_production,88.4,5.2
+2026-01-12,item-paneer-02,Paneer Butter Masala,62,54,8,8,12.9,over_production,30.4,3.8
+2026-01-12,item-friedrice-03,Veg Fried Rice,60,47,13,13,21.67,over_production,32.5,2.5
+2026-01-12,item-salmon-04,Grilled Salmon,48,39,9,9,18.75,customer_leftover,85.5,9.5
+2026-01-12,item-pizza-05,Margherita Pizza,69,60,9,9,13.04,over_production,28.8,3.2
+2026-01-12,item-salad-06,Caesar Salad,54,42,12,12,22.22,customer_leftover,26.4,2.2
+2026-01-13,item-biryani-01,Chicken Biryani,137,107,30,30,21.9,over_production,156.0,5.2
+2026-01-13,item-paneer-02,Paneer Butter Masala,57,50,7,7,12.28,customer_leftover,26.6,3.8
+2026-01-13,item-friedrice-03,Veg Fried Rice,55,43,12,12,21.82,customer_leftover,30.0,2.5
+2026-01-13,item-salmon-04,Grilled Salmon,42,33,9,9,21.43,over_production,85.5,9.5
+2026-01-13,item-pizza-05,Margherita Pizza,96,75,21,21,21.88,over_production,67.2,3.2
+2026-01-13,item-salad-06,Caesar Salad,49,40,9,9,18.37,over_production,19.8,2.2
+2026-01-14,item-biryani-01,Chicken Biryani,132,108,24,24,18.18,over_production,124.8,5.2
+2026-01-14,item-paneer-02,Paneer Butter Masala,76,70,6,6,7.89,over_production,22.8,3.8
+2026-01-14,item-friedrice-03,Veg Fried Rice,65,53,12,12,18.46,over_production,30.0,2.5
+2026-01-14,item-salmon-04,Grilled Salmon,55,45,10,10,18.18,expired_shelf_life,95.0,9.5
+2026-01-14,item-pizza-05,Margherita Pizza,78,68,10,10,12.82,over_production,32.0,3.2
+2026-01-14,item-salad-06,Caesar Salad,41,36,5,5,12.2,customer_leftover,11.0,2.2
+2026-01-15,item-biryani-01,Chicken Biryani,146,112,34,34,23.29,over_production,176.8,5.2
+2026-01-15,item-paneer-02,Paneer Butter Masala,67,55,12,12,17.91,customer_leftover,45.6,3.8
+2026-01-15,item-friedrice-03,Veg Fried Rice,74,52,22,22,29.73,over_production,55.0,2.5
+2026-01-15,item-salmon-04,Grilled Salmon,59,41,18,18,30.51,over_production,171.0,9.5
+2026-01-15,item-pizza-05,Margherita Pizza,93,76,17,17,18.28,over_production,54.4,3.2
+2026-01-15,item-salad-06,Caesar Salad,62,50,12,12,19.35,preparation_error,26.4,2.2
+2026-01-16,item-biryani-01,Chicken Biryani,153,133,20,20,13.07,over_production,104.0,5.2
+2026-01-16,item-paneer-02,Paneer Butter Masala,106,92,14,14,13.21,over_production,53.2,3.8
+2026-01-16,item-friedrice-03,Veg Fried Rice,83,65,18,18,21.69,over_production,45.0,2.5
+2026-01-16,item-salmon-04,Grilled Salmon,52,45,7,7,13.46,customer_leftover,66.5,9.5
+2026-01-16,item-pizza-05,Margherita Pizza,101,88,13,13,12.87,over_production,41.6,3.2
+2026-01-16,item-salad-06,Caesar Salad,66,57,9,9,13.64,over_production,19.8,2.2
+2026-01-17,item-biryani-01,Chicken Biryani,195,170,25,25,12.82,over_production,130.0,5.2
+2026-01-17,item-paneer-02,Paneer Butter Masala,115,100,15,15,13.04,over_production,57.0,3.8
+2026-01-17,item-friedrice-03,Veg Fried Rice,96,79,17,17,17.71,over_production,42.5,2.5
+2026-01-17,item-salmon-04,Grilled Salmon,84,66,18,18,21.43,over_production,171.0,9.5
+2026-01-17,item-pizza-05,Margherita Pizza,150,123,27,27,18.0,over_production,86.4,3.2
+2026-01-17,item-salad-06,Caesar Salad,74,58,16,16,21.62,over_production,35.2,2.2
+2026-01-18,item-biryani-01,Chicken Biryani,136,126,10,10,7.35,over_production,52.0,5.2
+2026-01-18,item-paneer-02,Paneer Butter Masala,81,75,6,6,7.41,preparation_error,22.8,3.8
+2026-01-18,item-friedrice-03,Veg Fried Rice,83,65,18,18,21.69,over_production,45.0,2.5
+2026-01-18,item-salmon-04,Grilled Salmon,56,49,7,7,12.5,over_production,66.5,9.5
+2026-01-18,item-pizza-05,Margherita Pizza,137,119,18,18,13.14,over_production,57.6,3.2
+2026-01-18,item-salad-06,Caesar Salad,67,52,15,15,22.39,customer_leftover,33.0,2.2
+2026-01-19,item-biryani-01,Chicken Biryani,101,79,22,22,21.78,over_production,114.4,5.2
+2026-01-19,item-paneer-02,Paneer Butter Masala,81,63,18,18,22.22,over_production,68.4,3.8
+2026-01-19,item-friedrice-03,Veg Fried Rice,61,48,13,13,21.31,over_production,32.5,2.5
+2026-01-19,item-salmon-04,Grilled Salmon,45,35,10,10,22.22,preparation_error,95.0,9.5
+2026-01-19,item-pizza-05,Margherita Pizza,136,118,18,18,13.24,over_production,57.6,3.2
+2026-01-19,item-salad-06,Caesar Salad,49,40,9,9,18.37,over_production,19.8,2.2
+2026-01-20,item-biryani-01,Chicken Biryani,86,80,6,6,6.98,over_production,31.2,5.2
+2026-01-20,item-paneer-02,Paneer Butter Masala,73,60,13,13,17.81,over_production,49.4,3.8
+2026-01-20,item-friedrice-03,Veg Fried Rice,73,57,16,16,21.92,over_production,40.0,2.5
+2026-01-20,item-salmon-04,Grilled Salmon,42,33,9,9,21.43,expired_shelf_life,85.5,9.5
+2026-01-20,item-pizza-05,Margherita Pizza,92,80,12,12,13.04,over_production,38.4,3.2
+2026-01-20,item-salad-06,Caesar Salad,51,42,9,9,17.65,customer_leftover,19.8,2.2
+2026-01-21,item-biryani-01,Chicken Biryani,126,103,23,23,18.25,over_production,119.6,5.2
+2026-01-21,item-paneer-02,Paneer Butter Masala,83,65,18,18,21.69,over_production,68.4,3.8
+2026-01-21,item-friedrice-03,Veg Fried Rice,60,52,8,8,13.33,over_production,20.0,2.5
+2026-01-21,item-salmon-04,Grilled Salmon,38,31,7,7,18.42,customer_leftover,66.5,9.5
+2026-01-21,item-pizza-05,Margherita Pizza,81,66,15,15,18.52,over_production,48.0,3.2
+2026-01-21,item-salad-06,Caesar Salad,42,39,3,3,7.14,preparation_error,6.6,2.2
+2026-01-22,item-biryani-01,Chicken Biryani,118,103,15,15,12.71,customer_leftover,78.0,5.2
+2026-01-22,item-paneer-02,Paneer Butter Masala,74,61,13,13,17.57,over_production,49.4,3.8
+2026-01-22,item-friedrice-03,Veg Fried Rice,58,45,13,13,22.41,preparation_error,32.5,2.5
+2026-01-22,item-salmon-04,Grilled Salmon,46,36,10,10,21.74,expired_shelf_life,95.0,9.5
+2026-01-22,item-pizza-05,Margherita Pizza,111,103,8,8,7.21,over_production,25.6,3.2
+2026-01-22,item-salad-06,Caesar Salad,51,42,9,9,17.65,over_production,19.8,2.2
+2026-01-23,item-biryani-01,Chicken Biryani,219,171,48,48,21.92,over_production,249.6,5.2
+2026-01-23,item-paneer-02,Paneer Butter Masala,102,84,18,18,17.65,over_production,68.4,3.8
+2026-01-23,item-friedrice-03,Veg Fried Rice,77,60,17,17,22.08,over_production,42.5,2.5
+2026-01-23,item-salmon-04,Grilled Salmon,59,46,13,13,22.03,over_production,123.5,9.5
+2026-01-23,item-pizza-05,Margherita Pizza,116,101,15,15,12.93,over_production,48.0,3.2
+2026-01-23,item-salad-06,Caesar Salad,55,51,4,4,7.27,preparation_error,8.8,2.2
+2026-01-24,item-biryani-01,Chicken Biryani,188,147,41,41,21.81,over_production,213.2,5.2
+2026-01-24,item-paneer-02,Paneer Butter Masala,156,122,34,34,21.79,over_production,129.2,3.8
+2026-01-24,item-friedrice-03,Veg Fried Rice,97,84,13,13,13.4,over_production,32.5,2.5
+2026-01-24,item-salmon-04,Grilled Salmon,85,70,15,15,17.65,expired_shelf_life,142.5,9.5
+2026-01-24,item-pizza-05,Margherita Pizza,148,137,11,11,7.43,over_production,35.2,3.2
+2026-01-24,item-salad-06,Caesar Salad,83,65,18,18,21.69,over_production,39.6,2.2
+2026-01-25,item-biryani-01,Chicken Biryani,186,172,14,14,7.53,preparation_error,72.8,5.2
+2026-01-25,item-paneer-02,Paneer Butter Masala,90,78,12,12,13.33,over_production,45.6,3.8
+2026-01-25,item-friedrice-03,Veg Fried Rice,65,60,5,5,7.69,over_production,12.5,2.5
+2026-01-25,item-salmon-04,Grilled Salmon,65,51,14,14,21.54,customer_leftover,133.0,9.5
+2026-01-25,item-pizza-05,Margherita Pizza,143,132,11,11,7.69,preparation_error,35.2,3.2
+2026-01-25,item-salad-06,Caesar Salad,60,49,11,11,18.33,preparation_error,24.2,2.2
+2026-01-26,item-biryani-01,Chicken Biryani,94,82,12,12,12.77,preparation_error,62.4,5.2
+2026-01-26,item-paneer-02,Paneer Butter Masala,76,66,10,10,13.16,over_production,38.0,3.8
+2026-01-26,item-friedrice-03,Veg Fried Rice,53,46,7,7,13.21,over_production,17.5,2.5
+2026-01-26,item-salmon-04,Grilled Salmon,39,34,5,5,12.82,expired_shelf_life,47.5,9.5
+2026-01-26,item-pizza-05,Margherita Pizza,103,95,8,8,7.77,over_production,25.6,3.2
+2026-01-26,item-salad-06,Caesar Salad,55,45,10,10,18.18,customer_leftover,22.0,2.2
+2026-01-27,item-biryani-01,Chicken Biryani,112,92,20,20,17.86,over_production,104.0,5.2
+2026-01-27,item-paneer-02,Paneer Butter Masala,57,53,4,4,7.02,over_production,15.2,3.8
+2026-01-27,item-friedrice-03,Veg Fried Rice,59,51,8,8,13.56,over_production,20.0,2.5
+2026-01-27,item-salmon-04,Grilled Salmon,59,51,8,8,13.56,preparation_error,76.0,9.5
+2026-01-27,item-pizza-05,Margherita Pizza,76,70,6,6,7.89,over_production,19.2,3.2
+2026-01-27,item-salad-06,Caesar Salad,52,43,9,9,17.31,preparation_error,19.8,2.2
+2026-01-28,item-biryani-01,Chicken Biryani,140,109,31,31,22.14,over_production,161.2,5.2
+2026-01-28,item-paneer-02,Paneer Butter Masala,77,71,6,6,7.79,preparation_error,22.8,3.8
+2026-01-28,item-friedrice-03,Veg Fried Rice,71,58,13,13,18.31,over_production,32.5,2.5
+2026-01-28,item-salmon-04,Grilled Salmon,44,34,10,10,22.73,over_production,95.0,9.5
+2026-01-28,item-pizza-05,Margherita Pizza,100,78,22,22,22.0,over_production,70.4,3.2
+2026-01-28,item-salad-06,Caesar Salad,62,54,8,8,12.9,over_production,17.6,2.2
+2026-01-29,item-biryani-01,Chicken Biryani,120,94,26,26,21.67,over_production,135.2,5.2
+2026-01-29,item-paneer-02,Paneer Butter Masala,64,59,5,5,7.81,over_production,19.0,3.8
+2026-01-29,item-friedrice-03,Veg Fried Rice,52,45,7,7,13.46,preparation_error,17.5,2.5
+2026-01-29,item-salmon-04,Grilled Salmon,56,44,12,12,21.43,expired_shelf_life,114.0,9.5
+2026-01-29,item-pizza-05,Margherita Pizza,69,64,5,5,7.25,over_production,16.0,3.2
+2026-01-29,item-salad-06,Caesar Salad,41,38,3,3,7.32,preparation_error,6.6,2.2
+2026-01-30,item-biryani-01,Chicken Biryani,203,148,55,55,27.09,over_production,286.0,5.2
+2026-01-30,item-paneer-02,Paneer Butter Masala,108,94,14,14,12.96,over_production,53.2,3.8
+2026-01-30,item-friedrice-03,Veg Fried Rice,96,78,18,18,18.75,over_production,45.0,2.5
+2026-01-30,item-salmon-04,Grilled Salmon,74,60,14,14,18.92,expired_shelf_life,133.0,9.5
+2026-01-30,item-pizza-05,Margherita Pizza,129,119,10,10,7.75,over_production,32.0,3.2
+2026-01-30,item-salad-06,Caesar Salad,96,67,29,29,30.21,over_production,63.8,2.2
+2026-01-31,item-biryani-01,Chicken Biryani,201,165,36,36,17.91,over_production,187.2,5.2
+2026-01-31,item-paneer-02,Paneer Butter Masala,104,96,8,8,7.69,over_production,30.4,3.8
+2026-01-31,item-friedrice-03,Veg Fried Rice,70,65,5,5,7.14,over_production,12.5,2.5
+2026-01-31,item-salmon-04,Grilled Salmon,64,56,8,8,12.5,expired_shelf_life,76.0,9.5
+2026-01-31,item-pizza-05,Margherita Pizza,107,99,8,8,7.48,over_production,25.6,3.2
+2026-01-31,item-salad-06,Caesar Salad,64,50,14,14,21.88,customer_leftover,30.8,2.2
+2026-02-01,item-biryani-01,Chicken Biryani,164,152,12,12,7.32,preparation_error,62.4,5.2
+2026-02-01,item-paneer-02,Paneer Butter Masala,84,78,6,6,7.14,customer_leftover,22.8,3.8
+2026-02-01,item-friedrice-03,Veg Fried Rice,72,59,13,13,18.06,over_production,32.5,2.5
+2026-02-01,item-salmon-04,Grilled Salmon,88,69,19,19,21.59,over_production,180.5,9.5
+2026-02-01,item-pizza-05,Margherita Pizza,143,124,19,19,13.29,over_production,60.8,3.2
+2026-02-01,item-salad-06,Caesar Salad,65,53,12,12,18.46,customer_leftover,26.4,2.2
+2026-02-02,item-biryani-01,Chicken Biryani,100,87,13,13,13.0,preparation_error,67.6,5.2
+2026-02-02,item-paneer-02,Paneer Butter Masala,63,58,5,5,7.94,over_production,19.0,3.8
+2026-02-02,item-friedrice-03,Veg Fried Rice,51,47,4,4,7.84,customer_leftover,10.0,2.5
+2026-02-02,item-salmon-04,Grilled Salmon,40,33,7,7,17.5,expired_shelf_life,66.5,9.5
+2026-02-02,item-pizza-05,Margherita Pizza,95,83,12,12,12.63,over_production,38.4,3.2
+2026-02-02,item-salad-06,Caesar Salad,49,43,6,6,12.24,customer_leftover,13.2,2.2
+2026-02-03,item-biryani-01,Chicken Biryani,105,86,19,19,18.1,over_production,98.8,5.2
+2026-02-03,item-paneer-02,Paneer Butter Masala,63,58,5,5,7.94,over_production,19.0,3.8
+2026-02-03,item-friedrice-03,Veg Fried Rice,67,52,15,15,22.39,preparation_error,37.5,2.5
+2026-02-03,item-salmon-04,Grilled Salmon,47,37,10,10,21.28,preparation_error,95.0,9.5
+2026-02-03,item-pizza-05,Margherita Pizza,93,76,17,17,18.28,over_production,54.4,3.2
+2026-02-03,item-salad-06,Caesar Salad,47,37,10,10,21.28,over_production,22.0,2.2
+2026-02-04,item-biryani-01,Chicken Biryani,79,73,6,6,7.59,preparation_error,31.2,5.2
+2026-02-04,item-paneer-02,Paneer Butter Masala,69,54,15,15,21.74,customer_leftover,57.0,3.8
+2026-02-04,item-friedrice-03,Veg Fried Rice,62,54,8,8,12.9,over_production,20.0,2.5
+2026-02-04,item-salmon-04,Grilled Salmon,35,32,3,3,8.57,expired_shelf_life,28.5,9.5
+2026-02-04,item-pizza-05,Margherita Pizza,70,65,5,5,7.14,over_production,16.0,3.2
+2026-02-04,item-salad-06,Caesar Salad,46,40,6,6,13.04,over_production,13.2,2.2
+2026-02-05,item-biryani-01,Chicken Biryani,112,78,34,34,30.36,over_production,176.8,5.2
+2026-02-05,item-paneer-02,Paneer Butter Masala,69,60,9,9,13.04,preparation_error,34.2,3.8
+2026-02-05,item-friedrice-03,Veg Fried Rice,86,66,20,20,23.26,over_production,50.0,2.5
+2026-02-05,item-salmon-04,Grilled Salmon,52,42,10,10,19.23,customer_leftover,95.0,9.5
+2026-02-05,item-pizza-05,Margherita Pizza,82,67,15,15,18.29,over_production,48.0,3.2
+2026-02-05,item-salad-06,Caesar Salad,63,46,17,17,26.98,over_production,37.4,2.2
+2026-02-06,item-biryani-01,Chicken Biryani,166,130,36,36,21.69,over_production,187.2,5.2
+2026-02-06,item-paneer-02,Paneer Butter Masala,100,93,7,7,7.0,over_production,26.6,3.8
+2026-02-06,item-friedrice-03,Veg Fried Rice,68,63,5,5,7.35,customer_leftover,12.5,2.5
+2026-02-06,item-salmon-04,Grilled Salmon,65,51,14,14,21.54,customer_leftover,133.0,9.5
+2026-02-06,item-pizza-05,Margherita Pizza,118,103,15,15,12.71,over_production,48.0,3.2
+2026-02-06,item-salad-06,Caesar Salad,69,54,15,15,21.74,customer_leftover,33.0,2.2
+2026-02-07,item-biryani-01,Chicken Biryani,147,136,11,11,7.48,preparation_error,57.2,5.2
+2026-02-07,item-paneer-02,Paneer Butter Masala,118,92,26,26,22.03,over_production,98.8,3.8
+2026-02-07,item-friedrice-03,Veg Fried Rice,78,68,10,10,12.82,over_production,25.0,2.5
+2026-02-07,item-salmon-04,Grilled Salmon,79,62,17,17,21.52,over_production,161.5,9.5
+2026-02-07,item-pizza-05,Margherita Pizza,133,109,24,24,18.05,over_production,76.8,3.2
+2026-02-07,item-salad-06,Caesar Salad,65,51,14,14,21.54,over_production,30.8,2.2
+2026-02-08,item-biryani-01,Chicken Biryani,268,220,48,48,17.91,over_production,249.6,5.2
+2026-02-08,item-paneer-02,Paneer Butter Masala,151,118,33,33,21.85,over_production,125.4,3.8
+2026-02-08,item-friedrice-03,Veg Fried Rice,89,77,12,12,13.48,customer_leftover,30.0,2.5
+2026-02-08,item-salmon-04,Grilled Salmon,78,64,14,14,17.95,over_production,133.0,9.5
+2026-02-08,item-pizza-05,Margherita Pizza,141,123,18,18,12.77,over_production,57.6,3.2
+2026-02-08,item-salad-06,Caesar Salad,88,69,19,19,21.59,over_production,41.8,2.2
+2026-02-09,item-biryani-01,Chicken Biryani,104,85,19,19,18.27,over_production,98.8,5.2
+2026-02-09,item-paneer-02,Paneer Butter Masala,65,53,12,12,18.46,customer_leftover,45.6,3.8
+2026-02-09,item-friedrice-03,Veg Fried Rice,61,53,8,8,13.11,customer_leftover,20.0,2.5
+2026-02-09,item-salmon-04,Grilled Salmon,47,37,10,10,21.28,preparation_error,95.0,9.5
+2026-02-09,item-pizza-05,Margherita Pizza,124,115,9,9,7.26,customer_leftover,28.8,3.2
+2026-02-09,item-salad-06,Caesar Salad,42,39,3,3,7.14,over_production,6.6,2.2
+2026-02-10,item-biryani-01,Chicken Biryani,106,87,19,19,17.92,over_production,98.8,5.2
+2026-02-10,item-paneer-02,Paneer Butter Masala,97,84,13,13,13.4,over_production,49.4,3.8
+2026-02-10,item-friedrice-03,Veg Fried Rice,61,50,11,11,18.03,over_production,27.5,2.5
+2026-02-10,item-salmon-04,Grilled Salmon,46,36,10,10,21.74,over_production,95.0,9.5
+2026-02-10,item-pizza-05,Margherita Pizza,93,73,20,20,21.51,over_production,64.0,3.2
+2026-02-10,item-salad-06,Caesar Salad,52,41,11,11,21.15,customer_leftover,24.2,2.2
+2026-02-11,item-biryani-01,Chicken Biryani,99,86,13,13,13.13,over_production,67.6,5.2
+2026-02-11,item-paneer-02,Paneer Butter Masala,79,65,14,14,17.72,preparation_error,53.2,3.8
+2026-02-11,item-friedrice-03,Veg Fried Rice,59,46,13,13,22.03,over_production,32.5,2.5
+2026-02-11,item-salmon-04,Grilled Salmon,40,35,5,5,12.5,over_production,47.5,9.5
+2026-02-11,item-pizza-05,Margherita Pizza,71,66,5,5,7.04,customer_leftover,16.0,3.2
+2026-02-11,item-salad-06,Caesar Salad,51,44,7,7,13.73,over_production,15.4,2.2
+2026-02-12,item-biryani-01,Chicken Biryani,113,93,20,20,17.7,over_production,104.0,5.2
+2026-02-12,item-paneer-02,Paneer Butter Masala,76,62,14,14,18.42,over_production,53.2,3.8
+2026-02-12,item-friedrice-03,Veg Fried Rice,60,56,4,4,6.67,customer_leftover,10.0,2.5
+2026-02-12,item-salmon-04,Grilled Salmon,45,35,10,10,22.22,over_production,95.0,9.5
+2026-02-12,item-pizza-05,Margherita Pizza,86,67,19,19,22.09,over_production,60.8,3.2
+2026-02-12,item-salad-06,Caesar Salad,70,55,15,15,21.43,over_production,33.0,2.2
+2026-02-13,item-biryani-01,Chicken Biryani,126,117,9,9,7.14,over_production,46.8,5.2
+2026-02-13,item-paneer-02,Paneer Butter Masala,91,84,7,7,7.69,over_production,26.6,3.8
+2026-02-13,item-friedrice-03,Veg Fried Rice,63,58,5,5,7.94,over_production,12.5,2.5
+2026-02-13,item-salmon-04,Grilled Salmon,83,65,18,18,21.69,over_production,171.0,9.5
+2026-02-13,item-pizza-05,Margherita Pizza,133,104,29,29,21.8,over_production,92.8,3.2
+2026-02-13,item-salad-06,Caesar Salad,59,51,8,8,13.56,over_production,17.6,2.2
+2026-02-14,item-biryani-01,Chicken Biryani,155,113,42,42,27.1,over_production,218.4,5.2
+2026-02-14,item-paneer-02,Paneer Butter Masala,98,80,18,18,18.37,over_production,68.4,3.8
+2026-02-14,item-friedrice-03,Veg Fried Rice,73,59,14,14,19.18,over_production,35.0,2.5
+2026-02-14,item-salmon-04,Grilled Salmon,60,49,11,11,18.33,expired_shelf_life,104.5,9.5
+2026-02-14,item-pizza-05,Margherita Pizza,123,101,22,22,17.89,over_production,70.4,3.2
+2026-02-14,item-salad-06,Caesar Salad,67,47,20,20,29.85,over_production,44.0,2.2
+2026-02-15,item-biryani-01,Chicken Biryani,164,152,12,12,7.32,customer_leftover,62.4,5.2
+2026-02-15,item-paneer-02,Paneer Butter Masala,122,95,27,27,22.13,over_production,102.6,3.8
+2026-02-15,item-friedrice-03,Veg Fried Rice,87,71,16,16,18.39,over_production,40.0,2.5
+2026-02-15,item-salmon-04,Grilled Salmon,114,89,25,25,21.93,over_production,237.5,9.5
+2026-02-15,item-pizza-05,Margherita Pizza,154,120,34,34,22.08,over_production,108.8,3.2
+2026-02-15,item-salad-06,Caesar Salad,86,67,19,19,22.09,over_production,41.8,2.2
+2026-02-16,item-biryani-01,Chicken Biryani,100,81,19,19,19.0,over_production,98.8,5.2
+2026-02-16,item-paneer-02,Paneer Butter Masala,69,64,5,5,7.25,preparation_error,19.0,3.8
+2026-02-16,item-friedrice-03,Veg Fried Rice,73,51,22,22,30.14,over_production,55.0,2.5
+2026-02-16,item-salmon-04,Grilled Salmon,43,33,10,10,23.26,over_production,95.0,9.5
+2026-02-16,item-pizza-05,Margherita Pizza,99,77,22,22,22.22,over_production,70.4,3.2
+2026-02-16,item-salad-06,Caesar Salad,51,39,12,12,23.53,customer_leftover,26.4,2.2
+2026-02-17,item-biryani-01,Chicken Biryani,103,90,13,13,12.62,preparation_error,67.6,5.2
+2026-02-17,item-paneer-02,Paneer Butter Masala,69,60,9,9,13.04,customer_leftover,34.2,3.8
+2026-02-17,item-friedrice-03,Veg Fried Rice,64,56,8,8,12.5,preparation_error,20.0,2.5
+2026-02-17,item-salmon-04,Grilled Salmon,42,33,9,9,21.43,expired_shelf_life,85.5,9.5
+2026-02-17,item-pizza-05,Margherita Pizza,92,80,12,12,13.04,over_production,38.4,3.2
+2026-02-17,item-salad-06,Caesar Salad,43,40,3,3,6.98,preparation_error,6.6,2.2
+2026-02-18,item-biryani-01,Chicken Biryani,107,99,8,8,7.48,over_production,41.6,5.2
+2026-02-18,item-paneer-02,Paneer Butter Masala,73,57,16,16,21.92,over_production,60.8,3.8
+2026-02-18,item-friedrice-03,Veg Fried Rice,74,64,10,10,13.51,preparation_error,25.0,2.5
+2026-02-18,item-salmon-04,Grilled Salmon,36,33,3,3,8.33,customer_leftover,28.5,9.5
+2026-02-18,item-pizza-05,Margherita Pizza,83,68,15,15,18.07,over_production,48.0,3.2
+2026-02-18,item-salad-06,Caesar Salad,44,34,10,10,22.73,preparation_error,22.0,2.2
+2026-02-19,item-biryani-01,Chicken Biryani,75,69,6,6,8.0,over_production,31.2,5.2
+2026-02-19,item-paneer-02,Paneer Butter Masala,56,52,4,4,7.14,over_production,15.2,3.8
+2026-02-19,item-friedrice-03,Veg Fried Rice,57,53,4,4,7.02,over_production,10.0,2.5
+2026-02-19,item-salmon-04,Grilled Salmon,47,37,10,10,21.28,over_production,95.0,9.5
+2026-02-19,item-pizza-05,Margherita Pizza,88,72,16,16,18.18,over_production,51.2,3.2
+2026-02-19,item-salad-06,Caesar Salad,47,37,10,10,21.28,over_production,22.0,2.2
+2026-02-20,item-biryani-01,Chicken Biryani,157,123,34,34,21.66,over_production,176.8,5.2
+2026-02-20,item-paneer-02,Paneer Butter Masala,89,73,16,16,17.98,over_production,60.8,3.8
+2026-02-20,item-friedrice-03,Veg Fried Rice,77,67,10,10,12.99,preparation_error,25.0,2.5
+2026-02-20,item-salmon-04,Grilled Salmon,72,56,16,16,22.22,over_production,152.0,9.5
+2026-02-20,item-pizza-05,Margherita Pizza,104,96,8,8,7.69,preparation_error,25.6,3.2
+2026-02-20,item-salad-06,Caesar Salad,57,50,7,7,12.28,customer_leftover,15.4,2.2
+2026-02-21,item-biryani-01,Chicken Biryani,141,110,31,31,21.99,over_production,161.2,5.2
+2026-02-21,item-paneer-02,Paneer Butter Masala,91,84,7,7,7.69,customer_leftover,26.6,3.8
+2026-02-21,item-friedrice-03,Veg Fried Rice,76,59,17,17,22.37,over_production,42.5,2.5
+2026-02-21,item-salmon-04,Grilled Salmon,67,52,15,15,22.39,customer_leftover,142.5,9.5
+2026-02-21,item-pizza-05,Margherita Pizza,109,101,8,8,7.34,over_production,25.6,3.2
+2026-02-21,item-salad-06,Caesar Salad,68,59,9,9,13.24,over_production,19.8,2.2
+2026-02-22,item-biryani-01,Chicken Biryani,127,118,9,9,7.09,customer_leftover,46.8,5.2
+2026-02-22,item-paneer-02,Paneer Butter Masala,92,85,7,7,7.61,over_production,26.6,3.8
+2026-02-22,item-friedrice-03,Veg Fried Rice,82,67,15,15,18.29,over_production,37.5,2.5
+2026-02-22,item-salmon-04,Grilled Salmon,68,56,12,12,17.65,expired_shelf_life,114.0,9.5
+2026-02-22,item-pizza-05,Margherita Pizza,125,98,27,27,21.6,over_production,86.4,3.2
+2026-02-22,item-salad-06,Caesar Salad,51,47,4,4,7.84,over_production,8.8,2.2
+2026-02-23,item-biryani-01,Chicken Biryani,107,88,19,19,17.76,over_production,98.8,5.2
+2026-02-23,item-paneer-02,Paneer Butter Masala,82,64,18,18,21.95,over_production,68.4,3.8
+2026-02-23,item-friedrice-03,Veg Fried Rice,77,63,14,14,18.18,over_production,35.0,2.5
+2026-02-23,item-salmon-04,Grilled Salmon,46,38,8,8,17.39,expired_shelf_life,76.0,9.5
+2026-02-23,item-pizza-05,Margherita Pizza,77,67,10,10,12.99,over_production,32.0,3.2
+2026-02-23,item-salad-06,Caesar Salad,56,44,12,12,21.43,over_production,26.4,2.2
+2026-02-24,item-biryani-01,Chicken Biryani,127,99,28,28,22.05,over_production,145.6,5.2
+2026-02-24,item-paneer-02,Paneer Butter Masala,62,57,5,5,8.06,over_production,19.0,3.8
+2026-02-24,item-friedrice-03,Veg Fried Rice,70,57,13,13,18.57,customer_leftover,32.5,2.5
+2026-02-24,item-salmon-04,Grilled Salmon,46,36,10,10,21.74,over_production,95.0,9.5
+2026-02-24,item-pizza-05,Margherita Pizza,76,66,10,10,13.16,over_production,32.0,3.2
+2026-02-24,item-salad-06,Caesar Salad,44,38,6,6,13.64,over_production,13.2,2.2
+2026-02-25,item-biryani-01,Chicken Biryani,113,88,25,25,22.12,over_production,130.0,5.2
+2026-02-25,item-paneer-02,Paneer Butter Masala,77,63,14,14,18.18,over_production,53.2,3.8
+2026-02-25,item-friedrice-03,Veg Fried Rice,52,48,4,4,7.69,over_production,10.0,2.5
+2026-02-25,item-salmon-04,Grilled Salmon,38,35,3,3,7.89,preparation_error,28.5,9.5
+2026-02-25,item-pizza-05,Margherita Pizza,147,115,32,32,21.77,over_production,102.4,3.2
+2026-02-25,item-salad-06,Caesar Salad,59,46,13,13,22.03,preparation_error,28.6,2.2
+2026-02-26,item-biryani-01,Chicken Biryani,109,85,24,24,22.02,over_production,124.8,5.2
+2026-02-26,item-paneer-02,Paneer Butter Masala,70,61,9,9,12.86,over_production,34.2,3.8
+2026-02-26,item-friedrice-03,Veg Fried Rice,60,52,8,8,13.33,customer_leftover,20.0,2.5
+2026-02-26,item-salmon-04,Grilled Salmon,37,32,5,5,13.51,preparation_error,47.5,9.5
+2026-02-26,item-pizza-05,Margherita Pizza,88,69,19,19,21.59,over_production,60.8,3.2
+2026-02-26,item-salad-06,Caesar Salad,38,35,3,3,7.89,preparation_error,6.6,2.2
+2026-02-27,item-biryani-01,Chicken Biryani,140,130,10,10,7.14,preparation_error,52.0,5.2
+2026-02-27,item-paneer-02,Paneer Butter Masala,95,78,17,17,17.89,over_production,64.6,3.8
+2026-02-27,item-friedrice-03,Veg Fried Rice,83,68,15,15,18.07,over_production,37.5,2.5
+2026-02-27,item-salmon-04,Grilled Salmon,69,64,5,5,7.25,over_production,47.5,9.5
+2026-02-27,item-pizza-05,Margherita Pizza,100,87,13,13,13.0,preparation_error,41.6,3.2
+2026-02-27,item-salad-06,Caesar Salad,62,51,11,11,17.74,preparation_error,24.2,2.2
+2026-02-28,item-biryani-01,Chicken Biryani,182,149,33,33,18.13,over_production,171.6,5.2
+2026-02-28,item-paneer-02,Paneer Butter Masala,94,82,12,12,12.77,over_production,45.6,3.8
+2026-02-28,item-friedrice-03,Veg Fried Rice,77,67,10,10,12.99,preparation_error,25.0,2.5
+2026-02-28,item-salmon-04,Grilled Salmon,72,56,16,16,22.22,over_production,152.0,9.5
+2026-02-28,item-pizza-05,Margherita Pizza,164,143,21,21,12.8,over_production,67.2,3.2
+2026-02-28,item-salad-06,Caesar Salad,64,56,8,8,12.5,customer_leftover,17.6,2.2
+2026-03-01,item-biryani-01,Chicken Biryani,132,108,24,24,18.18,over_production,124.8,5.2
+2026-03-01,item-paneer-02,Paneer Butter Masala,98,91,7,7,7.14,customer_leftover,26.6,3.8
+2026-03-01,item-friedrice-03,Veg Fried Rice,86,80,6,6,6.98,preparation_error,15.0,2.5
+2026-03-01,item-salmon-04,Grilled Salmon,86,67,19,19,22.09,over_production,180.5,9.5
+2026-03-01,item-pizza-05,Margherita Pizza,123,101,22,22,17.89,over_production,70.4,3.2
+2026-03-01,item-salad-06,Caesar Salad,60,52,8,8,13.33,over_production,17.6,2.2
+2026-03-02,item-biryani-01,Chicken Biryani,113,87,26,26,23.01,over_production,135.2,5.2
+2026-03-02,item-paneer-02,Paneer Butter Masala,64,59,5,5,7.81,over_production,19.0,3.8
+2026-03-02,item-friedrice-03,Veg Fried Rice,53,43,10,10,18.87,over_production,25.0,2.5
+2026-03-02,item-salmon-04,Grilled Salmon,45,35,10,10,22.22,expired_shelf_life,95.0,9.5
+2026-03-02,item-pizza-05,Margherita Pizza,79,69,10,10,12.66,preparation_error,32.0,3.2
+2026-03-02,item-salad-06,Caesar Salad,56,43,13,13,23.21,over_production,28.6,2.2
+2026-03-03,item-biryani-01,Chicken Biryani,207,162,45,45,21.74,over_production,234.0,5.2
+2026-03-03,item-paneer-02,Paneer Butter Masala,73,68,5,5,6.85,customer_leftover,19.0,3.8
+2026-03-03,item-friedrice-03,Veg Fried Rice,78,64,14,14,17.95,over_production,35.0,2.5
+2026-03-03,item-salmon-04,Grilled Salmon,55,45,10,10,18.18,preparation_error,95.0,9.5
+2026-03-03,item-pizza-05,Margherita Pizza,94,87,7,7,7.45,over_production,22.4,3.2
+2026-03-03,item-salad-06,Caesar Salad,68,53,15,15,22.06,customer_leftover,33.0,2.2
+2026-03-04,item-biryani-01,Chicken Biryani,107,93,14,14,13.08,over_production,72.8,5.2
+2026-03-04,item-paneer-02,Paneer Butter Masala,70,57,13,13,18.57,customer_leftover,49.4,3.8
+2026-03-04,item-friedrice-03,Veg Fried Rice,51,44,7,7,13.73,preparation_error,17.5,2.5
+2026-03-04,item-salmon-04,Grilled Salmon,44,34,10,10,22.73,expired_shelf_life,95.0,9.5
+2026-03-04,item-pizza-05,Margherita Pizza,74,58,16,16,21.62,over_production,51.2,3.2
+2026-03-04,item-salad-06,Caesar Salad,47,41,6,6,12.77,preparation_error,13.2,2.2
+2026-03-05,item-biryani-01,Chicken Biryani,119,93,26,26,21.85,over_production,135.2,5.2
+2026-03-05,item-paneer-02,Paneer Butter Masala,81,63,18,18,22.22,over_production,68.4,3.8
+2026-03-05,item-friedrice-03,Veg Fried Rice,56,44,12,12,21.43,preparation_error,30.0,2.5
+2026-03-05,item-salmon-04,Grilled Salmon,40,33,7,7,17.5,over_production,66.5,9.5
+2026-03-05,item-pizza-05,Margherita Pizza,84,73,11,11,13.1,over_production,35.2,3.2
+2026-03-05,item-salad-06,Caesar Salad,55,43,12,12,21.82,preparation_error,26.4,2.2
+2026-03-06,item-biryani-01,Chicken Biryani,155,135,20,20,12.9,over_production,104.0,5.2
+2026-03-06,item-paneer-02,Paneer Butter Masala,98,80,18,18,18.37,over_production,68.4,3.8
+2026-03-06,item-friedrice-03,Veg Fried Rice,67,62,5,5,7.46,over_production,12.5,2.5
+2026-03-06,item-salmon-04,Grilled Salmon,74,58,16,16,21.62,over_production,152.0,9.5
+2026-03-06,item-pizza-05,Margherita Pizza,104,96,8,8,7.69,preparation_error,25.6,3.2
+2026-03-06,item-salad-06,Caesar Salad,67,52,15,15,22.39,over_production,33.0,2.2
+2026-03-07,item-biryani-01,Chicken Biryani,212,163,49,49,23.11,over_production,254.8,5.2
+2026-03-07,item-paneer-02,Paneer Butter Masala,115,90,25,25,21.74,over_production,95.0,3.8
+2026-03-07,item-friedrice-03,Veg Fried Rice,81,62,19,19,23.46,over_production,47.5,2.5
+2026-03-07,item-salmon-04,Grilled Salmon,114,80,34,34,29.82,over_production,323.0,9.5
+2026-03-07,item-pizza-05,Margherita Pizza,132,103,29,29,21.97,over_production,92.8,3.2
+2026-03-07,item-salad-06,Caesar Salad,90,63,27,27,30.0,over_production,59.4,2.2
+2026-03-08,item-biryani-01,Chicken Biryani,220,172,48,48,21.82,over_production,249.6,5.2
+2026-03-08,item-paneer-02,Paneer Butter Masala,112,104,8,8,7.14,over_production,30.4,3.8
+2026-03-08,item-friedrice-03,Veg Fried Rice,79,65,14,14,17.72,over_production,35.0,2.5
+2026-03-08,item-salmon-04,Grilled Salmon,51,40,11,11,21.57,customer_leftover,104.5,9.5
+2026-03-08,item-pizza-05,Margherita Pizza,146,114,32,32,21.92,over_production,102.4,3.2
+2026-03-08,item-salad-06,Caesar Salad,63,49,14,14,22.22,over_production,30.8,2.2
+2026-03-09,item-biryani-01,Chicken Biryani,123,101,22,22,17.89,over_production,114.4,5.2
+2026-03-09,item-paneer-02,Paneer Butter Masala,77,63,14,14,18.18,over_production,53.2,3.8
+2026-03-09,item-friedrice-03,Veg Fried Rice,63,55,8,8,12.7,over_production,20.0,2.5
+2026-03-09,item-salmon-04,Grilled Salmon,42,33,9,9,21.43,expired_shelf_life,85.5,9.5
+2026-03-09,item-pizza-05,Margherita Pizza,93,81,12,12,12.9,preparation_error,38.4,3.2
+2026-03-09,item-salad-06,Caesar Salad,45,39,6,6,13.33,over_production,13.2,2.2
+2026-03-10,item-biryani-01,Chicken Biryani,98,91,7,7,7.14,over_production,36.4,5.2
+2026-03-10,item-paneer-02,Paneer Butter Masala,71,62,9,9,12.68,customer_leftover,34.2,3.8
+2026-03-10,item-friedrice-03,Veg Fried Rice,65,51,14,14,21.54,over_production,35.0,2.5
+2026-03-10,item-salmon-04,Grilled Salmon,41,36,5,5,12.2,preparation_error,47.5,9.5
+2026-03-10,item-pizza-05,Margherita Pizza,90,83,7,7,7.78,over_production,22.4,3.2
+2026-03-10,item-salad-06,Caesar Salad,51,40,11,11,21.57,over_production,24.2,2.2
+2026-03-11,item-biryani-01,Chicken Biryani,112,92,20,20,17.86,over_production,104.0,5.2
+2026-03-11,item-paneer-02,Paneer Butter Masala,75,65,10,10,13.33,preparation_error,38.0,3.8
+2026-03-11,item-friedrice-03,Veg Fried Rice,67,55,12,12,17.91,over_production,30.0,2.5
+2026-03-11,item-salmon-04,Grilled Salmon,43,37,6,6,13.95,expired_shelf_life,57.0,9.5
+2026-03-11,item-pizza-05,Margherita Pizza,78,64,14,14,17.95,over_production,44.8,3.2
+2026-03-11,item-salad-06,Caesar Salad,52,45,7,7,13.46,over_production,15.4,2.2
+2026-03-12,item-biryani-01,Chicken Biryani,111,87,24,24,21.62,over_production,124.8,5.2
+2026-03-12,item-paneer-02,Paneer Butter Masala,68,56,12,12,17.65,over_production,45.6,3.8
+2026-03-12,item-friedrice-03,Veg Fried Rice,65,60,5,5,7.69,preparation_error,12.5,2.5
+2026-03-12,item-salmon-04,Grilled Salmon,39,36,3,3,7.69,expired_shelf_life,28.5,9.5
+2026-03-12,item-pizza-05,Margherita Pizza,83,72,11,11,13.25,over_production,35.2,3.2
+2026-03-12,item-salad-06,Caesar Salad,44,41,3,3,6.82,over_production,6.6,2.2
+2026-03-13,item-biryani-01,Chicken Biryani,191,166,25,25,13.09,over_production,130.0,5.2
+2026-03-13,item-paneer-02,Paneer Butter Masala,101,79,22,22,21.78,over_production,83.6,3.8
+2026-03-13,item-friedrice-03,Veg Fried Rice,79,65,14,14,17.72,customer_leftover,35.0,2.5
+2026-03-13,item-salmon-04,Grilled Salmon,73,57,16,16,21.92,over_production,152.0,9.5
+2026-03-13,item-pizza-05,Margherita Pizza,107,88,19,19,17.76,over_production,60.8,3.2
+2026-03-13,item-salad-06,Caesar Salad,56,52,4,4,7.14,preparation_error,8.8,2.2
+2026-03-14,item-biryani-01,Chicken Biryani,156,128,28,28,17.95,over_production,145.6,5.2
+2026-03-14,item-paneer-02,Paneer Butter Masala,109,95,14,14,12.84,over_production,53.2,3.8
+2026-03-14,item-friedrice-03,Veg Fried Rice,70,61,9,9,12.86,customer_leftover,22.5,2.5
+2026-03-14,item-salmon-04,Grilled Salmon,62,57,5,5,8.06,expired_shelf_life,47.5,9.5
+2026-03-14,item-pizza-05,Margherita Pizza,124,102,22,22,17.74,over_production,70.4,3.2
+2026-03-14,item-salad-06,Caesar Salad,63,52,11,11,17.46,preparation_error,24.2,2.2
+2026-03-15,item-biryani-01,Chicken Biryani,133,109,24,24,18.05,over_production,124.8,5.2
+2026-03-15,item-paneer-02,Paneer Butter Masala,111,91,20,20,18.02,over_production,76.0,3.8
+2026-03-15,item-friedrice-03,Veg Fried Rice,82,67,15,15,18.29,over_production,37.5,2.5
+2026-03-15,item-salmon-04,Grilled Salmon,55,48,7,7,12.73,customer_leftover,66.5,9.5
+2026-03-15,item-pizza-05,Margherita Pizza,93,81,12,12,12.9,over_production,38.4,3.2
+2026-03-15,item-salad-06,Caesar Salad,60,47,13,13,21.67,over_production,28.6,2.2
+2026-03-16,item-biryani-01,Chicken Biryani,138,120,18,18,13.04,over_production,93.6,5.2
+2026-03-16,item-paneer-02,Paneer Butter Masala,99,81,18,18,18.18,over_production,68.4,3.8
+2026-03-16,item-friedrice-03,Veg Fried Rice,64,59,5,5,7.81,over_production,12.5,2.5
+2026-03-16,item-salmon-04,Grilled Salmon,63,52,11,11,17.46,over_production,104.5,9.5
+2026-03-16,item-pizza-05,Margherita Pizza,108,94,14,14,12.96,customer_leftover,44.8,3.2
+2026-03-16,item-salad-06,Caesar Salad,63,58,5,5,7.94,customer_leftover,11.0,2.2
+2026-03-17,item-biryani-01,Chicken Biryani,133,116,17,17,12.78,over_production,88.4,5.2
+2026-03-17,item-paneer-02,Paneer Butter Masala,68,53,15,15,22.06,over_production,57.0,3.8
+2026-03-17,item-friedrice-03,Veg Fried Rice,49,43,6,6,12.24,preparation_error,15.0,2.5
+2026-03-17,item-salmon-04,Grilled Salmon,41,38,3,3,7.32,expired_shelf_life,28.5,9.5
+2026-03-17,item-pizza-05,Margherita Pizza,143,117,26,26,18.18,over_production,83.2,3.2
+2026-03-17,item-salad-06,Caesar Salad,51,44,7,7,13.73,over_production,15.4,2.2
+2026-03-18,item-biryani-01,Chicken Biryani,96,89,7,7,7.29,over_production,36.4,5.2
+2026-03-18,item-paneer-02,Paneer Butter Masala,69,64,5,5,7.25,customer_leftover,19.0,3.8
+2026-03-18,item-friedrice-03,Veg Fried Rice,57,53,4,4,7.02,over_production,10.0,2.5
+2026-03-18,item-salmon-04,Grilled Salmon,44,36,8,8,18.18,over_production,76.0,9.5
+2026-03-18,item-pizza-05,Margherita Pizza,91,71,20,20,21.98,over_production,64.0,3.2
+2026-03-18,item-salad-06,Caesar Salad,46,40,6,6,13.04,preparation_error,13.2,2.2
+2026-03-19,item-biryani-01,Chicken Biryani,95,83,12,12,12.63,over_production,62.4,5.2
+2026-03-19,item-paneer-02,Paneer Butter Masala,63,52,11,11,17.46,customer_leftover,41.8,3.8
+2026-03-19,item-friedrice-03,Veg Fried Rice,57,50,7,7,12.28,preparation_error,17.5,2.5
+2026-03-19,item-salmon-04,Grilled Salmon,56,44,12,12,21.43,over_production,114.0,9.5
+2026-03-19,item-pizza-05,Margherita Pizza,78,64,14,14,17.95,over_production,44.8,3.2
+2026-03-19,item-salad-06,Caesar Salad,47,41,6,6,12.77,preparation_error,13.2,2.2
+2026-03-20,item-biryani-01,Chicken Biryani,143,132,11,11,7.69,over_production,57.2,5.2
+2026-03-20,item-paneer-02,Paneer Butter Masala,91,71,20,20,21.98,over_production,76.0,3.8
+2026-03-20,item-friedrice-03,Veg Fried Rice,59,55,4,4,6.78,customer_leftover,10.0,2.5
+2026-03-20,item-salmon-04,Grilled Salmon,97,76,21,21,21.65,over_production,199.5,9.5
+2026-03-20,item-pizza-05,Margherita Pizza,110,90,20,20,18.18,over_production,64.0,3.2
+2026-03-20,item-salad-06,Caesar Salad,56,49,7,7,12.5,preparation_error,15.4,2.2
+2026-03-21,item-biryani-01,Chicken Biryani,148,121,27,27,18.24,over_production,140.4,5.2
+2026-03-21,item-paneer-02,Paneer Butter Masala,99,86,13,13,13.13,over_production,49.4,3.8
+2026-03-21,item-friedrice-03,Veg Fried Rice,70,55,15,15,21.43,preparation_error,37.5,2.5
+2026-03-21,item-salmon-04,Grilled Salmon,61,53,8,8,13.11,over_production,76.0,9.5
+2026-03-21,item-pizza-05,Margherita Pizza,129,106,23,23,17.83,over_production,73.6,3.2
+2026-03-21,item-salad-06,Caesar Salad,58,45,13,13,22.41,over_production,28.6,2.2
+2026-03-22,item-biryani-01,Chicken Biryani,141,123,18,18,12.77,over_production,93.6,5.2
+2026-03-22,item-paneer-02,Paneer Butter Masala,98,85,13,13,13.27,over_production,49.4,3.8
+2026-03-22,item-friedrice-03,Veg Fried Rice,79,73,6,6,7.59,over_production,15.0,2.5
+2026-03-22,item-salmon-04,Grilled Salmon,74,58,16,16,21.62,over_production,152.0,9.5
+2026-03-22,item-pizza-05,Margherita Pizza,114,99,15,15,13.16,over_production,48.0,3.2
+2026-03-22,item-salad-06,Caesar Salad,61,48,13,13,21.31,customer_leftover,28.6,2.2
+2026-03-23,item-biryani-01,Chicken Biryani,102,89,13,13,12.75,over_production,67.6,5.2
+2026-03-23,item-paneer-02,Paneer Butter Masala,65,60,5,5,7.69,over_production,19.0,3.8
+2026-03-23,item-friedrice-03,Veg Fried Rice,57,50,7,7,12.28,customer_leftover,17.5,2.5
+2026-03-23,item-salmon-04,Grilled Salmon,38,33,5,5,13.16,over_production,47.5,9.5
+2026-03-23,item-pizza-05,Margherita Pizza,84,66,18,18,21.43,over_production,57.6,3.2
+2026-03-23,item-salad-06,Caesar Salad,44,36,8,8,18.18,customer_leftover,17.6,2.2
+2026-03-24,item-biryani-01,Chicken Biryani,99,77,22,22,22.22,over_production,114.4,5.2
+2026-03-24,item-paneer-02,Paneer Butter Masala,62,57,5,5,8.06,over_production,19.0,3.8
+2026-03-24,item-friedrice-03,Veg Fried Rice,57,47,10,10,17.54,over_production,25.0,2.5
+2026-03-24,item-salmon-04,Grilled Salmon,44,38,6,6,13.64,expired_shelf_life,57.0,9.5
+2026-03-24,item-pizza-05,Margherita Pizza,73,68,5,5,6.85,over_production,16.0,3.2
+2026-03-24,item-salad-06,Caesar Salad,56,44,12,12,21.43,over_production,26.4,2.2
+2026-03-25,item-biryani-01,Chicken Biryani,100,87,13,13,13.0,customer_leftover,67.6,5.2
+2026-03-25,item-paneer-02,Paneer Butter Masala,68,56,12,12,17.65,customer_leftover,45.6,3.8
+2026-03-25,item-friedrice-03,Veg Fried Rice,64,59,5,5,7.81,over_production,12.5,2.5
+2026-03-25,item-salmon-04,Grilled Salmon,35,32,3,3,8.57,customer_leftover,28.5,9.5
+2026-03-25,item-pizza-05,Margherita Pizza,92,72,20,20,21.74,over_production,64.0,3.2
+2026-03-25,item-salad-06,Caesar Salad,54,50,4,4,7.41,preparation_error,8.8,2.2
+2026-03-26,item-biryani-01,Chicken Biryani,97,84,13,13,13.4,preparation_error,67.6,5.2
+2026-03-26,item-paneer-02,Paneer Butter Masala,68,59,9,9,13.24,over_production,34.2,3.8
+2026-03-26,item-friedrice-03,Veg Fried Rice,54,50,4,4,7.41,over_production,10.0,2.5
+2026-03-26,item-salmon-04,Grilled Salmon,38,35,3,3,7.89,expired_shelf_life,28.5,9.5
+2026-03-26,item-pizza-05,Margherita Pizza,96,75,21,21,21.88,over_production,67.2,3.2
+2026-03-26,item-salad-06,Caesar Salad,54,47,7,7,12.96,over_production,15.4,2.2
+2026-03-27,item-biryani-01,Chicken Biryani,136,99,37,37,27.21,over_production,192.4,5.2
+2026-03-27,item-paneer-02,Paneer Butter Masala,105,86,19,19,18.1,over_production,72.2,3.8
+2026-03-27,item-friedrice-03,Veg Fried Rice,71,58,13,13,18.31,over_production,32.5,2.5
+2026-03-27,item-salmon-04,Grilled Salmon,82,63,19,19,23.17,over_production,180.5,9.5
+2026-03-27,item-pizza-05,Margherita Pizza,125,98,27,27,21.6,over_production,86.4,3.2
+2026-03-27,item-salad-06,Caesar Salad,46,37,9,9,19.57,preparation_error,19.8,2.2
+2026-03-28,item-biryani-01,Chicken Biryani,152,141,11,11,7.24,customer_leftover,57.2,5.2
+2026-03-28,item-paneer-02,Paneer Butter Masala,100,93,7,7,7.0,over_production,26.6,3.8
+2026-03-28,item-friedrice-03,Veg Fried Rice,82,64,18,18,21.95,over_production,45.0,2.5
+2026-03-28,item-salmon-04,Grilled Salmon,58,54,4,4,6.9,over_production,38.0,9.5
+2026-03-28,item-pizza-05,Margherita Pizza,115,90,25,25,21.74,over_production,80.0,3.2
+2026-03-28,item-salad-06,Caesar Salad,58,54,4,4,6.9,over_production,8.8,2.2
+2026-03-29,item-biryani-01,Chicken Biryani,142,116,26,26,18.31,over_production,135.2,5.2
+2026-03-29,item-paneer-02,Paneer Butter Masala,83,77,6,6,7.23,customer_leftover,22.8,3.8
+2026-03-29,item-friedrice-03,Veg Fried Rice,82,71,11,11,13.41,over_production,27.5,2.5
+2026-03-29,item-salmon-04,Grilled Salmon,56,49,7,7,12.5,over_production,66.5,9.5
+2026-03-29,item-pizza-05,Margherita Pizza,120,98,22,22,18.33,over_production,70.4,3.2
+2026-03-29,item-salad-06,Caesar Salad,61,48,13,13,21.31,over_production,28.6,2.2
+2026-03-30,item-biryani-01,Chicken Biryani,112,92,20,20,17.86,over_production,104.0,5.2
+2026-03-30,item-paneer-02,Paneer Butter Masala,74,61,13,13,17.57,over_production,49.4,3.8
+2026-03-30,item-friedrice-03,Veg Fried Rice,56,52,4,4,7.14,over_production,10.0,2.5
+2026-03-30,item-salmon-04,Grilled Salmon,47,41,6,6,12.77,expired_shelf_life,57.0,9.5
+2026-03-30,item-pizza-05,Margherita Pizza,77,63,14,14,18.18,over_production,44.8,3.2
+2026-03-30,item-salad-06,Caesar Salad,39,36,3,3,7.69,preparation_error,6.6,2.2
+2026-03-31,item-biryani-01,Chicken Biryani,157,123,34,34,21.66,over_production,176.8,5.2
+2026-03-31,item-paneer-02,Paneer Butter Masala,112,92,20,20,17.86,over_production,76.0,3.8
+2026-03-31,item-friedrice-03,Veg Fried Rice,77,71,6,6,7.79,over_production,15.0,2.5
+2026-03-31,item-salmon-04,Grilled Salmon,56,44,12,12,21.43,over_production,114.0,9.5
+2026-03-31,item-pizza-05,Margherita Pizza,95,83,12,12,12.63,over_production,38.4,3.2
+2026-03-31,item-salad-06,Caesar Salad,56,46,10,10,17.86,preparation_error,22.0,2.2
+2026-04-01,item-biryani-01,Chicken Biryani,85,79,6,6,7.06,over_production,31.2,5.2
+2026-04-01,item-paneer-02,Paneer Butter Masala,65,60,5,5,7.69,over_production,19.0,3.8
+2026-04-01,item-friedrice-03,Veg Fried Rice,72,56,16,16,22.22,over_production,40.0,2.5
+2026-04-01,item-salmon-04,Grilled Salmon,39,34,5,5,12.82,customer_leftover,47.5,9.5
+2026-04-01,item-pizza-05,Margherita Pizza,132,108,24,24,18.18,over_production,76.8,3.2
+2026-04-01,item-salad-06,Caesar Salad,44,36,8,8,18.18,over_production,17.6,2.2
+2026-04-02,item-biryani-01,Chicken Biryani,81,75,6,6,7.41,over_production,31.2,5.2
+2026-04-02,item-paneer-02,Paneer Butter Masala,81,75,6,6,7.41,over_production,22.8,3.8
+2026-04-02,item-friedrice-03,Veg Fried Rice,78,64,14,14,17.95,over_production,35.0,2.5
+2026-04-02,item-salmon-04,Grilled Salmon,45,35,10,10,22.22,over_production,95.0,9.5
+2026-04-02,item-pizza-05,Margherita Pizza,99,77,22,22,22.22,over_production,70.4,3.2
+2026-04-02,item-salad-06,Caesar Salad,41,38,3,3,7.32,over_production,6.6,2.2
+2026-04-03,item-biryani-01,Chicken Biryani,144,118,26,26,18.06,over_production,135.2,5.2
+2026-04-03,item-paneer-02,Paneer Butter Masala,101,83,18,18,17.82,over_production,68.4,3.8
+2026-04-03,item-friedrice-03,Veg Fried Rice,67,62,5,5,7.46,over_production,12.5,2.5
+2026-04-03,item-salmon-04,Grilled Salmon,70,55,15,15,21.43,customer_leftover,142.5,9.5
+2026-04-03,item-pizza-05,Margherita Pizza,115,90,25,25,21.74,over_production,80.0,3.2
+2026-04-03,item-salad-06,Caesar Salad,53,46,7,7,13.21,over_production,15.4,2.2
+2026-04-04,item-biryani-01,Chicken Biryani,147,128,19,19,12.93,over_production,98.8,5.2
+2026-04-04,item-paneer-02,Paneer Butter Masala,99,86,13,13,13.13,over_production,49.4,3.8
+2026-04-04,item-friedrice-03,Veg Fried Rice,81,66,15,15,18.52,preparation_error,37.5,2.5
+2026-04-04,item-salmon-04,Grilled Salmon,76,70,6,6,7.89,over_production,57.0,9.5
+2026-04-04,item-pizza-05,Margherita Pizza,97,90,7,7,7.22,over_production,22.4,3.2
+2026-04-04,item-salad-06,Caesar Salad,74,61,13,13,17.57,over_production,28.6,2.2
+2026-04-05,item-biryani-01,Chicken Biryani,219,171,48,48,21.92,over_production,249.6,5.2
+2026-04-05,item-paneer-02,Paneer Butter Masala,87,81,6,6,6.9,over_production,22.8,3.8
+2026-04-05,item-friedrice-03,Veg Fried Rice,70,61,9,9,12.86,customer_leftover,22.5,2.5
+2026-04-05,item-salmon-04,Grilled Salmon,63,52,11,11,17.46,preparation_error,104.5,9.5
+2026-04-05,item-pizza-05,Margherita Pizza,103,95,8,8,7.77,over_production,25.6,3.2
+2026-04-05,item-salad-06,Caesar Salad,63,52,11,11,17.46,over_production,24.2,2.2
+2026-04-06,item-biryani-01,Chicken Biryani,113,93,20,20,17.7,over_production,104.0,5.2
+2026-04-06,item-paneer-02,Paneer Butter Masala,81,63,18,18,22.22,over_production,68.4,3.8
+2026-04-06,item-friedrice-03,Veg Fried Rice,60,52,8,8,13.33,over_production,20.0,2.5
+2026-04-06,item-salmon-04,Grilled Salmon,37,34,3,3,8.11,over_production,28.5,9.5
+2026-04-06,item-pizza-05,Margherita Pizza,79,69,10,10,12.66,preparation_error,32.0,3.2
+2026-04-06,item-salad-06,Caesar Salad,41,36,5,5,12.2,customer_leftover,11.0,2.2
+2026-04-07,item-biryani-01,Chicken Biryani,95,78,17,17,17.89,over_production,88.4,5.2
+2026-04-07,item-paneer-02,Paneer Butter Masala,81,66,15,15,18.52,over_production,57.0,3.8
+2026-04-07,item-friedrice-03,Veg Fried Rice,65,60,5,5,7.69,customer_leftover,12.5,2.5
+2026-04-07,item-salmon-04,Grilled Salmon,45,35,10,10,22.22,preparation_error,95.0,9.5
+2026-04-07,item-pizza-05,Margherita Pizza,84,69,15,15,17.86,over_production,48.0,3.2
+2026-04-07,item-salad-06,Caesar Salad,50,41,9,9,18.0,over_production,19.8,2.2
+2026-04-08,item-biryani-01,Chicken Biryani,95,83,12,12,12.63,over_production,62.4,5.2
+2026-04-08,item-paneer-02,Paneer Butter Masala,73,57,16,16,21.92,over_production,60.8,3.8
+2026-04-08,item-friedrice-03,Veg Fried Rice,67,52,15,15,22.39,over_production,37.5,2.5
+2026-04-08,item-salmon-04,Grilled Salmon,32,28,4,4,12.5,over_production,38.0,9.5
+2026-04-08,item-pizza-05,Margherita Pizza,90,70,20,20,22.22,over_production,64.0,3.2
+2026-04-08,item-salad-06,Caesar Salad,51,47,4,4,7.84,preparation_error,8.8,2.2
+2026-04-09,item-biryani-01,Chicken Biryani,113,88,25,25,22.12,over_production,130.0,5.2
+2026-04-09,item-paneer-02,Paneer Butter Masala,77,60,17,17,22.08,over_production,64.6,3.8
+2026-04-09,item-friedrice-03,Veg Fried Rice,52,43,9,9,17.31,over_production,22.5,2.5
+2026-04-09,item-salmon-04,Grilled Salmon,38,33,5,5,13.16,expired_shelf_life,47.5,9.5
+2026-04-09,item-pizza-05,Margherita Pizza,86,75,11,11,12.79,over_production,35.2,3.2
+2026-04-09,item-salad-06,Caesar Salad,44,41,3,3,6.82,over_production,6.6,2.2
+2026-04-10,item-biryani-01,Chicken Biryani,214,150,64,64,29.91,over_production,332.8,5.2
+2026-04-10,item-paneer-02,Paneer Butter Masala,98,91,7,7,7.14,preparation_error,26.6,3.8
+2026-04-10,item-friedrice-03,Veg Fried Rice,81,66,15,15,18.52,over_production,37.5,2.5
+2026-04-10,item-salmon-04,Grilled Salmon,68,52,16,16,23.53,over_production,152.0,9.5
+2026-04-10,item-pizza-05,Margherita Pizza,141,110,31,31,21.99,over_production,99.2,3.2
+2026-04-10,item-salad-06,Caesar Salad,66,51,15,15,22.73,customer_leftover,33.0,2.2
+2026-04-11,item-biryani-01,Chicken Biryani,133,97,36,36,27.07,over_production,187.2,5.2
+2026-04-11,item-paneer-02,Paneer Butter Masala,102,89,13,13,12.75,over_production,49.4,3.8
+2026-04-11,item-friedrice-03,Veg Fried Rice,80,56,24,24,30.0,over_production,60.0,2.5
+2026-04-11,item-salmon-04,Grilled Salmon,53,37,16,16,30.19,over_production,152.0,9.5
+2026-04-11,item-pizza-05,Margherita Pizza,149,122,27,27,18.12,over_production,86.4,3.2
+2026-04-11,item-salad-06,Caesar Salad,44,31,13,13,29.55,over_production,28.6,2.2
+2026-04-12,item-biryani-01,Chicken Biryani,174,151,23,23,13.22,over_production,119.6,5.2
+2026-04-12,item-paneer-02,Paneer Butter Masala,91,71,20,20,21.98,over_production,76.0,3.8
+2026-04-12,item-friedrice-03,Veg Fried Rice,82,64,18,18,21.95,over_production,45.0,2.5
+2026-04-12,item-salmon-04,Grilled Salmon,70,55,15,15,21.43,expired_shelf_life,142.5,9.5
+2026-04-12,item-pizza-05,Margherita Pizza,142,116,26,26,18.31,over_production,83.2,3.2
+2026-04-12,item-salad-06,Caesar Salad,50,46,4,4,8.0,customer_leftover,8.8,2.2
+2026-04-13,item-biryani-01,Chicken Biryani,108,84,24,24,22.22,over_production,124.8,5.2
+2026-04-13,item-paneer-02,Paneer Butter Masala,75,65,10,10,13.33,over_production,38.0,3.8
+2026-04-13,item-friedrice-03,Veg Fried Rice,59,48,11,11,18.64,over_production,27.5,2.5
+2026-04-13,item-salmon-04,Grilled Salmon,41,32,9,9,21.95,expired_shelf_life,85.5,9.5
+2026-04-13,item-pizza-05,Margherita Pizza,123,107,16,16,13.01,over_production,51.2,3.2
+2026-04-13,item-salad-06,Caesar Salad,50,39,11,11,22.0,over_production,24.2,2.2
+2026-04-14,item-biryani-01,Chicken Biryani,171,158,13,13,7.6,preparation_error,67.6,5.2
+2026-04-14,item-paneer-02,Paneer Butter Masala,123,101,22,22,17.89,over_production,83.6,3.8
+2026-04-14,item-friedrice-03,Veg Fried Rice,86,67,19,19,22.09,over_production,47.5,2.5
+2026-04-14,item-salmon-04,Grilled Salmon,53,46,7,7,13.21,expired_shelf_life,66.5,9.5
+2026-04-14,item-pizza-05,Margherita Pizza,152,132,20,20,13.16,over_production,64.0,3.2
+2026-04-14,item-salad-06,Caesar Salad,71,58,13,13,18.31,over_production,28.6,2.2
+2026-04-15,item-biryani-01,Chicken Biryani,128,111,17,17,13.28,over_production,88.4,5.2
+2026-04-15,item-paneer-02,Paneer Butter Masala,87,68,19,19,21.84,over_production,72.2,3.8
+2026-04-15,item-friedrice-03,Veg Fried Rice,70,55,15,15,21.43,preparation_error,37.5,2.5
+2026-04-15,item-salmon-04,Grilled Salmon,43,35,8,8,18.6,customer_leftover,76.0,9.5
+2026-04-15,item-pizza-05,Margherita Pizza,68,59,9,9,13.24,over_production,28.8,3.2
+2026-04-15,item-salad-06,Caesar Salad,51,47,4,4,7.84,preparation_error,8.8,2.2
+2026-04-16,item-biryani-01,Chicken Biryani,109,85,24,24,22.02,over_production,124.8,5.2
+2026-04-16,item-paneer-02,Paneer Butter Masala,81,66,15,15,18.52,customer_leftover,57.0,3.8
+2026-04-16,item-friedrice-03,Veg Fried Rice,51,47,4,4,7.84,over_production,10.0,2.5
+2026-04-16,item-salmon-04,Grilled Salmon,31,29,2,2,6.45,customer_leftover,19.0,9.5
+2026-04-16,item-pizza-05,Margherita Pizza,83,68,15,15,18.07,preparation_error,48.0,3.2
+2026-04-16,item-salad-06,Caesar Salad,40,37,3,3,7.5,customer_leftover,6.6,2.2
+2026-04-17,item-biryani-01,Chicken Biryani,145,126,19,19,13.1,over_production,98.8,5.2
+2026-04-17,item-paneer-02,Paneer Butter Masala,89,82,7,7,7.87,over_production,26.6,3.8
+2026-04-17,item-friedrice-03,Veg Fried Rice,79,65,14,14,17.72,over_production,35.0,2.5
+2026-04-17,item-salmon-04,Grilled Salmon,52,48,4,4,7.69,expired_shelf_life,38.0,9.5
+2026-04-17,item-pizza-05,Margherita Pizza,92,85,7,7,7.61,preparation_error,22.4,3.2
+2026-04-17,item-salad-06,Caesar Salad,59,48,11,11,18.64,over_production,24.2,2.2
+2026-04-18,item-biryani-01,Chicken Biryani,180,141,39,39,21.67,over_production,202.8,5.2
+2026-04-18,item-paneer-02,Paneer Butter Masala,116,95,21,21,18.1,over_production,79.8,3.8
+2026-04-18,item-friedrice-03,Veg Fried Rice,87,68,19,19,21.84,over_production,47.5,2.5
+2026-04-18,item-salmon-04,Grilled Salmon,66,57,9,9,13.64,over_production,85.5,9.5
+2026-04-18,item-pizza-05,Margherita Pizza,126,110,16,16,12.7,over_production,51.2,3.2
+2026-04-18,item-salad-06,Caesar Salad,68,59,9,9,13.24,over_production,19.8,2.2
+2026-04-19,item-biryani-01,Chicken Biryani,121,112,9,9,7.44,over_production,46.8,5.2
+2026-04-19,item-paneer-02,Paneer Butter Masala,99,81,18,18,18.18,over_production,68.4,3.8
+2026-04-19,item-friedrice-03,Veg Fried Rice,77,60,17,17,22.08,over_production,42.5,2.5
+2026-04-19,item-salmon-04,Grilled Salmon,77,60,17,17,22.08,over_production,161.5,9.5
+2026-04-19,item-pizza-05,Margherita Pizza,110,96,14,14,12.73,over_production,44.8,3.2
+2026-04-19,item-salad-06,Caesar Salad,54,50,4,4,7.41,preparation_error,8.8,2.2
+2026-04-20,item-biryani-01,Chicken Biryani,89,82,7,7,7.87,over_production,36.4,5.2
+2026-04-20,item-paneer-02,Paneer Butter Masala,90,70,20,20,22.22,over_production,76.0,3.8
+2026-04-20,item-friedrice-03,Veg Fried Rice,67,55,12,12,17.91,preparation_error,30.0,2.5
+2026-04-20,item-salmon-04,Grilled Salmon,35,32,3,3,8.57,expired_shelf_life,28.5,9.5
+2026-04-20,item-pizza-05,Margherita Pizza,81,63,18,18,22.22,over_production,57.6,3.2
+2026-04-20,item-salad-06,Caesar Salad,45,42,3,3,6.67,over_production,6.6,2.2
+2026-04-21,item-biryani-01,Chicken Biryani,89,82,7,7,7.87,over_production,36.4,5.2
+2026-04-21,item-paneer-02,Paneer Butter Masala,78,72,6,6,7.69,customer_leftover,22.8,3.8
+2026-04-21,item-friedrice-03,Veg Fried Rice,55,51,4,4,7.27,preparation_error,10.0,2.5
+2026-04-21,item-salmon-04,Grilled Salmon,42,33,9,9,21.43,expired_shelf_life,85.5,9.5
+2026-04-21,item-pizza-05,Margherita Pizza,76,66,10,10,13.16,over_production,32.0,3.2
+2026-04-21,item-salad-06,Caesar Salad,65,51,14,14,21.54,over_production,30.8,2.2
+2026-04-22,item-biryani-01,Chicken Biryani,102,94,8,8,7.84,preparation_error,41.6,5.2
+2026-04-22,item-paneer-02,Paneer Butter Masala,69,54,15,15,21.74,over_production,57.0,3.8
+2026-04-22,item-friedrice-03,Veg Fried Rice,61,48,13,13,21.31,over_production,32.5,2.5
+2026-04-22,item-salmon-04,Grilled Salmon,44,36,8,8,18.18,over_production,76.0,9.5
+2026-04-22,item-pizza-05,Margherita Pizza,79,65,14,14,17.72,over_production,44.8,3.2
+2026-04-22,item-salad-06,Caesar Salad,51,42,9,9,17.65,over_production,19.8,2.2
+2026-04-23,item-biryani-01,Chicken Biryani,109,101,8,8,7.34,over_production,41.6,5.2
+2026-04-23,item-paneer-02,Paneer Butter Masala,92,75,17,17,18.48,over_production,64.6,3.8
+2026-04-23,item-friedrice-03,Veg Fried Rice,80,70,10,10,12.5,customer_leftover,25.0,2.5
+2026-04-23,item-salmon-04,Grilled Salmon,61,50,11,11,18.03,over_production,104.5,9.5
+2026-04-23,item-pizza-05,Margherita Pizza,100,93,7,7,7.0,preparation_error,22.4,3.2
+2026-04-23,item-salad-06,Caesar Salad,72,63,9,9,12.5,over_production,19.8,2.2
+2026-04-24,item-biryani-01,Chicken Biryani,146,127,19,19,13.01,over_production,98.8,5.2
+2026-04-24,item-paneer-02,Paneer Butter Masala,104,85,19,19,18.27,over_production,72.2,3.8
+2026-04-24,item-friedrice-03,Veg Fried Rice,68,59,9,9,13.24,over_production,22.5,2.5
+2026-04-24,item-salmon-04,Grilled Salmon,54,50,4,4,7.41,over_production,38.0,9.5
+2026-04-24,item-pizza-05,Margherita Pizza,95,88,7,7,7.37,over_production,22.4,3.2
+2026-04-24,item-salad-06,Caesar Salad,55,43,12,12,21.82,over_production,26.4,2.2
+2026-04-25,item-biryani-01,Chicken Biryani,228,178,50,50,21.93,over_production,260.0,5.2
+2026-04-25,item-paneer-02,Paneer Butter Masala,117,108,9,9,7.69,over_production,34.2,3.8
+2026-04-25,item-friedrice-03,Veg Fried Rice,69,60,9,9,13.04,preparation_error,22.5,2.5
+2026-04-25,item-salmon-04,Grilled Salmon,70,55,15,15,21.43,over_production,142.5,9.5
+2026-04-25,item-pizza-05,Margherita Pizza,188,147,41,41,21.81,over_production,131.2,3.2
+2026-04-25,item-salad-06,Caesar Salad,65,51,14,14,21.54,preparation_error,30.8,2.2
+2026-04-26,item-biryani-01,Chicken Biryani,169,132,37,37,21.89,over_production,192.4,5.2
+2026-04-26,item-paneer-02,Paneer Butter Masala,95,83,12,12,12.63,over_production,45.6,3.8
+2026-04-26,item-friedrice-03,Veg Fried Rice,78,61,17,17,21.79,over_production,42.5,2.5
+2026-04-26,item-salmon-04,Grilled Salmon,64,56,8,8,12.5,over_production,76.0,9.5
+2026-04-26,item-pizza-05,Margherita Pizza,112,92,20,20,17.86,over_production,64.0,3.2
+2026-04-26,item-salad-06,Caesar Salad,67,55,12,12,17.91,over_production,26.4,2.2
+2026-04-27,item-biryani-01,Chicken Biryani,104,76,28,28,26.92,over_production,145.6,5.2
+2026-04-27,item-paneer-02,Paneer Butter Masala,75,69,6,6,8.0,customer_leftover,22.8,3.8
+2026-04-27,item-friedrice-03,Veg Fried Rice,69,48,21,21,30.43,over_production,52.5,2.5
+2026-04-27,item-salmon-04,Grilled Salmon,36,25,11,11,30.56,expired_shelf_life,104.5,9.5
+2026-04-27,item-pizza-05,Margherita Pizza,91,79,12,12,13.19,customer_leftover,38.4,3.2
+2026-04-27,item-salad-06,Caesar Salad,36,29,7,7,19.44,preparation_error,15.4,2.2
+2026-04-28,item-biryani-01,Chicken Biryani,112,82,30,30,26.79,over_production,156.0,5.2
+2026-04-28,item-paneer-02,Paneer Butter Masala,86,80,6,6,6.98,over_production,22.8,3.8
+2026-04-28,item-friedrice-03,Veg Fried Rice,66,51,15,15,22.73,over_production,37.5,2.5
+2026-04-28,item-salmon-04,Grilled Salmon,53,37,16,16,30.19,over_production,152.0,9.5
+2026-04-28,item-pizza-05,Margherita Pizza,92,80,12,12,13.04,over_production,38.4,3.2
+2026-04-28,item-salad-06,Caesar Salad,36,29,7,7,19.44,customer_leftover,15.4,2.2
+2026-04-29,item-biryani-01,Chicken Biryani,105,97,8,8,7.62,preparation_error,41.6,5.2
+2026-04-29,item-paneer-02,Paneer Butter Masala,77,63,14,14,18.18,customer_leftover,53.2,3.8
+2026-04-29,item-friedrice-03,Veg Fried Rice,65,51,14,14,21.54,over_production,35.0,2.5
+2026-04-29,item-salmon-04,Grilled Salmon,41,38,3,3,7.32,over_production,28.5,9.5
+2026-04-29,item-pizza-05,Margherita Pizza,107,93,14,14,13.08,over_production,44.8,3.2
+2026-04-29,item-salad-06,Caesar Salad,45,42,3,3,6.67,preparation_error,6.6,2.2
+2026-04-30,item-biryani-01,Chicken Biryani,92,85,7,7,7.61,over_production,36.4,5.2
+2026-04-30,item-paneer-02,Paneer Butter Masala,74,64,10,10,13.51,over_production,38.0,3.8
+2026-04-30,item-friedrice-03,Veg Fried Rice,50,46,4,4,8.0,over_production,10.0,2.5
+2026-04-30,item-salmon-04,Grilled Salmon,42,39,3,3,7.14,customer_leftover,28.5,9.5
+2026-04-30,item-pizza-05,Margherita Pizza,87,68,19,19,21.84,over_production,60.8,3.2
+2026-04-30,item-salad-06,Caesar Salad,44,41,3,3,6.82,over_production,6.6,2.2
+2026-05-01,item-biryani-01,Chicken Biryani,150,130,20,20,13.33,over_production,104.0,5.2
+2026-05-01,item-paneer-02,Paneer Butter Masala,110,90,20,20,18.18,over_production,76.0,3.8
+2026-05-01,item-friedrice-03,Veg Fried Rice,71,58,13,13,18.31,customer_leftover,32.5,2.5
+2026-05-01,item-salmon-04,Grilled Salmon,55,48,7,7,12.73,over_production,66.5,9.5
+2026-05-01,item-pizza-05,Margherita Pizza,115,100,15,15,13.04,over_production,48.0,3.2
+2026-05-01,item-salad-06,Caesar Salad,64,56,8,8,12.5,over_production,17.6,2.2
+2026-05-02,item-biryani-01,Chicken Biryani,145,119,26,26,17.93,over_production,135.2,5.2
+2026-05-02,item-paneer-02,Paneer Butter Masala,105,82,23,23,21.9,over_production,87.4,3.8
+2026-05-02,item-friedrice-03,Veg Fried Rice,71,58,13,13,18.31,over_production,32.5,2.5
+2026-05-02,item-salmon-04,Grilled Salmon,63,52,11,11,17.46,expired_shelf_life,104.5,9.5
+2026-05-02,item-pizza-05,Margherita Pizza,99,86,13,13,13.13,preparation_error,41.6,3.2
+2026-05-02,item-salad-06,Caesar Salad,66,54,12,12,18.18,over_production,26.4,2.2
+2026-05-03,item-biryani-01,Chicken Biryani,153,133,20,20,13.07,over_production,104.0,5.2
+2026-05-03,item-paneer-02,Paneer Butter Masala,145,113,32,32,22.07,over_production,121.6,3.8
+2026-05-03,item-friedrice-03,Veg Fried Rice,104,85,19,19,18.27,over_production,47.5,2.5
+2026-05-03,item-salmon-04,Grilled Salmon,79,62,17,17,21.52,over_production,161.5,9.5
+2026-05-03,item-pizza-05,Margherita Pizza,154,134,20,20,12.99,over_production,64.0,3.2
+2026-05-03,item-salad-06,Caesar Salad,83,72,11,11,13.25,preparation_error,24.2,2.2
+2026-05-04,item-biryani-01,Chicken Biryani,114,99,15,15,13.16,customer_leftover,78.0,5.2
+2026-05-04,item-paneer-02,Paneer Butter Masala,113,88,25,25,22.12,over_production,95.0,3.8
+2026-05-04,item-friedrice-03,Veg Fried Rice,78,61,17,17,21.79,over_production,42.5,2.5
+2026-05-04,item-salmon-04,Grilled Salmon,56,44,12,12,21.43,over_production,114.0,9.5
+2026-05-04,item-pizza-05,Margherita Pizza,106,83,23,23,21.7,over_production,73.6,3.2
+2026-05-04,item-salad-06,Caesar Salad,73,57,16,16,21.92,over_production,35.2,2.2
+2026-05-05,item-biryani-01,Chicken Biryani,104,96,8,8,7.69,over_production,41.6,5.2
+2026-05-05,item-paneer-02,Paneer Butter Masala,70,65,5,5,7.14,customer_leftover,19.0,3.8
+2026-05-05,item-friedrice-03,Veg Fried Rice,52,48,4,4,7.69,over_production,10.0,2.5
+2026-05-05,item-salmon-04,Grilled Salmon,40,37,3,3,7.5,expired_shelf_life,28.5,9.5
+2026-05-05,item-pizza-05,Margherita Pizza,85,70,15,15,17.65,over_production,48.0,3.2
+2026-05-05,item-salad-06,Caesar Salad,65,53,12,12,18.46,customer_leftover,26.4,2.2
+2026-05-06,item-biryani-01,Chicken Biryani,87,81,6,6,6.9,preparation_error,31.2,5.2
+2026-05-06,item-paneer-02,Paneer Butter Masala,75,65,10,10,13.33,over_production,38.0,3.8
+2026-05-06,item-friedrice-03,Veg Fried Rice,81,63,18,18,22.22,over_production,45.0,2.5
+2026-05-06,item-salmon-04,Grilled Salmon,31,27,4,4,12.9,preparation_error,38.0,9.5
+2026-05-06,item-pizza-05,Margherita Pizza,85,74,11,11,12.94,customer_leftover,35.2,3.2
+2026-05-06,item-salad-06,Caesar Salad,72,56,16,16,22.22,over_production,35.2,2.2
+2026-05-07,item-biryani-01,Chicken Biryani,91,79,12,12,13.19,over_production,62.4,5.2
+2026-05-07,item-paneer-02,Paneer Butter Masala,72,59,13,13,18.06,over_production,49.4,3.8
+2026-05-07,item-friedrice-03,Veg Fried Rice,60,52,8,8,13.33,preparation_error,20.0,2.5
+2026-05-07,item-salmon-04,Grilled Salmon,40,31,9,9,22.5,expired_shelf_life,85.5,9.5
+2026-05-07,item-pizza-05,Margherita Pizza,91,71,20,20,21.98,over_production,64.0,3.2
+2026-05-07,item-salad-06,Caesar Salad,48,42,6,6,12.5,preparation_error,13.2,2.2
+2026-05-08,item-biryani-01,Chicken Biryani,133,93,40,40,30.08,over_production,208.0,5.2
+2026-05-08,item-paneer-02,Paneer Butter Masala,108,84,24,24,22.22,over_production,91.2,3.8
+2026-05-08,item-friedrice-03,Veg Fried Rice,64,52,12,12,18.75,over_production,30.0,2.5
+2026-05-08,item-salmon-04,Grilled Salmon,56,39,17,17,30.36,over_production,161.5,9.5
+2026-05-08,item-pizza-05,Margherita Pizza,152,119,33,33,21.71,over_production,105.6,3.2
+2026-05-08,item-salad-06,Caesar Salad,73,59,14,14,19.18,over_production,30.8,2.2
+2026-05-09,item-biryani-01,Chicken Biryani,154,126,28,28,18.18,over_production,145.6,5.2
+2026-05-09,item-paneer-02,Paneer Butter Masala,105,97,8,8,7.62,over_production,30.4,3.8
+2026-05-09,item-friedrice-03,Veg Fried Rice,68,63,5,5,7.35,preparation_error,12.5,2.5
+2026-05-09,item-salmon-04,Grilled Salmon,55,48,7,7,12.73,expired_shelf_life,66.5,9.5
+2026-05-09,item-pizza-05,Margherita Pizza,122,106,16,16,13.11,over_production,51.2,3.2
+2026-05-09,item-salad-06,Caesar Salad,76,62,14,14,18.42,customer_leftover,30.8,2.2
+2026-05-10,item-biryani-01,Chicken Biryani,117,108,9,9,7.69,customer_leftover,46.8,5.2
+2026-05-10,item-paneer-02,Paneer Butter Masala,102,84,18,18,17.65,over_production,68.4,3.8
+2026-05-10,item-friedrice-03,Veg Fried Rice,73,57,16,16,21.92,over_production,40.0,2.5
+2026-05-10,item-salmon-04,Grilled Salmon,55,48,7,7,12.73,preparation_error,66.5,9.5
+2026-05-10,item-pizza-05,Margherita Pizza,81,75,6,6,7.41,over_production,19.2,3.2
+2026-05-10,item-salad-06,Caesar Salad,61,50,11,11,18.03,over_production,24.2,2.2
+2026-05-11,item-biryani-01,Chicken Biryani,123,96,27,27,21.95,over_production,140.4,5.2
+2026-05-11,item-paneer-02,Paneer Butter Masala,74,58,16,16,21.62,over_production,60.8,3.8
+2026-05-11,item-friedrice-03,Veg Fried Rice,55,48,7,7,12.73,customer_leftover,17.5,2.5
+2026-05-11,item-salmon-04,Grilled Salmon,41,36,5,5,12.2,expired_shelf_life,47.5,9.5
+2026-05-11,item-pizza-05,Margherita Pizza,97,90,7,7,7.22,customer_leftover,22.4,3.2
+2026-05-11,item-salad-06,Caesar Salad,63,49,14,14,22.22,over_production,30.8,2.2
+2026-05-12,item-biryani-01,Chicken Biryani,154,126,28,28,18.18,over_production,145.6,5.2
+2026-05-12,item-paneer-02,Paneer Butter Masala,86,80,6,6,6.98,over_production,22.8,3.8
+2026-05-12,item-friedrice-03,Veg Fried Rice,71,66,5,5,7.04,preparation_error,12.5,2.5
+2026-05-12,item-salmon-04,Grilled Salmon,56,44,12,12,21.43,customer_leftover,114.0,9.5
+2026-05-12,item-pizza-05,Margherita Pizza,107,88,19,19,17.76,over_production,60.8,3.2
+2026-05-12,item-salad-06,Caesar Salad,82,64,18,18,21.95,over_production,39.6,2.2
+2026-05-13,item-biryani-01,Chicken Biryani,116,91,25,25,21.55,over_production,130.0,5.2
+2026-05-13,item-paneer-02,Paneer Butter Masala,68,56,12,12,17.65,over_production,45.6,3.8
+2026-05-13,item-friedrice-03,Veg Fried Rice,60,56,4,4,6.67,over_production,10.0,2.5
+2026-05-13,item-salmon-04,Grilled Salmon,41,34,7,7,17.07,preparation_error,66.5,9.5
+2026-05-13,item-pizza-05,Margherita Pizza,85,70,15,15,17.65,over_production,48.0,3.2
+2026-05-13,item-salad-06,Caesar Salad,52,45,7,7,13.46,customer_leftover,15.4,2.2
+2026-05-14,item-biryani-01,Chicken Biryani,116,91,25,25,21.55,over_production,130.0,5.2
+2026-05-14,item-paneer-02,Paneer Butter Masala,69,64,5,5,7.25,over_production,19.0,3.8
+2026-05-14,item-friedrice-03,Veg Fried Rice,60,49,11,11,18.33,over_production,27.5,2.5
+2026-05-14,item-salmon-04,Grilled Salmon,55,48,7,7,12.73,expired_shelf_life,66.5,9.5
+2026-05-14,item-pizza-05,Margherita Pizza,89,73,16,16,17.98,over_production,51.2,3.2
+2026-05-14,item-salad-06,Caesar Salad,43,35,8,8,18.6,preparation_error,17.6,2.2
+2026-05-15,item-biryani-01,Chicken Biryani,184,170,14,14,7.61,over_production,72.8,5.2
+2026-05-15,item-paneer-02,Paneer Butter Masala,89,73,16,16,17.98,over_production,60.8,3.8
+2026-05-15,item-friedrice-03,Veg Fried Rice,74,61,13,13,17.57,customer_leftover,32.5,2.5
+2026-05-15,item-salmon-04,Grilled Salmon,54,47,7,7,12.96,expired_shelf_life,66.5,9.5
+2026-05-15,item-pizza-05,Margherita Pizza,182,142,40,40,21.98,over_production,128.0,3.2
+2026-05-15,item-salad-06,Caesar Salad,54,50,4,4,7.41,preparation_error,8.8,2.2
+2026-05-16,item-biryani-01,Chicken Biryani,154,143,11,11,7.14,preparation_error,57.2,5.2
+2026-05-16,item-paneer-02,Paneer Butter Masala,98,80,18,18,18.37,over_production,68.4,3.8
+2026-05-16,item-friedrice-03,Veg Fried Rice,85,70,15,15,17.65,customer_leftover,37.5,2.5
+2026-05-16,item-salmon-04,Grilled Salmon,70,57,13,13,18.57,expired_shelf_life,123.5,9.5
+2026-05-16,item-pizza-05,Margherita Pizza,145,113,32,32,22.07,over_production,102.4,3.2
+2026-05-16,item-salad-06,Caesar Salad,59,48,11,11,18.64,preparation_error,24.2,2.2
+2026-05-17,item-biryani-01,Chicken Biryani,183,159,24,24,13.11,over_production,124.8,5.2
+2026-05-17,item-paneer-02,Paneer Butter Masala,131,107,24,24,18.32,over_production,91.2,3.8
+2026-05-17,item-friedrice-03,Veg Fried Rice,93,76,17,17,18.28,over_production,42.5,2.5
+2026-05-17,item-salmon-04,Grilled Salmon,74,64,10,10,13.51,expired_shelf_life,95.0,9.5
+2026-05-17,item-pizza-05,Margherita Pizza,139,114,25,25,17.99,over_production,80.0,3.2
+2026-05-17,item-salad-06,Caesar Salad,68,63,5,5,7.35,preparation_error,11.0,2.2
+2026-05-18,item-biryani-01,Chicken Biryani,109,85,24,24,22.02,over_production,124.8,5.2
+2026-05-18,item-paneer-02,Paneer Butter Masala,79,62,17,17,21.52,over_production,64.6,3.8
+2026-05-18,item-friedrice-03,Veg Fried Rice,66,54,12,12,18.18,customer_leftover,30.0,2.5
+2026-05-18,item-salmon-04,Grilled Salmon,30,28,2,2,6.67,over_production,19.0,9.5
+2026-05-18,item-pizza-05,Margherita Pizza,82,64,18,18,21.95,over_production,57.6,3.2
+2026-05-18,item-salad-06,Caesar Salad,61,50,11,11,18.03,over_production,24.2,2.2
+2026-05-19,item-biryani-01,Chicken Biryani,104,85,19,19,18.27,over_production,98.8,5.2
+2026-05-19,item-paneer-02,Paneer Butter Masala,73,57,16,16,21.92,over_production,60.8,3.8
+2026-05-19,item-friedrice-03,Veg Fried Rice,60,49,11,11,18.33,over_production,27.5,2.5
+2026-05-19,item-salmon-04,Grilled Salmon,42,39,3,3,7.14,expired_shelf_life,28.5,9.5
+2026-05-19,item-pizza-05,Margherita Pizza,119,93,26,26,21.85,over_production,83.2,3.2
+2026-05-19,item-salad-06,Caesar Salad,52,45,7,7,13.46,over_production,15.4,2.2
+2026-05-20,item-biryani-01,Chicken Biryani,85,79,6,6,7.06,over_production,31.2,5.2
+2026-05-20,item-paneer-02,Paneer Butter Masala,78,61,17,17,21.79,over_production,64.6,3.8
+2026-05-20,item-friedrice-03,Veg Fried Rice,72,56,16,16,22.22,over_production,40.0,2.5
+2026-05-20,item-salmon-04,Grilled Salmon,41,36,5,5,12.2,over_production,47.5,9.5
+2026-05-20,item-pizza-05,Margherita Pizza,88,69,19,19,21.59,over_production,60.8,3.2
+2026-05-20,item-salad-06,Caesar Salad,50,39,11,11,22.0,over_production,24.2,2.2
+2026-05-21,item-biryani-01,Chicken Biryani,116,91,25,25,21.55,over_production,130.0,5.2
+2026-05-21,item-paneer-02,Paneer Butter Masala,96,75,21,21,21.88,over_production,79.8,3.8
+2026-05-21,item-friedrice-03,Veg Fried Rice,53,49,4,4,7.55,customer_leftover,10.0,2.5
+2026-05-21,item-salmon-04,Grilled Salmon,48,44,4,4,8.33,over_production,38.0,9.5
+2026-05-21,item-pizza-05,Margherita Pizza,88,72,16,16,18.18,over_production,51.2,3.2
+2026-05-21,item-salad-06,Caesar Salad,41,38,3,3,7.32,preparation_error,6.6,2.2
+2026-05-22,item-biryani-01,Chicken Biryani,146,135,11,11,7.53,over_production,57.2,5.2
+2026-05-22,item-paneer-02,Paneer Butter Masala,100,82,18,18,18.0,over_production,68.4,3.8
+2026-05-22,item-friedrice-03,Veg Fried Rice,68,53,15,15,22.06,preparation_error,37.5,2.5
+2026-05-22,item-salmon-04,Grilled Salmon,68,56,12,12,17.65,expired_shelf_life,114.0,9.5
+2026-05-22,item-pizza-05,Margherita Pizza,113,93,20,20,17.7,over_production,64.0,3.2
+2026-05-22,item-salad-06,Caesar Salad,73,57,16,16,21.92,over_production,35.2,2.2
+2026-05-23,item-biryani-01,Chicken Biryani,161,126,35,35,21.74,over_production,182.0,5.2
+2026-05-23,item-paneer-02,Paneer Butter Masala,115,94,21,21,18.26,over_production,79.8,3.8
+2026-05-23,item-friedrice-03,Veg Fried Rice,81,75,6,6,7.41,preparation_error,15.0,2.5
+2026-05-23,item-salmon-04,Grilled Salmon,73,60,13,13,17.81,expired_shelf_life,123.5,9.5
+2026-05-23,item-pizza-05,Margherita Pizza,117,108,9,9,7.69,over_production,28.8,3.2
+2026-05-23,item-salad-06,Caesar Salad,71,58,13,13,18.31,over_production,28.6,2.2
+2026-05-24,item-biryani-01,Chicken Biryani,162,133,29,29,17.9,over_production,150.8,5.2
+2026-05-24,item-paneer-02,Paneer Butter Masala,91,79,12,12,13.19,over_production,45.6,3.8
+2026-05-24,item-friedrice-03,Veg Fried Rice,63,58,5,5,7.94,preparation_error,12.5,2.5
+2026-05-24,item-salmon-04,Grilled Salmon,83,65,18,18,21.69,over_production,171.0,9.5
+2026-05-24,item-pizza-05,Margherita Pizza,116,101,15,15,12.93,preparation_error,48.0,3.2
+2026-05-24,item-salad-06,Caesar Salad,74,58,16,16,21.62,over_production,35.2,2.2
+2026-05-25,item-biryani-01,Chicken Biryani,98,85,13,13,13.27,over_production,67.6,5.2
+2026-05-25,item-paneer-02,Paneer Butter Masala,86,67,19,19,22.09,over_production,72.2,3.8
+2026-05-25,item-friedrice-03,Veg Fried Rice,57,50,7,7,12.28,customer_leftover,17.5,2.5
+2026-05-25,item-salmon-04,Grilled Salmon,41,36,5,5,12.2,over_production,47.5,9.5
+2026-05-25,item-pizza-05,Margherita Pizza,69,64,5,5,7.25,over_production,16.0,3.2
+2026-05-25,item-salad-06,Caesar Salad,44,41,3,3,6.82,over_production,6.6,2.2
+2026-05-26,item-biryani-01,Chicken Biryani,126,92,34,34,26.98,over_production,176.8,5.2
+2026-05-26,item-paneer-02,Paneer Butter Masala,65,60,5,5,7.69,over_production,19.0,3.8
+2026-05-26,item-friedrice-03,Veg Fried Rice,60,49,11,11,18.33,over_production,27.5,2.5
+2026-05-26,item-salmon-04,Grilled Salmon,49,40,9,9,18.37,customer_leftover,85.5,9.5
+2026-05-26,item-pizza-05,Margherita Pizza,91,71,20,20,21.98,over_production,64.0,3.2
+2026-05-26,item-salad-06,Caesar Salad,51,37,14,14,27.45,over_production,30.8,2.2
+2026-05-27,item-biryani-01,Chicken Biryani,106,87,19,19,17.92,over_production,98.8,5.2
+2026-05-27,item-paneer-02,Paneer Butter Masala,74,61,13,13,17.57,preparation_error,49.4,3.8
+2026-05-27,item-friedrice-03,Veg Fried Rice,66,57,9,9,13.64,over_production,22.5,2.5
+2026-05-27,item-salmon-04,Grilled Salmon,39,36,3,3,7.69,expired_shelf_life,28.5,9.5
+2026-05-27,item-pizza-05,Margherita Pizza,104,96,8,8,7.69,over_production,25.6,3.2
+2026-05-27,item-salad-06,Caesar Salad,49,40,9,9,18.37,over_production,19.8,2.2
+2026-05-28,item-biryani-01,Chicken Biryani,120,94,26,26,21.67,over_production,135.2,5.2
+2026-05-28,item-paneer-02,Paneer Butter Masala,69,60,9,9,13.04,over_production,34.2,3.8
+2026-05-28,item-friedrice-03,Veg Fried Rice,44,41,3,3,6.82,customer_leftover,7.5,2.5
+2026-05-28,item-salmon-04,Grilled Salmon,39,34,5,5,12.82,over_production,47.5,9.5
+2026-05-28,item-pizza-05,Margherita Pizza,97,76,21,21,21.65,over_production,67.2,3.2
+2026-05-28,item-salad-06,Caesar Salad,48,42,6,6,12.5,over_production,13.2,2.2
+2026-05-29,item-biryani-01,Chicken Biryani,176,153,23,23,13.07,over_production,119.6,5.2
+2026-05-29,item-paneer-02,Paneer Butter Masala,100,78,22,22,22.0,over_production,83.6,3.8
+2026-05-29,item-friedrice-03,Veg Fried Rice,66,57,9,9,13.64,over_production,22.5,2.5
+2026-05-29,item-salmon-04,Grilled Salmon,51,44,7,7,13.73,over_production,66.5,9.5
+2026-05-29,item-pizza-05,Margherita Pizza,133,104,29,29,21.8,over_production,92.8,3.2
+2026-05-29,item-salad-06,Caesar Salad,59,55,4,4,6.78,preparation_error,8.8,2.2
+2026-05-30,item-biryani-01,Chicken Biryani,176,144,32,32,18.18,over_production,166.4,5.2
+2026-05-30,item-paneer-02,Paneer Butter Masala,102,84,18,18,17.65,over_production,68.4,3.8
+2026-05-30,item-friedrice-03,Veg Fried Rice,83,68,15,15,18.07,over_production,37.5,2.5
+2026-05-30,item-salmon-04,Grilled Salmon,64,56,8,8,12.5,customer_leftover,76.0,9.5
+2026-05-30,item-pizza-05,Margherita Pizza,121,105,16,16,13.22,over_production,51.2,3.2
+2026-05-30,item-salad-06,Caesar Salad,58,54,4,4,6.9,over_production,8.8,2.2
+2026-05-31,item-biryani-01,Chicken Biryani,185,142,43,43,23.24,over_production,223.6,5.2
+2026-05-31,item-paneer-02,Paneer Butter Masala,127,104,23,23,18.11,over_production,87.4,3.8
+2026-05-31,item-friedrice-03,Veg Fried Rice,93,76,17,17,18.28,over_production,42.5,2.5
+2026-05-31,item-salmon-04,Grilled Salmon,74,60,14,14,18.92,over_production,133.0,9.5
+2026-05-31,item-pizza-05,Margherita Pizza,143,132,11,11,7.69,customer_leftover,35.2,3.2
+2026-05-31,item-salad-06,Caesar Salad,73,56,17,17,23.29,over_production,37.4,2.2
+2026-06-01,item-biryani-01,Chicken Biryani,87,76,11,11,12.64,over_production,57.2,5.2
+2026-06-01,item-paneer-02,Paneer Butter Masala,78,61,17,17,21.79,over_production,64.6,3.8
+2026-06-01,item-friedrice-03,Veg Fried Rice,63,58,5,5,7.94,over_production,12.5,2.5
+2026-06-01,item-salmon-04,Grilled Salmon,41,32,9,9,21.95,over_production,85.5,9.5
+2026-06-01,item-pizza-05,Margherita Pizza,71,66,5,5,7.04,customer_leftover,16.0,3.2
+2026-06-01,item-salad-06,Caesar Salad,54,50,4,4,7.41,over_production,8.8,2.2
+2026-06-02,item-biryani-01,Chicken Biryani,100,70,30,30,30.0,over_production,156.0,5.2
+2026-06-02,item-paneer-02,Paneer Butter Masala,87,68,19,19,21.84,over_production,72.2,3.8
+2026-06-02,item-friedrice-03,Veg Fried Rice,72,50,22,22,30.56,over_production,55.0,2.5
+2026-06-02,item-salmon-04,Grilled Salmon,32,26,6,6,18.75,customer_leftover,57.0,9.5
+2026-06-02,item-pizza-05,Margherita Pizza,140,115,25,25,17.86,over_production,80.0,3.2
+2026-06-02,item-salad-06,Caesar Salad,39,32,7,7,17.95,customer_leftover,15.4,2.2
+2026-06-03,item-biryani-01,Chicken Biryani,105,86,19,19,18.1,over_production,98.8,5.2
+2026-06-03,item-paneer-02,Paneer Butter Masala,56,52,4,4,7.14,over_production,15.2,3.8
+2026-06-03,item-friedrice-03,Veg Fried Rice,52,41,11,11,21.15,over_production,27.5,2.5
+2026-06-03,item-salmon-04,Grilled Salmon,38,35,3,3,7.89,preparation_error,28.5,9.5
+2026-06-03,item-pizza-05,Margherita Pizza,97,76,21,21,21.65,over_production,67.2,3.2
+2026-06-03,item-salad-06,Caesar Salad,50,41,9,9,18.0,over_production,19.8,2.2
+2026-06-04,item-biryani-01,Chicken Biryani,111,81,30,30,27.03,over_production,156.0,5.2
+2026-06-04,item-paneer-02,Paneer Butter Masala,95,74,21,21,22.11,over_production,79.8,3.8
+2026-06-04,item-friedrice-03,Veg Fried Rice,70,51,19,19,27.14,over_production,47.5,2.5
+2026-06-04,item-salmon-04,Grilled Salmon,47,36,11,11,23.4,over_production,104.5,9.5
+2026-06-04,item-pizza-05,Margherita Pizza,95,74,21,21,22.11,over_production,67.2,3.2
+2026-06-04,item-salad-06,Caesar Salad,53,39,14,14,26.42,over_production,30.8,2.2
+2026-06-05,item-biryani-01,Chicken Biryani,181,157,24,24,13.26,over_production,124.8,5.2
+2026-06-05,item-paneer-02,Paneer Butter Masala,93,86,7,7,7.53,over_production,26.6,3.8
+2026-06-05,item-friedrice-03,Veg Fried Rice,81,63,18,18,22.22,over_production,45.0,2.5
+2026-06-05,item-salmon-04,Grilled Salmon,53,49,4,4,7.55,expired_shelf_life,38.0,9.5
+2026-06-05,item-pizza-05,Margherita Pizza,161,149,12,12,7.45,customer_leftover,38.4,3.2
+2026-06-05,item-salad-06,Caesar Salad,73,57,16,16,21.92,over_production,35.2,2.2
+2026-06-06,item-biryani-01,Chicken Biryani,146,135,11,11,7.53,preparation_error,57.2,5.2
+2026-06-06,item-paneer-02,Paneer Butter Masala,106,98,8,8,7.55,over_production,30.4,3.8
+2026-06-06,item-friedrice-03,Veg Fried Rice,84,73,11,11,13.1,preparation_error,27.5,2.5
+2026-06-06,item-salmon-04,Grilled Salmon,66,54,12,12,18.18,preparation_error,114.0,9.5
+2026-06-06,item-pizza-05,Margherita Pizza,111,103,8,8,7.21,customer_leftover,25.6,3.2
+2026-06-06,item-salad-06,Caesar Salad,70,61,9,9,12.86,preparation_error,19.8,2.2
+2026-06-07,item-biryani-01,Chicken Biryani,127,103,24,24,18.9,over_production,124.8,5.2
+2026-06-07,item-paneer-02,Paneer Butter Masala,102,89,13,13,12.75,over_production,49.4,3.8
+2026-06-07,item-friedrice-03,Veg Fried Rice,68,55,13,13,19.12,over_production,32.5,2.5
+2026-06-07,item-salmon-04,Grilled Salmon,66,51,15,15,22.73,preparation_error,142.5,9.5
+2026-06-07,item-pizza-05,Margherita Pizza,124,108,16,16,12.9,over_production,51.2,3.2
+2026-06-07,item-salad-06,Caesar Salad,74,60,14,14,18.92,preparation_error,30.8,2.2
+2026-06-08,item-biryani-01,Chicken Biryani,115,90,25,25,21.74,over_production,130.0,5.2
+2026-06-08,item-paneer-02,Paneer Butter Masala,77,71,6,6,7.79,preparation_error,22.8,3.8
+2026-06-08,item-friedrice-03,Veg Fried Rice,73,60,13,13,17.81,over_production,32.5,2.5
+2026-06-08,item-salmon-04,Grilled Salmon,39,34,5,5,12.82,expired_shelf_life,47.5,9.5
+2026-06-08,item-pizza-05,Margherita Pizza,84,66,18,18,21.43,over_production,57.6,3.2
+2026-06-08,item-salad-06,Caesar Salad,55,48,7,7,12.73,customer_leftover,15.4,2.2
+2026-06-09,item-biryani-01,Chicken Biryani,127,93,34,34,26.77,over_production,176.8,5.2
+2026-06-09,item-paneer-02,Paneer Butter Masala,70,65,5,5,7.14,customer_leftover,19.0,3.8
+2026-06-09,item-friedrice-03,Veg Fried Rice,64,52,12,12,18.75,over_production,30.0,2.5
+2026-06-09,item-salmon-04,Grilled Salmon,47,36,11,11,23.4,customer_leftover,104.5,9.5
+2026-06-09,item-pizza-05,Margherita Pizza,114,106,8,8,7.02,over_production,25.6,3.2
+2026-06-09,item-salad-06,Caesar Salad,54,38,16,16,29.63,over_production,35.2,2.2
+2026-06-10,item-biryani-01,Chicken Biryani,128,105,23,23,17.97,over_production,119.6,5.2
+2026-06-10,item-paneer-02,Paneer Butter Masala,65,51,14,14,21.54,over_production,53.2,3.8
+2026-06-10,item-friedrice-03,Veg Fried Rice,67,52,15,15,22.39,preparation_error,37.5,2.5
+2026-06-10,item-salmon-04,Grilled Salmon,45,39,6,6,13.33,expired_shelf_life,57.0,9.5
+2026-06-10,item-pizza-05,Margherita Pizza,105,97,8,8,7.62,preparation_error,25.6,3.2
+2026-06-10,item-salad-06,Caesar Salad,67,52,15,15,22.39,over_production,33.0,2.2
+2026-06-11,item-biryani-01,Chicken Biryani,116,85,31,31,26.72,over_production,161.2,5.2
+2026-06-11,item-paneer-02,Paneer Butter Masala,66,57,9,9,13.64,over_production,34.2,3.8
+2026-06-11,item-friedrice-03,Veg Fried Rice,66,51,15,15,22.73,preparation_error,37.5,2.5
+2026-06-11,item-salmon-04,Grilled Salmon,34,28,6,6,17.65,preparation_error,57.0,9.5
+2026-06-11,item-pizza-05,Margherita Pizza,96,75,21,21,21.88,over_production,67.2,3.2
+2026-06-11,item-salad-06,Caesar Salad,53,39,14,14,26.42,preparation_error,30.8,2.2
+2026-06-12,item-biryani-01,Chicken Biryani,146,127,19,19,13.01,over_production,98.8,5.2
+2026-06-12,item-paneer-02,Paneer Butter Masala,110,102,8,8,7.27,customer_leftover,30.4,3.8
+2026-06-12,item-friedrice-03,Veg Fried Rice,86,67,19,19,22.09,over_production,47.5,2.5
+2026-06-12,item-salmon-04,Grilled Salmon,67,55,12,12,17.91,expired_shelf_life,114.0,9.5
+2026-06-12,item-pizza-05,Margherita Pizza,133,116,17,17,12.78,over_production,54.4,3.2
+2026-06-12,item-salad-06,Caesar Salad,57,50,7,7,12.28,over_production,15.4,2.2
+2026-06-13,item-biryani-01,Chicken Biryani,174,122,52,52,29.89,over_production,270.4,5.2
+2026-06-13,item-paneer-02,Paneer Butter Masala,100,82,18,18,18.0,over_production,68.4,3.8
+2026-06-13,item-friedrice-03,Veg Fried Rice,104,73,31,31,29.81,over_production,77.5,2.5
+2026-06-13,item-salmon-04,Grilled Salmon,65,50,15,15,23.08,expired_shelf_life,142.5,9.5
+2026-06-13,item-pizza-05,Margherita Pizza,116,101,15,15,12.93,over_production,48.0,3.2
+2026-06-13,item-salad-06,Caesar Salad,52,42,10,10,19.23,customer_leftover,22.0,2.2
+2026-06-14,item-biryani-01,Chicken Biryani,117,108,9,9,7.69,customer_leftover,46.8,5.2
+2026-06-14,item-paneer-02,Paneer Butter Masala,93,86,7,7,7.53,over_production,26.6,3.8
+2026-06-14,item-friedrice-03,Veg Fried Rice,73,60,13,13,17.81,over_production,32.5,2.5
+2026-06-14,item-salmon-04,Grilled Salmon,81,63,18,18,22.22,over_production,171.0,9.5
+2026-06-14,item-pizza-05,Margherita Pizza,110,96,14,14,12.73,over_production,44.8,3.2
+2026-06-14,item-salad-06,Caesar Salad,51,47,4,4,7.84,over_production,8.8,2.2
+2026-06-15,item-biryani-01,Chicken Biryani,123,86,37,37,30.08,over_production,192.4,5.2
+2026-06-15,item-paneer-02,Paneer Butter Masala,68,63,5,5,7.35,customer_leftover,19.0,3.8
+2026-06-15,item-friedrice-03,Veg Fried Rice,66,48,18,18,27.27,over_production,45.0,2.5
+2026-06-15,item-salmon-04,Grilled Salmon,40,29,11,11,27.5,over_production,104.5,9.5
+2026-06-15,item-pizza-05,Margherita Pizza,84,73,11,11,13.1,customer_leftover,35.2,3.2
+2026-06-15,item-salad-06,Caesar Salad,48,39,9,9,18.75,over_production,19.8,2.2
+2026-06-16,item-biryani-01,Chicken Biryani,93,86,7,7,7.53,customer_leftover,36.4,5.2
+2026-06-16,item-paneer-02,Paneer Butter Masala,54,50,4,4,7.41,over_production,15.2,3.8
+2026-06-16,item-friedrice-03,Veg Fried Rice,61,50,11,11,18.03,customer_leftover,27.5,2.5
+2026-06-16,item-salmon-04,Grilled Salmon,44,38,6,6,13.64,over_production,57.0,9.5
+2026-06-16,item-pizza-05,Margherita Pizza,87,68,19,19,21.84,over_production,60.8,3.2
+2026-06-16,item-salad-06,Caesar Salad,49,45,4,4,8.16,over_production,8.8,2.2
+2026-06-17,item-biryani-01,Chicken Biryani,88,72,16,16,18.18,over_production,83.2,5.2
+2026-06-17,item-paneer-02,Paneer Butter Masala,78,64,14,14,17.95,over_production,53.2,3.8
+2026-06-17,item-friedrice-03,Veg Fried Rice,53,49,4,4,7.55,preparation_error,10.0,2.5
+2026-06-17,item-salmon-04,Grilled Salmon,40,37,3,3,7.5,expired_shelf_life,28.5,9.5
+2026-06-17,item-pizza-05,Margherita Pizza,96,79,17,17,17.71,over_production,54.4,3.2
+2026-06-17,item-salad-06,Caesar Salad,46,43,3,3,6.52,preparation_error,6.6,2.2
+2026-06-18,item-biryani-01,Chicken Biryani,77,63,14,14,18.18,over_production,72.8,5.2
+2026-06-18,item-paneer-02,Paneer Butter Masala,75,65,10,10,13.33,over_production,38.0,3.8
+2026-06-18,item-friedrice-03,Veg Fried Rice,64,52,12,12,18.75,customer_leftover,30.0,2.5
+2026-06-18,item-salmon-04,Grilled Salmon,34,26,8,8,23.53,over_production,76.0,9.5
+2026-06-18,item-pizza-05,Margherita Pizza,96,79,17,17,17.71,over_production,54.4,3.2
+2026-06-18,item-salad-06,Caesar Salad,33,23,10,10,30.3,over_production,22.0,2.2
+2026-06-19,item-biryani-01,Chicken Biryani,142,116,26,26,18.31,over_production,135.2,5.2
+2026-06-19,item-paneer-02,Paneer Butter Masala,86,80,6,6,6.98,preparation_error,22.8,3.8
+2026-06-19,item-friedrice-03,Veg Fried Rice,63,55,8,8,12.7,customer_leftover,20.0,2.5
+2026-06-19,item-salmon-04,Grilled Salmon,60,52,8,8,13.33,over_production,76.0,9.5
+2026-06-19,item-pizza-05,Margherita Pizza,114,99,15,15,13.16,preparation_error,48.0,3.2
+2026-06-19,item-salad-06,Caesar Salad,72,59,13,13,18.06,over_production,28.6,2.2
+2026-06-20,item-biryani-01,Chicken Biryani,153,133,20,20,13.07,over_production,104.0,5.2
+2026-06-20,item-paneer-02,Paneer Butter Masala,101,88,13,13,12.87,customer_leftover,49.4,3.8
+2026-06-20,item-friedrice-03,Veg Fried Rice,87,68,19,19,21.84,over_production,47.5,2.5
+2026-06-20,item-salmon-04,Grilled Salmon,79,62,17,17,21.52,over_production,161.5,9.5
+2026-06-20,item-pizza-05,Margherita Pizza,118,103,15,15,12.71,preparation_error,48.0,3.2
+2026-06-20,item-salad-06,Caesar Salad,63,52,11,11,17.46,over_production,24.2,2.2
+2026-06-21,item-biryani-01,Chicken Biryani,161,126,35,35,21.74,over_production,182.0,5.2
+2026-06-21,item-paneer-02,Paneer Butter Masala,94,87,7,7,7.45,over_production,26.6,3.8
+2026-06-21,item-friedrice-03,Veg Fried Rice,66,61,5,5,7.58,over_production,12.5,2.5
+2026-06-21,item-salmon-04,Grilled Salmon,64,50,14,14,21.88,expired_shelf_life,133.0,9.5
+2026-06-21,item-pizza-05,Margherita Pizza,116,101,15,15,12.93,customer_leftover,48.0,3.2
+2026-06-21,item-salad-06,Caesar Salad,67,55,12,12,17.91,preparation_error,26.4,2.2
+2026-06-22,item-biryani-01,Chicken Biryani,104,73,31,31,29.81,over_production,161.2,5.2
+2026-06-22,item-paneer-02,Paneer Butter Masala,70,57,13,13,18.57,over_production,49.4,3.8
+2026-06-22,item-friedrice-03,Veg Fried Rice,100,73,27,27,27.0,over_production,67.5,2.5
+2026-06-22,item-salmon-04,Grilled Salmon,49,34,15,15,30.61,expired_shelf_life,142.5,9.5
+2026-06-22,item-pizza-05,Margherita Pizza,72,59,13,13,18.06,over_production,41.6,3.2
+2026-06-22,item-salad-06,Caesar Salad,63,51,12,12,19.05,over_production,26.4,2.2
+2026-06-23,item-biryani-01,Chicken Biryani,120,94,26,26,21.67,over_production,135.2,5.2
+2026-06-23,item-paneer-02,Paneer Butter Masala,79,62,17,17,21.52,over_production,64.6,3.8
+2026-06-23,item-friedrice-03,Veg Fried Rice,57,53,4,4,7.02,preparation_error,10.0,2.5
+2026-06-23,item-salmon-04,Grilled Salmon,49,40,9,9,18.37,expired_shelf_life,85.5,9.5
+2026-06-23,item-pizza-05,Margherita Pizza,84,66,18,18,21.43,over_production,57.6,3.2
+2026-06-23,item-salad-06,Caesar Salad,68,53,15,15,22.06,over_production,33.0,2.2
+2026-06-24,item-biryani-01,Chicken Biryani,101,78,23,23,22.77,over_production,119.6,5.2
+2026-06-24,item-paneer-02,Paneer Butter Masala,79,62,17,17,21.52,over_production,64.6,3.8
+2026-06-24,item-friedrice-03,Veg Fried Rice,69,48,21,21,30.43,over_production,52.5,2.5
+2026-06-24,item-salmon-04,Grilled Salmon,51,37,14,14,27.45,over_production,133.0,9.5
+2026-06-24,item-pizza-05,Margherita Pizza,83,77,6,6,7.23,customer_leftover,19.2,3.2
+2026-06-24,item-salad-06,Caesar Salad,43,30,13,13,30.23,preparation_error,28.6,2.2
+2026-06-25,item-biryani-01,Chicken Biryani,84,73,11,11,13.1,preparation_error,57.2,5.2
+2026-06-25,item-paneer-02,Paneer Butter Masala,84,66,18,18,21.43,over_production,68.4,3.8
+2026-06-25,item-friedrice-03,Veg Fried Rice,46,43,3,3,6.52,over_production,7.5,2.5
+2026-06-25,item-salmon-04,Grilled Salmon,49,38,11,11,22.45,over_production,104.5,9.5
+2026-06-25,item-pizza-05,Margherita Pizza,82,76,6,6,7.32,over_production,19.2,3.2
+2026-06-25,item-salad-06,Caesar Salad,65,53,12,12,18.46,preparation_error,26.4,2.2
+2026-06-26,item-biryani-01,Chicken Biryani,139,107,32,32,23.02,over_production,166.4,5.2
+2026-06-26,item-paneer-02,Paneer Butter Masala,122,100,22,22,18.03,over_production,83.6,3.8
+2026-06-26,item-friedrice-03,Veg Fried Rice,81,59,22,22,27.16,over_production,55.0,2.5
+2026-06-26,item-salmon-04,Grilled Salmon,88,64,24,24,27.27,over_production,228.0,9.5
+2026-06-26,item-pizza-05,Margherita Pizza,98,91,7,7,7.14,over_production,22.4,3.2
+2026-06-26,item-salad-06,Caesar Salad,60,49,11,11,18.33,customer_leftover,24.2,2.2
+2026-06-27,item-biryani-01,Chicken Biryani,162,118,44,44,27.16,over_production,228.8,5.2
+2026-06-27,item-paneer-02,Paneer Butter Masala,142,116,26,26,18.31,over_production,98.8,3.8
+2026-06-27,item-friedrice-03,Veg Fried Rice,85,69,16,16,18.82,over_production,40.0,2.5
+2026-06-27,item-salmon-04,Grilled Salmon,66,48,18,18,27.27,over_production,171.0,9.5
+2026-06-27,item-pizza-05,Margherita Pizza,129,101,28,28,21.71,over_production,89.6,3.2
+2026-06-27,item-salad-06,Caesar Salad,62,48,14,14,22.58,preparation_error,30.8,2.2
+2026-06-28,item-biryani-01,Chicken Biryani,132,107,25,25,18.94,over_production,130.0,5.2
+2026-06-28,item-paneer-02,Paneer Butter Masala,83,77,6,6,7.23,preparation_error,22.8,3.8
+2026-06-28,item-friedrice-03,Veg Fried Rice,70,57,13,13,18.57,over_production,32.5,2.5
+2026-06-28,item-salmon-04,Grilled Salmon,60,42,18,18,30.0,over_production,171.0,9.5
+2026-06-28,item-pizza-05,Margherita Pizza,129,106,23,23,17.83,over_production,73.6,3.2
+2026-06-28,item-salad-06,Caesar Salad,66,48,18,18,27.27,over_production,39.6,2.2
+2026-06-29,item-biryani-01,Chicken Biryani,108,83,25,25,23.15,over_production,130.0,5.2
+2026-06-29,item-paneer-02,Paneer Butter Masala,72,59,13,13,18.06,preparation_error,49.4,3.8
+2026-06-29,item-friedrice-03,Veg Fried Rice,69,56,13,13,18.84,over_production,32.5,2.5
+2026-06-29,item-salmon-04,Grilled Salmon,60,49,11,11,18.33,customer_leftover,104.5,9.5
+2026-06-29,item-pizza-05,Margherita Pizza,104,96,8,8,7.69,over_production,25.6,3.2
+2026-06-29,item-salad-06,Caesar Salad,70,51,19,19,27.14,over_production,41.8,2.2
+2026-06-30,item-biryani-01,Chicken Biryani,107,93,14,14,13.08,customer_leftover,72.8,5.2
+2026-06-30,item-paneer-02,Paneer Butter Masala,67,62,5,5,7.46,preparation_error,19.0,3.8
+2026-06-30,item-friedrice-03,Veg Fried Rice,61,50,11,11,18.03,over_production,27.5,2.5
+2026-06-30,item-salmon-04,Grilled Salmon,41,36,5,5,12.2,preparation_error,47.5,9.5
+2026-06-30,item-pizza-05,Margherita Pizza,66,61,5,5,7.58,over_production,16.0,3.2
+2026-06-30,item-salad-06,Caesar Salad,41,36,5,5,12.2,over_production,11.0,2.2
+2026-07-01,item-biryani-01,Chicken Biryani,110,86,24,24,21.82,over_production,124.8,5.2
+2026-07-01,item-paneer-02,Paneer Butter Masala,78,68,10,10,12.82,over_production,38.0,3.8
+2026-07-01,item-friedrice-03,Veg Fried Rice,72,59,13,13,18.06,over_production,32.5,2.5
+2026-07-01,item-salmon-04,Grilled Salmon,47,37,10,10,21.28,expired_shelf_life,95.0,9.5
+2026-07-01,item-pizza-05,Margherita Pizza,79,73,6,6,7.59,over_production,19.2,3.2
+2026-07-01,item-salad-06,Caesar Salad,41,34,7,7,17.07,over_production,15.4,2.2
+2026-07-02,item-biryani-01,Chicken Biryani,104,76,28,28,26.92,over_production,145.6,5.2
+2026-07-02,item-paneer-02,Paneer Butter Masala,72,56,16,16,22.22,over_production,60.8,3.8
+2026-07-02,item-friedrice-03,Veg Fried Rice,72,50,22,22,30.56,over_production,55.0,2.5
+2026-07-02,item-salmon-04,Grilled Salmon,51,36,15,15,29.41,expired_shelf_life,142.5,9.5
+2026-07-02,item-pizza-05,Margherita Pizza,136,106,30,30,22.06,over_production,96.0,3.2
+2026-07-02,item-salad-06,Caesar Salad,47,34,13,13,27.66,preparation_error,28.6,2.2
+2026-07-03,item-biryani-01,Chicken Biryani,121,112,9,9,7.44,preparation_error,46.8,5.2
+2026-07-03,item-paneer-02,Paneer Butter Masala,86,80,6,6,6.98,over_production,22.8,3.8
+2026-07-03,item-friedrice-03,Veg Fried Rice,87,71,16,16,18.39,over_production,40.0,2.5
+2026-07-03,item-salmon-04,Grilled Salmon,66,54,12,12,18.18,expired_shelf_life,114.0,9.5
+2026-07-03,item-pizza-05,Margherita Pizza,134,105,29,29,21.64,over_production,92.8,3.2
+2026-07-03,item-salad-06,Caesar Salad,74,58,16,16,21.62,over_production,35.2,2.2
+2026-07-04,item-biryani-01,Chicken Biryani,161,126,35,35,21.74,over_production,182.0,5.2
+2026-07-04,item-paneer-02,Paneer Butter Masala,99,77,22,22,22.22,over_production,83.6,3.8
+2026-07-04,item-friedrice-03,Veg Fried Rice,76,62,14,14,18.42,preparation_error,35.0,2.5
+2026-07-04,item-salmon-04,Grilled Salmon,57,53,4,4,7.02,expired_shelf_life,38.0,9.5
+2026-07-04,item-pizza-05,Margherita Pizza,105,91,14,14,13.33,preparation_error,44.8,3.2
+2026-07-04,item-salad-06,Caesar Salad,69,64,5,5,7.25,customer_leftover,11.0,2.2
+2026-07-05,item-biryani-01,Chicken Biryani,134,109,25,25,18.66,over_production,130.0,5.2
+2026-07-05,item-paneer-02,Paneer Butter Masala,114,89,25,25,21.93,over_production,95.0,3.8
+2026-07-05,item-friedrice-03,Veg Fried Rice,70,54,16,16,22.86,over_production,40.0,2.5
+2026-07-05,item-salmon-04,Grilled Salmon,54,38,16,16,29.63,over_production,152.0,9.5
+2026-07-05,item-pizza-05,Margherita Pizza,134,110,24,24,17.91,over_production,76.8,3.2
+2026-07-05,item-salad-06,Caesar Salad,41,33,8,8,19.51,customer_leftover,17.6,2.2
+2026-07-06,item-biryani-01,Chicken Biryani,113,88,25,25,22.12,over_production,130.0,5.2
+2026-07-06,item-paneer-02,Paneer Butter Masala,65,60,5,5,7.69,preparation_error,19.0,3.8
+2026-07-06,item-friedrice-03,Veg Fried Rice,67,55,12,12,17.91,customer_leftover,30.0,2.5
+2026-07-06,item-salmon-04,Grilled Salmon,43,35,8,8,18.6,customer_leftover,76.0,9.5
+2026-07-06,item-pizza-05,Margherita Pizza,77,60,17,17,22.08,over_production,54.4,3.2
+2026-07-06,item-salad-06,Caesar Salad,51,44,7,7,13.73,over_production,15.4,2.2
+2026-07-07,item-biryani-01,Chicken Biryani,99,81,18,18,18.18,over_production,93.6,5.2
+2026-07-07,item-paneer-02,Paneer Butter Masala,62,57,5,5,8.06,customer_leftover,19.0,3.8
+2026-07-07,item-friedrice-03,Veg Fried Rice,59,55,4,4,6.78,over_production,10.0,2.5
+2026-07-07,item-salmon-04,Grilled Salmon,37,29,8,8,21.62,expired_shelf_life,76.0,9.5
+2026-07-07,item-pizza-05,Margherita Pizza,107,88,19,19,17.76,over_production,60.8,3.2
+2026-07-07,item-salad-06,Caesar Salad,60,52,8,8,13.33,over_production,17.6,2.2
+2026-07-08,item-biryani-01,Chicken Biryani,104,85,19,19,18.27,over_production,98.8,5.2
+2026-07-08,item-paneer-02,Paneer Butter Masala,74,61,13,13,17.57,preparation_error,49.4,3.8
+2026-07-08,item-friedrice-03,Veg Fried Rice,67,52,15,15,22.39,over_production,37.5,2.5
+2026-07-08,item-salmon-04,Grilled Salmon,47,37,10,10,21.28,over_production,95.0,9.5
+2026-07-08,item-pizza-05,Margherita Pizza,79,73,6,6,7.59,customer_leftover,19.2,3.2
+2026-07-08,item-salad-06,Caesar Salad,49,40,9,9,18.37,over_production,19.8,2.2
+2026-07-09,item-biryani-01,Chicken Biryani,97,84,13,13,13.4,over_production,67.6,5.2
+2026-07-09,item-paneer-02,Paneer Butter Masala,68,59,9,9,13.24,customer_leftover,34.2,3.8
+2026-07-09,item-friedrice-03,Veg Fried Rice,70,55,15,15,21.43,over_production,37.5,2.5
+2026-07-09,item-salmon-04,Grilled Salmon,40,37,3,3,7.5,over_production,28.5,9.5
+2026-07-09,item-pizza-05,Margherita Pizza,69,54,15,15,21.74,over_production,48.0,3.2
+2026-07-09,item-salad-06,Caesar Salad,51,42,9,9,17.65,over_production,19.8,2.2
+2026-07-10,item-biryani-01,Chicken Biryani,157,123,34,34,21.66,over_production,176.8,5.2
+2026-07-10,item-paneer-02,Paneer Butter Masala,90,78,12,12,13.33,over_production,45.6,3.8
+2026-07-10,item-friedrice-03,Veg Fried Rice,75,65,10,10,13.33,customer_leftover,25.0,2.5
+2026-07-10,item-salmon-04,Grilled Salmon,72,56,16,16,22.22,over_production,152.0,9.5
+2026-07-10,item-pizza-05,Margherita Pizza,118,92,26,26,22.03,over_production,83.2,3.2
+2026-07-10,item-salad-06,Caesar Salad,56,52,4,4,7.14,over_production,8.8,2.2
+2026-07-11,item-biryani-01,Chicken Biryani,130,95,35,35,26.92,over_production,182.0,5.2
+2026-07-11,item-paneer-02,Paneer Butter Masala,91,84,7,7,7.69,over_production,26.6,3.8
+2026-07-11,item-friedrice-03,Veg Fried Rice,75,55,20,20,26.67,over_production,50.0,2.5
+2026-07-11,item-salmon-04,Grilled Salmon,55,40,15,15,27.27,customer_leftover,142.5,9.5
+2026-07-11,item-pizza-05,Margherita Pizza,134,124,10,10,7.46,over_production,32.0,3.2
+2026-07-11,item-salad-06,Caesar Salad,54,38,16,16,29.63,over_production,35.2,2.2
+2026-07-12,item-biryani-01,Chicken Biryani,203,166,37,37,18.23,over_production,192.4,5.2
+2026-07-12,item-paneer-02,Paneer Butter Masala,89,77,12,12,13.48,customer_leftover,45.6,3.8
+2026-07-12,item-friedrice-03,Veg Fried Rice,68,63,5,5,7.35,preparation_error,12.5,2.5
+2026-07-12,item-salmon-04,Grilled Salmon,70,57,13,13,18.57,over_production,123.5,9.5
+2026-07-12,item-pizza-05,Margherita Pizza,126,103,23,23,18.25,over_production,73.6,3.2
+2026-07-12,item-salad-06,Caesar Salad,67,62,5,5,7.46,over_production,11.0,2.2
+2026-07-13,item-biryani-01,Chicken Biryani,93,86,7,7,7.53,over_production,36.4,5.2
+2026-07-13,item-paneer-02,Paneer Butter Masala,68,56,12,12,17.65,customer_leftover,45.6,3.8
+2026-07-13,item-friedrice-03,Veg Fried Rice,61,50,11,11,18.03,over_production,27.5,2.5
+2026-07-13,item-salmon-04,Grilled Salmon,34,30,4,4,11.76,customer_leftover,38.0,9.5
+2026-07-13,item-pizza-05,Margherita Pizza,74,61,13,13,17.57,over_production,41.6,3.2
+2026-07-13,item-salad-06,Caesar Salad,50,39,11,11,22.0,over_production,24.2,2.2
+2026-07-14,item-biryani-01,Chicken Biryani,99,72,27,27,27.27,over_production,140.4,5.2
+2026-07-14,item-paneer-02,Paneer Butter Masala,70,61,9,9,12.86,over_production,34.2,3.8
+2026-07-14,item-friedrice-03,Veg Fried Rice,62,50,12,12,19.35,over_production,30.0,2.5
+2026-07-14,item-salmon-04,Grilled Salmon,54,44,10,10,18.52,customer_leftover,95.0,9.5
+2026-07-14,item-pizza-05,Margherita Pizza,90,74,16,16,17.78,over_production,51.2,3.2
+2026-07-14,item-salad-06,Caesar Salad,59,43,16,16,27.12,over_production,35.2,2.2
+2026-07-15,item-biryani-01,Chicken Biryani,102,80,22,22,21.57,over_production,114.4,5.2
+2026-07-15,item-paneer-02,Paneer Butter Masala,72,56,16,16,22.22,over_production,60.8,3.8
+2026-07-15,item-friedrice-03,Veg Fried Rice,56,46,10,10,17.86,over_production,25.0,2.5
+2026-07-15,item-salmon-04,Grilled Salmon,45,37,8,8,17.78,expired_shelf_life,76.0,9.5
+2026-07-15,item-pizza-05,Margherita Pizza,88,69,19,19,21.59,over_production,60.8,3.2
+2026-07-15,item-salad-06,Caesar Salad,50,39,11,11,22.0,over_production,24.2,2.2
+2026-07-16,item-biryani-01,Chicken Biryani,118,86,32,32,27.12,over_production,166.4,5.2
+2026-07-16,item-paneer-02,Paneer Butter Masala,65,60,5,5,7.69,over_production,19.0,3.8
+2026-07-16,item-friedrice-03,Veg Fried Rice,59,43,16,16,27.12,over_production,40.0,2.5
+2026-07-16,item-salmon-04,Grilled Salmon,52,38,14,14,26.92,preparation_error,133.0,9.5
+2026-07-16,item-pizza-05,Margherita Pizza,105,91,14,14,13.33,over_production,44.8,3.2
+2026-07-16,item-salad-06,Caesar Salad,59,41,18,18,30.51,over_production,39.6,2.2
+2026-07-17,item-biryani-01,Chicken Biryani,211,162,49,49,23.22,over_production,254.8,5.2
+2026-07-17,item-paneer-02,Paneer Butter Masala,109,95,14,14,12.84,over_production,53.2,3.8
+2026-07-17,item-friedrice-03,Veg Fried Rice,88,64,24,24,27.27,over_production,60.0,2.5
+2026-07-17,item-salmon-04,Grilled Salmon,64,49,15,15,23.44,expired_shelf_life,142.5,9.5
+2026-07-17,item-pizza-05,Margherita Pizza,120,98,22,22,18.33,over_production,70.4,3.2
+2026-07-17,item-salad-06,Caesar Salad,61,47,14,14,22.95,preparation_error,30.8,2.2
+2026-07-18,item-biryani-01,Chicken Biryani,147,136,11,11,7.48,over_production,57.2,5.2
+2026-07-18,item-paneer-02,Paneer Butter Masala,102,89,13,13,12.75,over_production,49.4,3.8
+2026-07-18,item-friedrice-03,Veg Fried Rice,77,67,10,10,12.99,preparation_error,25.0,2.5
+2026-07-18,item-salmon-04,Grilled Salmon,83,68,15,15,18.07,expired_shelf_life,142.5,9.5
+2026-07-18,item-pizza-05,Margherita Pizza,123,107,16,16,13.01,over_production,51.2,3.2
+2026-07-18,item-salad-06,Caesar Salad,54,50,4,4,7.41,preparation_error,8.8,2.2
+2026-07-19,item-biryani-01,Chicken Biryani,122,106,16,16,13.11,over_production,83.2,5.2
+2026-07-19,item-paneer-02,Paneer Butter Masala,87,76,11,11,12.64,over_production,41.8,3.8
+2026-07-19,item-friedrice-03,Veg Fried Rice,74,58,16,16,21.62,over_production,40.0,2.5
+2026-07-19,item-salmon-04,Grilled Salmon,64,50,14,14,21.88,over_production,133.0,9.5
+2026-07-19,item-pizza-05,Margherita Pizza,114,99,15,15,13.16,over_production,48.0,3.2
+2026-07-19,item-salad-06,Caesar Salad,57,47,10,10,17.54,customer_leftover,22.0,2.2
+2026-07-20,item-biryani-01,Chicken Biryani,92,85,7,7,7.61,preparation_error,36.4,5.2
+2026-07-20,item-paneer-02,Paneer Butter Masala,73,60,13,13,17.81,over_production,49.4,3.8
+2026-07-20,item-friedrice-03,Veg Fried Rice,63,49,14,14,22.22,over_production,35.0,2.5
+2026-07-20,item-salmon-04,Grilled Salmon,38,35,3,3,7.89,preparation_error,28.5,9.5
+2026-07-20,item-pizza-05,Margherita Pizza,96,75,21,21,21.88,over_production,67.2,3.2
+2026-07-20,item-salad-06,Caesar Salad,49,45,4,4,8.16,preparation_error,8.8,2.2
+2026-07-21,item-biryani-01,Chicken Biryani,95,83,12,12,12.63,over_production,62.4,5.2
+2026-07-21,item-paneer-02,Paneer Butter Masala,66,54,12,12,18.18,preparation_error,45.6,3.8
+2026-07-21,item-friedrice-03,Veg Fried Rice,57,47,10,10,17.54,customer_leftover,25.0,2.5
+2026-07-21,item-salmon-04,Grilled Salmon,44,34,10,10,22.73,expired_shelf_life,95.0,9.5
+2026-07-21,item-pizza-05,Margherita Pizza,113,105,8,8,7.08,over_production,25.6,3.2
+2026-07-21,item-salad-06,Caesar Salad,50,41,9,9,18.0,over_production,19.8,2.2
+2026-07-22,item-biryani-01,Chicken Biryani,107,78,29,29,27.1,over_production,150.8,5.2
+2026-07-22,item-paneer-02,Paneer Butter Masala,83,65,18,18,21.69,over_production,68.4,3.8
+2026-07-22,item-friedrice-03,Veg Fried Rice,67,49,18,18,26.87,over_production,45.0,2.5
+2026-07-22,item-salmon-04,Grilled Salmon,53,37,16,16,30.19,over_production,152.0,9.5
+2026-07-22,item-pizza-05,Margherita Pizza,94,82,12,12,12.77,over_production,38.4,3.2
+2026-07-22,item-salad-06,Caesar Salad,46,32,14,14,30.43,preparation_error,30.8,2.2
+2026-07-23,item-biryani-01,Chicken Biryani,100,70,30,30,30.0,over_production,156.0,5.2
+2026-07-23,item-paneer-02,Paneer Butter Masala,81,63,18,18,22.22,over_production,68.4,3.8
+2026-07-23,item-friedrice-03,Veg Fried Rice,79,58,21,21,26.58,over_production,52.5,2.5
+2026-07-23,item-salmon-04,Grilled Salmon,40,28,12,12,30.0,preparation_error,114.0,9.5
+2026-07-23,item-pizza-05,Margherita Pizza,85,74,11,11,12.94,preparation_error,35.2,3.2
+2026-07-23,item-salad-06,Caesar Salad,66,48,18,18,27.27,over_production,39.6,2.2
+2026-07-24,item-biryani-01,Chicken Biryani,165,127,38,38,23.03,over_production,197.6,5.2
+2026-07-24,item-paneer-02,Paneer Butter Masala,86,80,6,6,6.98,over_production,22.8,3.8
+2026-07-24,item-friedrice-03,Veg Fried Rice,57,46,11,11,19.3,over_production,27.5,2.5
+2026-07-24,item-salmon-04,Grilled Salmon,97,71,26,26,26.8,over_production,247.0,9.5
+2026-07-24,item-pizza-05,Margherita Pizza,131,121,10,10,7.63,over_production,32.0,3.2
+2026-07-24,item-salad-06,Caesar Salad,81,59,22,22,27.16,over_production,48.4,2.2
+2026-07-25,item-biryani-01,Chicken Biryani,207,145,62,62,29.95,over_production,322.4,5.2
+2026-07-25,item-paneer-02,Paneer Butter Masala,126,103,23,23,18.25,over_production,87.4,3.8
+2026-07-25,item-friedrice-03,Veg Fried Rice,107,87,20,20,18.69,over_production,50.0,2.5
+2026-07-25,item-salmon-04,Grilled Salmon,89,72,17,17,19.1,over_production,161.5,9.5
+2026-07-25,item-pizza-05,Margherita Pizza,170,133,37,37,21.76,over_production,118.4,3.2
+2026-07-25,item-salad-06,Caesar Salad,88,68,20,20,22.73,over_production,44.0,2.2
+2026-07-26,item-biryani-01,Chicken Biryani,172,140,32,32,18.6,over_production,166.4,5.2
+2026-07-26,item-paneer-02,Paneer Butter Masala,137,107,30,30,21.9,over_production,114.0,3.8
+2026-07-26,item-friedrice-03,Veg Fried Rice,130,95,35,35,26.92,over_production,87.5,2.5
+2026-07-26,item-salmon-04,Grilled Salmon,96,67,29,29,30.21,over_production,275.5,9.5
+2026-07-26,item-pizza-05,Margherita Pizza,194,169,25,25,12.89,over_production,80.0,3.2
+2026-07-26,item-salad-06,Caesar Salad,76,53,23,23,30.26,over_production,50.6,2.2
+2026-07-27,item-biryani-01,Chicken Biryani,124,87,37,37,29.84,over_production,192.4,5.2
+2026-07-27,item-paneer-02,Paneer Butter Masala,67,55,12,12,17.91,over_production,45.6,3.8
+2026-07-27,item-friedrice-03,Veg Fried Rice,69,56,13,13,18.84,over_production,32.5,2.5
+2026-07-27,item-salmon-04,Grilled Salmon,44,31,13,13,29.55,over_production,123.5,9.5
+2026-07-27,item-pizza-05,Margherita Pizza,93,76,17,17,18.28,over_production,54.4,3.2
+2026-07-27,item-salad-06,Caesar Salad,61,43,18,18,29.51,over_production,39.6,2.2
+2026-07-28,item-biryani-01,Chicken Biryani,93,81,12,12,12.9,over_production,62.4,5.2
+2026-07-28,item-paneer-02,Paneer Butter Masala,64,59,5,5,7.81,over_production,19.0,3.8
+2026-07-28,item-friedrice-03,Veg Fried Rice,64,50,14,14,21.88,over_production,35.0,2.5
+2026-07-28,item-salmon-04,Grilled Salmon,39,32,7,7,17.95,over_production,66.5,9.5
+2026-07-28,item-pizza-05,Margherita Pizza,112,104,8,8,7.14,over_production,25.6,3.2
+2026-07-28,item-salad-06,Caesar Salad,59,46,13,13,22.03,preparation_error,28.6,2.2
+2026-07-29,item-biryani-01,Chicken Biryani,84,78,6,6,7.14,customer_leftover,31.2,5.2
+2026-07-29,item-paneer-02,Paneer Butter Masala,61,48,13,13,21.31,preparation_error,49.4,3.8
+2026-07-29,item-friedrice-03,Veg Fried Rice,63,49,14,14,22.22,preparation_error,35.0,2.5
+2026-07-29,item-salmon-04,Grilled Salmon,51,42,9,9,17.65,expired_shelf_life,85.5,9.5
+2026-07-29,item-pizza-05,Margherita Pizza,95,74,21,21,22.11,over_production,67.2,3.2
+2026-07-29,item-salad-06,Caesar Salad,49,40,9,9,18.37,over_production,19.8,2.2
+2026-07-30,item-biryani-01,Chicken Biryani,104,85,19,19,18.27,over_production,98.8,5.2
+2026-07-30,item-paneer-02,Paneer Butter Masala,68,63,5,5,7.35,customer_leftover,19.0,3.8
+2026-07-30,item-friedrice-03,Veg Fried Rice,49,45,4,4,8.16,preparation_error,10.0,2.5
+2026-07-30,item-salmon-04,Grilled Salmon,49,38,11,11,22.45,over_production,104.5,9.5
+2026-07-30,item-pizza-05,Margherita Pizza,90,74,16,16,17.78,over_production,51.2,3.2
+2026-07-30,item-salad-06,Caesar Salad,54,42,12,12,22.22,customer_leftover,26.4,2.2
+2026-07-31,item-biryani-01,Chicken Biryani,160,123,37,37,23.12,over_production,192.4,5.2
+2026-07-31,item-paneer-02,Paneer Butter Masala,91,79,12,12,13.19,customer_leftover,45.6,3.8
+2026-07-31,item-friedrice-03,Veg Fried Rice,79,61,18,18,22.78,over_production,45.0,2.5
+2026-07-31,item-salmon-04,Grilled Salmon,109,76,33,33,30.28,over_production,313.5,9.5
+2026-07-31,item-pizza-05,Margherita Pizza,118,92,26,26,22.03,over_production,83.2,3.2
+2026-07-31,item-salad-06,Caesar Salad,78,60,18,18,23.08,over_production,39.6,2.2
+2026-08-01,item-biryani-01,Chicken Biryani,236,184,52,52,22.03,over_production,270.4,5.2
+2026-08-01,item-paneer-02,Paneer Butter Masala,87,76,11,11,12.64,over_production,41.8,3.8
+2026-08-01,item-friedrice-03,Veg Fried Rice,79,65,14,14,17.72,preparation_error,35.0,2.5
+2026-08-01,item-salmon-04,Grilled Salmon,76,59,17,17,22.37,over_production,161.5,9.5
+2026-08-01,item-pizza-05,Margherita Pizza,109,85,24,24,22.02,over_production,76.8,3.2
+2026-08-01,item-salad-06,Caesar Salad,59,48,11,11,18.64,preparation_error,24.2,2.2
+2026-08-02,item-biryani-01,Chicken Biryani,155,121,34,34,21.94,over_production,176.8,5.2
+2026-08-02,item-paneer-02,Paneer Butter Masala,82,76,6,6,7.32,over_production,22.8,3.8
+2026-08-02,item-friedrice-03,Veg Fried Rice,60,56,4,4,6.67,over_production,10.0,2.5
+2026-08-02,item-salmon-04,Grilled Salmon,65,60,5,5,7.69,over_production,47.5,9.5
+2026-08-02,item-pizza-05,Margherita Pizza,105,97,8,8,7.62,preparation_error,25.6,3.2
+2026-08-02,item-salad-06,Caesar Salad,60,47,13,13,21.67,customer_leftover,28.6,2.2
+2026-08-03,item-biryani-01,Chicken Biryani,94,66,28,28,29.79,over_production,145.6,5.2
+2026-08-03,item-paneer-02,Paneer Butter Masala,81,66,15,15,18.52,over_production,57.0,3.8
+2026-08-03,item-friedrice-03,Veg Fried Rice,58,42,16,16,27.59,over_production,40.0,2.5
+2026-08-03,item-salmon-04,Grilled Salmon,30,23,7,7,23.33,over_production,66.5,9.5
+2026-08-03,item-pizza-05,Margherita Pizza,90,78,12,12,13.33,preparation_error,38.4,3.2
+2026-08-03,item-salad-06,Caesar Salad,34,24,10,10,29.41,preparation_error,22.0,2.2
+2026-08-04,item-biryani-01,Chicken Biryani,96,89,7,7,7.29,over_production,36.4,5.2
+2026-08-04,item-paneer-02,Paneer Butter Masala,63,55,8,8,12.7,preparation_error,30.4,3.8
+2026-08-04,item-friedrice-03,Veg Fried Rice,55,51,4,4,7.27,over_production,10.0,2.5
+2026-08-04,item-salmon-04,Grilled Salmon,56,49,7,7,12.5,expired_shelf_life,66.5,9.5
+2026-08-04,item-pizza-05,Margherita Pizza,93,76,17,17,18.28,over_production,54.4,3.2
+2026-08-04,item-salad-06,Caesar Salad,66,54,12,12,18.18,over_production,26.4,2.2
+2026-08-05,item-biryani-01,Chicken Biryani,85,79,6,6,7.06,over_production,31.2,5.2
+2026-08-05,item-paneer-02,Paneer Butter Masala,69,54,15,15,21.74,over_production,57.0,3.8
+2026-08-05,item-friedrice-03,Veg Fried Rice,53,49,4,4,7.55,customer_leftover,10.0,2.5
+2026-08-05,item-salmon-04,Grilled Salmon,53,49,4,4,7.55,customer_leftover,38.0,9.5
+2026-08-05,item-pizza-05,Margherita Pizza,97,76,21,21,21.65,over_production,67.2,3.2
+2026-08-05,item-salad-06,Caesar Salad,51,40,11,11,21.57,customer_leftover,24.2,2.2
+2026-08-06,item-biryani-01,Chicken Biryani,110,86,24,24,21.82,over_production,124.8,5.2
+2026-08-06,item-paneer-02,Paneer Butter Masala,60,56,4,4,6.67,over_production,15.2,3.8
+2026-08-06,item-friedrice-03,Veg Fried Rice,67,58,9,9,13.43,preparation_error,22.5,2.5
+2026-08-06,item-salmon-04,Grilled Salmon,38,30,8,8,21.05,expired_shelf_life,76.0,9.5
+2026-08-06,item-pizza-05,Margherita Pizza,82,71,11,11,13.41,over_production,35.2,3.2
+2026-08-06,item-salad-06,Caesar Salad,53,46,7,7,13.21,over_production,15.4,2.2
+2026-08-07,item-biryani-01,Chicken Biryani,148,121,27,27,18.24,over_production,140.4,5.2
+2026-08-07,item-paneer-02,Paneer Butter Masala,101,79,22,22,21.78,over_production,83.6,3.8
+2026-08-07,item-friedrice-03,Veg Fried Rice,64,59,5,5,7.81,over_production,12.5,2.5
+2026-08-07,item-salmon-04,Grilled Salmon,96,79,17,17,17.71,over_production,161.5,9.5
+2026-08-07,item-pizza-05,Margherita Pizza,93,81,12,12,12.9,over_production,38.4,3.2
+2026-08-07,item-salad-06,Caesar Salad,77,67,10,10,12.99,customer_leftover,22.0,2.2
+2026-08-08,item-biryani-01,Chicken Biryani,164,128,36,36,21.95,over_production,187.2,5.2
+2026-08-08,item-paneer-02,Paneer Butter Masala,100,82,18,18,18.0,over_production,68.4,3.8
+2026-08-08,item-friedrice-03,Veg Fried Rice,79,65,14,14,17.72,customer_leftover,35.0,2.5
+2026-08-08,item-salmon-04,Grilled Salmon,56,49,7,7,12.5,customer_leftover,66.5,9.5
+2026-08-08,item-pizza-05,Margherita Pizza,137,107,30,30,21.9,over_production,96.0,3.2
+2026-08-08,item-salad-06,Caesar Salad,77,60,17,17,22.08,over_production,37.4,2.2
+2026-08-09,item-biryani-01,Chicken Biryani,144,125,19,19,13.19,over_production,98.8,5.2
+2026-08-09,item-paneer-02,Paneer Butter Masala,94,77,17,17,18.09,over_production,64.6,3.8
+2026-08-09,item-friedrice-03,Veg Fried Rice,76,62,14,14,18.42,over_production,35.0,2.5
+2026-08-09,item-salmon-04,Grilled Salmon,57,53,4,4,7.02,over_production,38.0,9.5
+2026-08-09,item-pizza-05,Margherita Pizza,113,93,20,20,17.7,over_production,64.0,3.2
+2026-08-09,item-salad-06,Caesar Salad,56,52,4,4,7.14,over_production,8.8,2.2
+2026-08-10,item-biryani-01,Chicken Biryani,103,84,19,19,18.45,over_production,98.8,5.2
+2026-08-10,item-paneer-02,Paneer Butter Masala,72,67,5,5,6.94,over_production,19.0,3.8
+2026-08-10,item-friedrice-03,Veg Fried Rice,71,55,16,16,22.54,over_production,40.0,2.5
+2026-08-10,item-salmon-04,Grilled Salmon,49,36,13,13,26.53,over_production,123.5,9.5
+2026-08-10,item-pizza-05,Margherita Pizza,81,63,18,18,22.22,over_production,57.6,3.2
+2026-08-10,item-salad-06,Caesar Salad,62,48,14,14,22.58,preparation_error,30.8,2.2
+2026-08-11,item-biryani-01,Chicken Biryani,102,89,13,13,12.75,over_production,67.6,5.2
+2026-08-11,item-paneer-02,Paneer Butter Masala,80,74,6,6,7.5,customer_leftover,22.8,3.8
+2026-08-11,item-friedrice-03,Veg Fried Rice,57,53,4,4,7.02,over_production,10.0,2.5
+2026-08-11,item-salmon-04,Grilled Salmon,40,31,9,9,22.5,over_production,85.5,9.5
+2026-08-11,item-pizza-05,Margherita Pizza,84,66,18,18,21.43,over_production,57.6,3.2
+2026-08-11,item-salad-06,Caesar Salad,56,44,12,12,21.43,customer_leftover,26.4,2.2
+2026-08-12,item-biryani-01,Chicken Biryani,111,90,21,21,18.92,over_production,109.2,5.2
+2026-08-12,item-paneer-02,Paneer Butter Masala,74,58,16,16,21.62,over_production,60.8,3.8
+2026-08-12,item-friedrice-03,Veg Fried Rice,65,50,15,15,23.08,over_production,37.5,2.5
+2026-08-12,item-salmon-04,Grilled Salmon,59,41,18,18,30.51,over_production,171.0,9.5
+2026-08-12,item-pizza-05,Margherita Pizza,117,96,21,21,17.95,over_production,67.2,3.2
+2026-08-12,item-salad-06,Caesar Salad,48,39,9,9,18.75,customer_leftover,19.8,2.2
+2026-08-13,item-biryani-01,Chicken Biryani,121,93,28,28,23.14,over_production,145.6,5.2
+2026-08-13,item-paneer-02,Paneer Butter Masala,68,53,15,15,22.06,preparation_error,57.0,3.8
+2026-08-13,item-friedrice-03,Veg Fried Rice,68,50,18,18,26.47,over_production,45.0,2.5
+2026-08-13,item-salmon-04,Grilled Salmon,47,33,14,14,29.79,expired_shelf_life,133.0,9.5
+2026-08-13,item-pizza-05,Margherita Pizza,79,73,6,6,7.59,over_production,19.2,3.2
+2026-08-13,item-salad-06,Caesar Salad,54,38,16,16,29.63,over_production,35.2,2.2
+2026-08-14,item-biryani-01,Chicken Biryani,135,117,18,18,13.33,over_production,93.6,5.2
+2026-08-14,item-paneer-02,Paneer Butter Masala,108,84,24,24,22.22,over_production,91.2,3.8
+2026-08-14,item-friedrice-03,Veg Fried Rice,67,52,15,15,22.39,preparation_error,37.5,2.5
+2026-08-14,item-salmon-04,Grilled Salmon,63,58,5,5,7.94,over_production,47.5,9.5
+2026-08-14,item-pizza-05,Margherita Pizza,113,88,25,25,22.12,over_production,80.0,3.2
+2026-08-14,item-salad-06,Caesar Salad,62,57,5,5,8.06,over_production,11.0,2.2
+2026-08-15,item-biryani-01,Chicken Biryani,140,115,25,25,17.86,over_production,130.0,5.2
+2026-08-15,item-paneer-02,Paneer Butter Masala,92,85,7,7,7.61,customer_leftover,26.6,3.8
+2026-08-15,item-friedrice-03,Veg Fried Rice,68,63,5,5,7.35,over_production,12.5,2.5
+2026-08-15,item-salmon-04,Grilled Salmon,59,55,4,4,6.78,expired_shelf_life,38.0,9.5
+2026-08-15,item-pizza-05,Margherita Pizza,105,91,14,14,13.33,over_production,44.8,3.2
+2026-08-15,item-salad-06,Caesar Salad,77,60,17,17,22.08,over_production,37.4,2.2
+2026-08-16,item-biryani-01,Chicken Biryani,154,125,29,29,18.83,over_production,150.8,5.2
+2026-08-16,item-paneer-02,Paneer Butter Masala,91,79,12,12,13.19,over_production,45.6,3.8
+2026-08-16,item-friedrice-03,Veg Fried Rice,70,51,19,19,27.14,over_production,47.5,2.5
+2026-08-16,item-salmon-04,Grilled Salmon,68,55,13,13,19.12,customer_leftover,123.5,9.5
+2026-08-16,item-pizza-05,Margherita Pizza,133,116,17,17,12.78,over_production,54.4,3.2
+2026-08-16,item-salad-06,Caesar Salad,51,36,15,15,29.41,customer_leftover,33.0,2.2
+2026-08-17,item-biryani-01,Chicken Biryani,81,75,6,6,7.41,over_production,31.2,5.2
+2026-08-17,item-paneer-02,Paneer Butter Masala,77,60,17,17,22.08,over_production,64.6,3.8
+2026-08-17,item-friedrice-03,Veg Fried Rice,49,45,4,4,8.16,preparation_error,10.0,2.5
+2026-08-17,item-salmon-04,Grilled Salmon,41,36,5,5,12.2,over_production,47.5,9.5
+2026-08-17,item-pizza-05,Margherita Pizza,113,105,8,8,7.08,over_production,25.6,3.2
+2026-08-17,item-salad-06,Caesar Salad,60,56,4,4,6.67,customer_leftover,8.8,2.2
+2026-08-18,item-biryani-01,Chicken Biryani,99,86,13,13,13.13,over_production,67.6,5.2
+2026-08-18,item-paneer-02,Paneer Butter Masala,79,62,17,17,21.52,over_production,64.6,3.8
+2026-08-18,item-friedrice-03,Veg Fried Rice,60,52,8,8,13.33,customer_leftover,20.0,2.5
+2026-08-18,item-salmon-04,Grilled Salmon,44,38,6,6,13.64,over_production,57.0,9.5
+2026-08-18,item-pizza-05,Margherita Pizza,82,64,18,18,21.95,over_production,57.6,3.2
+2026-08-18,item-salad-06,Caesar Salad,65,51,14,14,21.54,over_production,30.8,2.2
+2026-08-19,item-biryani-01,Chicken Biryani,89,73,16,16,17.98,over_production,83.2,5.2
+2026-08-19,item-paneer-02,Paneer Butter Masala,79,62,17,17,21.52,over_production,64.6,3.8
+2026-08-19,item-friedrice-03,Veg Fried Rice,55,48,7,7,12.73,over_production,17.5,2.5
+2026-08-19,item-salmon-04,Grilled Salmon,51,47,4,4,7.84,expired_shelf_life,38.0,9.5
+2026-08-19,item-pizza-05,Margherita Pizza,78,72,6,6,7.69,over_production,19.2,3.2
+2026-08-19,item-salad-06,Caesar Salad,59,46,13,13,22.03,over_production,28.6,2.2
+2026-08-20,item-biryani-01,Chicken Biryani,109,85,24,24,22.02,over_production,124.8,5.2
+2026-08-20,item-paneer-02,Paneer Butter Masala,67,55,12,12,17.91,over_production,45.6,3.8
+2026-08-20,item-friedrice-03,Veg Fried Rice,50,46,4,4,8.0,customer_leftover,10.0,2.5
+2026-08-20,item-salmon-04,Grilled Salmon,47,37,10,10,21.28,expired_shelf_life,95.0,9.5
+2026-08-20,item-pizza-05,Margherita Pizza,102,89,13,13,12.75,over_production,41.6,3.2
+2026-08-20,item-salad-06,Caesar Salad,54,42,12,12,22.22,over_production,26.4,2.2
+2026-08-21,item-biryani-01,Chicken Biryani,136,106,30,30,22.06,over_production,156.0,5.2
+2026-08-21,item-paneer-02,Paneer Butter Masala,94,77,17,17,18.09,over_production,64.6,3.8
+2026-08-21,item-friedrice-03,Veg Fried Rice,84,66,18,18,21.43,over_production,45.0,2.5
+2026-08-21,item-salmon-04,Grilled Salmon,59,48,11,11,18.64,expired_shelf_life,104.5,9.5
+2026-08-21,item-pizza-05,Margherita Pizza,102,94,8,8,7.84,preparation_error,25.6,3.2
+2026-08-21,item-salad-06,Caesar Salad,60,52,8,8,13.33,customer_leftover,17.6,2.2
+2026-08-22,item-biryani-01,Chicken Biryani,186,136,50,50,26.88,over_production,260.0,5.2
+2026-08-22,item-paneer-02,Paneer Butter Masala,116,101,15,15,12.93,over_production,57.0,3.8
+2026-08-22,item-friedrice-03,Veg Fried Rice,68,50,18,18,26.47,over_production,45.0,2.5
+2026-08-22,item-salmon-04,Grilled Salmon,52,40,12,12,23.08,expired_shelf_life,114.0,9.5
+2026-08-22,item-pizza-05,Margherita Pizza,152,119,33,33,21.71,over_production,105.6,3.2
+2026-08-22,item-salad-06,Caesar Salad,67,49,18,18,26.87,over_production,39.6,2.2
+2026-08-23,item-biryani-01,Chicken Biryani,147,128,19,19,12.93,over_production,98.8,5.2
+2026-08-23,item-paneer-02,Paneer Butter Masala,112,97,15,15,13.39,customer_leftover,57.0,3.8
+2026-08-23,item-friedrice-03,Veg Fried Rice,72,63,9,9,12.5,over_production,22.5,2.5
+2026-08-23,item-salmon-04,Grilled Salmon,57,53,4,4,7.02,over_production,38.0,9.5
+2026-08-23,item-pizza-05,Margherita Pizza,110,86,24,24,21.82,over_production,76.8,3.2
+2026-08-23,item-salad-06,Caesar Salad,82,64,18,18,21.95,over_production,39.6,2.2
+2026-08-24,item-biryani-01,Chicken Biryani,115,90,25,25,21.74,over_production,130.0,5.2
+2026-08-24,item-paneer-02,Paneer Butter Masala,77,60,17,17,22.08,over_production,64.6,3.8
+2026-08-24,item-friedrice-03,Veg Fried Rice,59,46,13,13,22.03,over_production,32.5,2.5
+2026-08-24,item-salmon-04,Grilled Salmon,45,39,6,6,13.33,expired_shelf_life,57.0,9.5
+2026-08-24,item-pizza-05,Margherita Pizza,91,71,20,20,21.98,over_production,64.0,3.2
+2026-08-24,item-salad-06,Caesar Salad,55,43,12,12,21.82,preparation_error,26.4,2.2
+2026-08-25,item-biryani-01,Chicken Biryani,116,81,35,35,30.17,over_production,182.0,5.2
+2026-08-25,item-paneer-02,Paneer Butter Masala,74,64,10,10,13.51,preparation_error,38.0,3.8
+2026-08-25,item-friedrice-03,Veg Fried Rice,63,51,12,12,19.05,customer_leftover,30.0,2.5
+2026-08-25,item-salmon-04,Grilled Salmon,41,33,8,8,19.51,over_production,76.0,9.5
+2026-08-25,item-pizza-05,Margherita Pizza,84,78,6,6,7.14,over_production,19.2,3.2
+2026-08-25,item-salad-06,Caesar Salad,47,34,13,13,27.66,customer_leftover,28.6,2.2
+2026-08-26,item-biryani-01,Chicken Biryani,137,96,41,41,29.93,over_production,213.2,5.2
+2026-08-26,item-paneer-02,Paneer Butter Masala,71,66,5,5,7.04,over_production,19.0,3.8
+2026-08-26,item-friedrice-03,Veg Fried Rice,65,53,12,12,18.46,customer_leftover,30.0,2.5
+2026-08-26,item-salmon-04,Grilled Salmon,43,35,8,8,18.6,expired_shelf_life,76.0,9.5
+2026-08-26,item-pizza-05,Margherita Pizza,79,73,6,6,7.59,preparation_error,19.2,3.2
+2026-08-26,item-salad-06,Caesar Salad,44,36,8,8,18.18,over_production,17.6,2.2
+2026-08-27,item-biryani-01,Chicken Biryani,111,90,21,21,18.92,over_production,109.2,5.2
+2026-08-27,item-paneer-02,Paneer Butter Masala,82,64,18,18,21.95,over_production,68.4,3.8
+2026-08-27,item-friedrice-03,Veg Fried Rice,60,49,11,11,18.33,over_production,27.5,2.5
+2026-08-27,item-salmon-04,Grilled Salmon,50,35,15,15,30.0,customer_leftover,142.5,9.5
+2026-08-27,item-pizza-05,Margherita Pizza,93,86,7,7,7.53,over_production,22.4,3.2
+2026-08-27,item-salad-06,Caesar Salad,51,39,12,12,23.53,over_production,26.4,2.2
+2026-08-28,item-biryani-01,Chicken Biryani,139,129,10,10,7.19,preparation_error,52.0,5.2
+2026-08-28,item-paneer-02,Paneer Butter Masala,108,84,24,24,22.22,over_production,91.2,3.8
+2026-08-28,item-friedrice-03,Veg Fried Rice,73,60,13,13,17.81,over_production,32.5,2.5
+2026-08-28,item-salmon-04,Grilled Salmon,61,53,8,8,13.11,over_production,76.0,9.5
+2026-08-28,item-pizza-05,Margherita Pizza,107,93,14,14,13.08,preparation_error,44.8,3.2
+2026-08-28,item-salad-06,Caesar Salad,57,53,4,4,7.02,customer_leftover,8.8,2.2
+2026-08-29,item-biryani-01,Chicken Biryani,190,133,57,57,30.0,over_production,296.4,5.2
+2026-08-29,item-paneer-02,Paneer Butter Masala,116,95,21,21,18.1,over_production,79.8,3.8
+2026-08-29,item-friedrice-03,Veg Fried Rice,78,57,21,21,26.92,over_production,52.5,2.5
+2026-08-29,item-salmon-04,Grilled Salmon,79,55,24,24,30.38,over_production,228.0,9.5
+2026-08-29,item-pizza-05,Margherita Pizza,102,94,8,8,7.84,over_production,25.6,3.2
+2026-08-29,item-salad-06,Caesar Salad,74,57,17,17,22.97,over_production,37.4,2.2
+2026-08-30,item-biryani-01,Chicken Biryani,168,131,37,37,22.02,over_production,192.4,5.2
+2026-08-30,item-paneer-02,Paneer Butter Masala,94,77,17,17,18.09,over_production,64.6,3.8
+2026-08-30,item-friedrice-03,Veg Fried Rice,82,64,18,18,21.95,over_production,45.0,2.5
+2026-08-30,item-salmon-04,Grilled Salmon,66,57,9,9,13.64,preparation_error,85.5,9.5
+2026-08-30,item-pizza-05,Margherita Pizza,193,158,35,35,18.13,over_production,112.0,3.2
+2026-08-30,item-salad-06,Caesar Salad,65,60,5,5,7.69,preparation_error,11.0,2.2
+2026-08-31,item-biryani-01,Chicken Biryani,84,78,6,6,7.14,preparation_error,31.2,5.2
+2026-08-31,item-paneer-02,Paneer Butter Masala,63,55,8,8,12.7,over_production,30.4,3.8
+2026-08-31,item-friedrice-03,Veg Fried Rice,63,55,8,8,12.7,preparation_error,20.0,2.5
+2026-08-31,item-salmon-04,Grilled Salmon,51,42,9,9,17.65,preparation_error,85.5,9.5
+2026-08-31,item-pizza-05,Margherita Pizza,99,77,22,22,22.22,over_production,70.4,3.2
+2026-08-31,item-salad-06,Caesar Salad,40,37,3,3,7.5,customer_leftover,6.6,2.2
+2026-09-01,item-biryani-01,Chicken Biryani,108,84,24,24,22.22,over_production,124.8,5.2
+2026-09-01,item-paneer-02,Paneer Butter Masala,62,57,5,5,8.06,preparation_error,19.0,3.8
+2026-09-01,item-friedrice-03,Veg Fried Rice,62,54,8,8,12.9,customer_leftover,20.0,2.5
+2026-09-01,item-salmon-04,Grilled Salmon,49,40,9,9,18.37,expired_shelf_life,85.5,9.5
+2026-09-01,item-pizza-05,Margherita Pizza,76,66,10,10,13.16,over_production,32.0,3.2
+2026-09-01,item-salad-06,Caesar Salad,48,39,9,9,18.75,over_production,19.8,2.2
+2026-09-02,item-biryani-01,Chicken Biryani,117,82,35,35,29.91,over_production,182.0,5.2
+2026-09-02,item-paneer-02,Paneer Butter Masala,69,64,5,5,7.25,over_production,19.0,3.8
+2026-09-02,item-friedrice-03,Veg Fried Rice,70,54,16,16,22.86,over_production,40.0,2.5
+2026-09-02,item-salmon-04,Grilled Salmon,49,36,13,13,26.53,over_production,123.5,9.5
+2026-09-02,item-pizza-05,Margherita Pizza,90,70,20,20,22.22,over_production,64.0,3.2
+2026-09-02,item-salad-06,Caesar Salad,47,33,14,14,29.79,over_production,30.8,2.2
+2026-09-03,item-biryani-01,Chicken Biryani,100,87,13,13,13.0,customer_leftover,67.6,5.2
+2026-09-03,item-paneer-02,Paneer Butter Masala,70,55,15,15,21.43,over_production,57.0,3.8
+2026-09-03,item-friedrice-03,Veg Fried Rice,56,46,10,10,17.86,customer_leftover,25.0,2.5
+2026-09-03,item-salmon-04,Grilled Salmon,44,36,8,8,18.18,over_production,76.0,9.5
+2026-09-03,item-pizza-05,Margherita Pizza,85,70,15,15,17.65,over_production,48.0,3.2
+2026-09-03,item-salad-06,Caesar Salad,51,40,11,11,21.57,over_production,24.2,2.2
+2026-09-04,item-biryani-01,Chicken Biryani,170,138,32,32,18.82,over_production,166.4,5.2
+2026-09-04,item-paneer-02,Paneer Butter Masala,83,77,6,6,7.23,over_production,22.8,3.8
+2026-09-04,item-friedrice-03,Veg Fried Rice,84,68,16,16,19.05,over_production,40.0,2.5
+2026-09-04,item-salmon-04,Grilled Salmon,78,60,18,18,23.08,over_production,171.0,9.5
+2026-09-04,item-pizza-05,Margherita Pizza,109,89,20,20,18.35,over_production,64.0,3.2
+2026-09-04,item-salad-06,Caesar Salad,59,43,16,16,27.12,over_production,35.2,2.2
+2026-09-05,item-biryani-01,Chicken Biryani,158,115,43,43,27.22,over_production,223.6,5.2
+2026-09-05,item-paneer-02,Paneer Butter Masala,123,101,22,22,17.89,over_production,83.6,3.8
+2026-09-05,item-friedrice-03,Veg Fried Rice,77,56,21,21,27.27,over_production,52.5,2.5
+2026-09-05,item-salmon-04,Grilled Salmon,73,51,22,22,30.14,over_production,209.0,9.5
+2026-09-05,item-pizza-05,Margherita Pizza,118,109,9,9,7.63,over_production,28.8,3.2
+2026-09-05,item-salad-06,Caesar Salad,56,43,13,13,23.21,customer_leftover,28.6,2.2
+2026-09-06,item-biryani-01,Chicken Biryani,151,118,33,33,21.85,over_production,171.6,5.2
+2026-09-06,item-paneer-02,Paneer Butter Masala,101,79,22,22,21.78,over_production,83.6,3.8
+2026-09-06,item-friedrice-03,Veg Fried Rice,73,68,5,5,6.85,customer_leftover,12.5,2.5
+2026-09-06,item-salmon-04,Grilled Salmon,74,58,16,16,21.62,over_production,152.0,9.5
+2026-09-06,item-pizza-05,Margherita Pizza,113,88,25,25,22.12,over_production,80.0,3.2
+2026-09-06,item-salad-06,Caesar Salad,57,53,4,4,7.02,over_production,8.8,2.2
+2026-09-07,item-biryani-01,Chicken Biryani,123,90,33,33,26.83,over_production,171.6,5.2
+2026-09-07,item-paneer-02,Paneer Butter Masala,95,74,21,21,22.11,over_production,79.8,3.8
+2026-09-07,item-friedrice-03,Veg Fried Rice,99,69,30,30,30.3,over_production,75.0,2.5
+2026-09-07,item-salmon-04,Grilled Salmon,56,41,15,15,26.79,expired_shelf_life,142.5,9.5
+2026-09-07,item-pizza-05,Margherita Pizza,137,127,10,10,7.3,customer_leftover,32.0,3.2
+2026-09-07,item-salad-06,Caesar Salad,56,41,15,15,26.79,over_production,33.0,2.2
+2026-09-08,item-biryani-01,Chicken Biryani,123,96,27,27,21.95,over_production,140.4,5.2
+2026-09-08,item-paneer-02,Paneer Butter Masala,101,79,22,22,21.78,over_production,83.6,3.8
+2026-09-08,item-friedrice-03,Veg Fried Rice,51,47,4,4,7.84,over_production,10.0,2.5
+2026-09-08,item-salmon-04,Grilled Salmon,49,40,9,9,18.37,expired_shelf_life,85.5,9.5
+2026-09-08,item-pizza-05,Margherita Pizza,113,98,15,15,13.27,preparation_error,48.0,3.2
+2026-09-08,item-salad-06,Caesar Salad,50,39,11,11,22.0,preparation_error,24.2,2.2
+2026-09-09,item-biryani-01,Chicken Biryani,78,57,21,21,26.92,over_production,109.2,5.2
+2026-09-09,item-paneer-02,Paneer Butter Masala,76,70,6,6,7.89,over_production,22.8,3.8
+2026-09-09,item-friedrice-03,Veg Fried Rice,74,54,20,20,27.03,over_production,50.0,2.5
+2026-09-09,item-salmon-04,Grilled Salmon,37,26,11,11,29.73,expired_shelf_life,104.5,9.5
+2026-09-09,item-pizza-05,Margherita Pizza,85,74,11,11,12.94,over_production,35.2,3.2
+2026-09-09,item-salad-06,Caesar Salad,39,30,9,9,23.08,preparation_error,19.8,2.2
+2026-09-10,item-biryani-01,Chicken Biryani,119,87,32,32,26.89,over_production,166.4,5.2
+2026-09-10,item-paneer-02,Paneer Butter Masala,78,61,17,17,21.79,over_production,64.6,3.8
+2026-09-10,item-friedrice-03,Veg Fried Rice,54,44,10,10,18.52,over_production,25.0,2.5
+2026-09-10,item-salmon-04,Grilled Salmon,44,34,10,10,22.73,over_production,95.0,9.5
+2026-09-10,item-pizza-05,Margherita Pizza,85,79,6,6,7.06,over_production,19.2,3.2
+2026-09-10,item-salad-06,Caesar Salad,54,38,16,16,29.63,over_production,35.2,2.2
+2026-09-11,item-biryani-01,Chicken Biryani,142,109,33,33,23.24,over_production,171.6,5.2
+2026-09-11,item-paneer-02,Paneer Butter Masala,86,75,11,11,12.79,over_production,41.8,3.8
+2026-09-11,item-friedrice-03,Veg Fried Rice,79,61,18,18,22.78,over_production,45.0,2.5
+2026-09-11,item-salmon-04,Grilled Salmon,53,43,10,10,18.87,expired_shelf_life,95.0,9.5
+2026-09-11,item-pizza-05,Margherita Pizza,123,107,16,16,13.01,over_production,51.2,3.2
+2026-09-11,item-salad-06,Caesar Salad,55,42,13,13,23.64,over_production,28.6,2.2
+2026-09-12,item-biryani-01,Chicken Biryani,150,105,45,45,30.0,over_production,234.0,5.2
+2026-09-12,item-paneer-02,Paneer Butter Masala,90,83,7,7,7.78,customer_leftover,26.6,3.8
+2026-09-12,item-friedrice-03,Veg Fried Rice,110,80,30,30,27.27,over_production,75.0,2.5
+2026-09-12,item-salmon-04,Grilled Salmon,57,44,13,13,22.81,expired_shelf_life,123.5,9.5
+2026-09-12,item-pizza-05,Margherita Pizza,165,129,36,36,21.82,over_production,115.2,3.2
+2026-09-12,item-salad-06,Caesar Salad,72,50,22,22,30.56,over_production,48.4,2.2
+2026-09-13,item-biryani-01,Chicken Biryani,179,166,13,13,7.26,customer_leftover,67.6,5.2
+2026-09-13,item-paneer-02,Paneer Butter Masala,92,72,20,20,21.74,over_production,76.0,3.8
+2026-09-13,item-friedrice-03,Veg Fried Rice,66,61,5,5,7.58,preparation_error,12.5,2.5
+2026-09-13,item-salmon-04,Grilled Salmon,74,58,16,16,21.62,over_production,152.0,9.5
+2026-09-13,item-pizza-05,Margherita Pizza,126,103,23,23,18.25,over_production,73.6,3.2
+2026-09-13,item-salad-06,Caesar Salad,59,51,8,8,13.56,over_production,17.6,2.2
+2026-09-14,item-biryani-01,Chicken Biryani,111,90,21,21,18.92,over_production,109.2,5.2
+2026-09-14,item-paneer-02,Paneer Butter Masala,68,59,9,9,13.24,customer_leftover,34.2,3.8
+2026-09-14,item-friedrice-03,Veg Fried Rice,70,54,16,16,22.86,over_production,40.0,2.5
+2026-09-14,item-salmon-04,Grilled Salmon,52,42,10,10,19.23,over_production,95.0,9.5
+2026-09-14,item-pizza-05,Margherita Pizza,71,66,5,5,7.04,over_production,16.0,3.2
+2026-09-14,item-salad-06,Caesar Salad,53,43,10,10,18.87,preparation_error,22.0,2.2
+2026-09-15,item-biryani-01,Chicken Biryani,103,90,13,13,12.62,preparation_error,67.6,5.2
+2026-09-15,item-paneer-02,Paneer Butter Masala,64,59,5,5,7.81,customer_leftover,19.0,3.8
+2026-09-15,item-friedrice-03,Veg Fried Rice,64,56,8,8,12.5,customer_leftover,20.0,2.5
+2026-09-15,item-salmon-04,Grilled Salmon,36,31,5,5,13.89,preparation_error,47.5,9.5
+2026-09-15,item-pizza-05,Margherita Pizza,90,74,16,16,17.78,over_production,51.2,3.2
+2026-09-15,item-salad-06,Caesar Salad,44,38,6,6,13.64,over_production,13.2,2.2
+2026-09-16,item-biryani-01,Chicken Biryani,156,128,28,28,17.95,over_production,145.6,5.2
+2026-09-16,item-paneer-02,Paneer Butter Masala,72,56,16,16,22.22,over_production,60.8,3.8
+2026-09-16,item-friedrice-03,Veg Fried Rice,52,48,4,4,7.69,over_production,10.0,2.5
+2026-09-16,item-salmon-04,Grilled Salmon,61,50,11,11,18.03,customer_leftover,104.5,9.5
+2026-09-16,item-pizza-05,Margherita Pizza,83,68,15,15,18.07,over_production,48.0,3.2
+2026-09-16,item-salad-06,Caesar Salad,46,40,6,6,13.04,customer_leftover,13.2,2.2
+2026-09-17,item-biryani-01,Chicken Biryani,94,72,22,22,23.4,over_production,114.4,5.2
+2026-09-17,item-paneer-02,Paneer Butter Masala,78,64,14,14,17.95,over_production,53.2,3.8
+2026-09-17,item-friedrice-03,Veg Fried Rice,74,60,14,14,18.92,over_production,35.0,2.5
+2026-09-17,item-salmon-04,Grilled Salmon,47,36,11,11,23.4,customer_leftover,104.5,9.5
+2026-09-17,item-pizza-05,Margherita Pizza,103,95,8,8,7.77,over_production,25.6,3.2
+2026-09-17,item-salad-06,Caesar Salad,57,46,11,11,19.3,preparation_error,24.2,2.2
+2026-09-18,item-biryani-01,Chicken Biryani,125,116,9,9,7.2,over_production,46.8,5.2
+2026-09-18,item-paneer-02,Paneer Butter Masala,100,78,22,22,22.0,over_production,83.6,3.8
+2026-09-18,item-friedrice-03,Veg Fried Rice,77,63,14,14,18.18,preparation_error,35.0,2.5
+2026-09-18,item-salmon-04,Grilled Salmon,52,48,4,4,7.69,over_production,38.0,9.5
+2026-09-18,item-pizza-05,Margherita Pizza,107,99,8,8,7.48,over_production,25.6,3.2
+2026-09-18,item-salad-06,Caesar Salad,59,51,8,8,13.56,over_production,17.6,2.2
+2026-09-19,item-biryani-01,Chicken Biryani,172,134,38,38,22.09,over_production,197.6,5.2
+2026-09-19,item-paneer-02,Paneer Butter Masala,90,78,12,12,13.33,customer_leftover,45.6,3.8
+2026-09-19,item-friedrice-03,Veg Fried Rice,60,56,4,4,6.67,customer_leftover,10.0,2.5
+2026-09-19,item-salmon-04,Grilled Salmon,64,56,8,8,12.5,expired_shelf_life,76.0,9.5
+2026-09-19,item-pizza-05,Margherita Pizza,103,90,13,13,12.62,customer_leftover,41.6,3.2
+2026-09-19,item-salad-06,Caesar Salad,52,43,9,9,17.31,preparation_error,19.8,2.2
+2026-09-20,item-biryani-01,Chicken Biryani,159,122,37,37,23.27,over_production,192.4,5.2
+2026-09-20,item-paneer-02,Paneer Butter Masala,110,86,24,24,21.82,over_production,91.2,3.8
+2026-09-20,item-friedrice-03,Veg Fried Rice,101,74,27,27,26.73,over_production,67.5,2.5
+2026-09-20,item-salmon-04,Grilled Salmon,62,48,14,14,22.58,over_production,133.0,9.5
+2026-09-20,item-pizza-05,Margherita Pizza,115,100,15,15,13.04,over_production,48.0,3.2
+2026-09-20,item-salad-06,Caesar Salad,82,57,25,25,30.49,over_production,55.0,2.2
+2026-09-21,item-biryani-01,Chicken Biryani,80,70,10,10,12.5,customer_leftover,52.0,5.2
+2026-09-21,item-paneer-02,Paneer Butter Masala,72,59,13,13,18.06,over_production,49.4,3.8
+2026-09-21,item-friedrice-03,Veg Fried Rice,51,47,4,4,7.84,over_production,10.0,2.5
+2026-09-21,item-salmon-04,Grilled Salmon,40,35,5,5,12.5,expired_shelf_life,47.5,9.5
+2026-09-21,item-pizza-05,Margherita Pizza,106,87,19,19,17.92,over_production,60.8,3.2
+2026-09-21,item-salad-06,Caesar Salad,52,41,11,11,21.15,over_production,24.2,2.2
+2026-09-22,item-biryani-01,Chicken Biryani,116,91,25,25,21.55,over_production,130.0,5.2
+2026-09-22,item-paneer-02,Paneer Butter Masala,67,62,5,5,7.46,over_production,19.0,3.8
+2026-09-22,item-friedrice-03,Veg Fried Rice,67,52,15,15,22.39,over_production,37.5,2.5
+2026-09-22,item-salmon-04,Grilled Salmon,45,37,8,8,17.78,over_production,76.0,9.5
+2026-09-22,item-pizza-05,Margherita Pizza,105,82,23,23,21.9,over_production,73.6,3.2
+2026-09-22,item-salad-06,Caesar Salad,41,36,5,5,12.2,customer_leftover,11.0,2.2
+2026-09-23,item-biryani-01,Chicken Biryani,91,79,12,12,13.19,over_production,62.4,5.2
+2026-09-23,item-paneer-02,Paneer Butter Masala,77,63,14,14,18.18,over_production,53.2,3.8
+2026-09-23,item-friedrice-03,Veg Fried Rice,53,46,7,7,13.21,preparation_error,17.5,2.5
+2026-09-23,item-salmon-04,Grilled Salmon,44,34,10,10,22.73,expired_shelf_life,95.0,9.5
+2026-09-23,item-pizza-05,Margherita Pizza,73,68,5,5,6.85,customer_leftover,16.0,3.2
+2026-09-23,item-salad-06,Caesar Salad,55,43,12,12,21.82,over_production,26.4,2.2
+2026-09-24,item-biryani-01,Chicken Biryani,99,77,22,22,22.22,over_production,114.4,5.2
+2026-09-24,item-paneer-02,Paneer Butter Masala,65,60,5,5,7.69,preparation_error,19.0,3.8
+2026-09-24,item-friedrice-03,Veg Fried Rice,57,47,10,10,17.54,over_production,25.0,2.5
+2026-09-24,item-salmon-04,Grilled Salmon,40,31,9,9,22.5,preparation_error,85.5,9.5
+2026-09-24,item-pizza-05,Margherita Pizza,88,69,19,19,21.59,over_production,60.8,3.2
+2026-09-24,item-salad-06,Caesar Salad,51,47,4,4,7.84,over_production,8.8,2.2
+2026-09-25,item-biryani-01,Chicken Biryani,147,128,19,19,12.93,over_production,98.8,5.2
+2026-09-25,item-paneer-02,Paneer Butter Masala,83,72,11,11,13.25,over_production,41.8,3.8
+2026-09-25,item-friedrice-03,Veg Fried Rice,79,69,10,10,12.66,preparation_error,25.0,2.5
+2026-09-25,item-salmon-04,Grilled Salmon,89,77,12,12,13.48,preparation_error,114.0,9.5
+2026-09-25,item-pizza-05,Margherita Pizza,146,114,32,32,21.92,over_production,102.4,3.2
+2026-09-25,item-salad-06,Caesar Salad,56,52,4,4,7.14,customer_leftover,8.8,2.2
+2026-09-26,item-biryani-01,Chicken Biryani,186,130,56,56,30.11,over_production,291.2,5.2
+2026-09-26,item-paneer-02,Paneer Butter Masala,103,95,8,8,7.77,preparation_error,30.4,3.8
+2026-09-26,item-friedrice-03,Veg Fried Rice,74,60,14,14,18.92,over_production,35.0,2.5
+2026-09-26,item-salmon-04,Grilled Salmon,78,60,18,18,23.08,over_production,171.0,9.5
+2026-09-26,item-pizza-05,Margherita Pizza,129,119,10,10,7.75,over_production,32.0,3.2
+2026-09-26,item-salad-06,Caesar Salad,60,44,16,16,26.67,over_production,35.2,2.2
+2026-09-27,item-biryani-01,Chicken Biryani,177,145,32,32,18.08,over_production,166.4,5.2
+2026-09-27,item-paneer-02,Paneer Butter Masala,95,83,12,12,12.63,over_production,45.6,3.8
+2026-09-27,item-friedrice-03,Veg Fried Rice,60,56,4,4,6.67,over_production,10.0,2.5
+2026-09-27,item-salmon-04,Grilled Salmon,55,51,4,4,7.27,over_production,38.0,9.5
+2026-09-27,item-pizza-05,Margherita Pizza,106,92,14,14,13.21,preparation_error,44.8,3.2
+2026-09-27,item-salad-06,Caesar Salad,63,52,11,11,17.46,over_production,24.2,2.2
+2026-09-28,item-biryani-01,Chicken Biryani,130,91,39,39,30.0,over_production,202.8,5.2
+2026-09-28,item-paneer-02,Paneer Butter Masala,64,59,5,5,7.81,over_production,19.0,3.8
+2026-09-28,item-friedrice-03,Veg Fried Rice,62,50,12,12,19.35,over_production,30.0,2.5
+2026-09-28,item-salmon-04,Grilled Salmon,42,31,11,11,26.19,over_production,104.5,9.5
+2026-09-28,item-pizza-05,Margherita Pizza,73,68,5,5,6.85,over_production,16.0,3.2
+2026-09-28,item-salad-06,Caesar Salad,57,40,17,17,29.82,over_production,37.4,2.2
+2026-09-29,item-biryani-01,Chicken Biryani,94,77,17,17,18.09,over_production,88.4,5.2
+2026-09-29,item-paneer-02,Paneer Butter Masala,77,67,10,10,12.99,over_production,38.0,3.8
+2026-09-29,item-friedrice-03,Veg Fried Rice,58,54,4,4,6.9,preparation_error,10.0,2.5
+2026-09-29,item-salmon-04,Grilled Salmon,44,36,8,8,18.18,over_production,76.0,9.5
+2026-09-29,item-pizza-05,Margherita Pizza,102,80,22,22,21.57,over_production,70.4,3.2
+2026-09-29,item-salad-06,Caesar Salad,63,49,14,14,22.22,customer_leftover,30.8,2.2
+2026-09-30,item-biryani-01,Chicken Biryani,104,73,31,31,29.81,over_production,161.2,5.2
+2026-09-30,item-paneer-02,Paneer Butter Masala,68,63,5,5,7.35,preparation_error,19.0,3.8
+2026-09-30,item-friedrice-03,Veg Fried Rice,66,46,20,20,30.3,over_production,50.0,2.5
+2026-09-30,item-salmon-04,Grilled Salmon,36,28,8,8,22.22,over_production,76.0,9.5
+2026-09-30,item-pizza-05,Margherita Pizza,94,82,12,12,12.77,over_production,38.4,3.2
+2026-09-30,item-salad-06,Caesar Salad,34,25,9,9,26.47,over_production,19.8,2.2
+2026-10-01,item-biryani-01,Chicken Biryani,118,92,26,26,22.03,over_production,135.2,5.2
+2026-10-01,item-paneer-02,Paneer Butter Masala,76,59,17,17,22.37,over_production,64.6,3.8
+2026-10-01,item-friedrice-03,Veg Fried Rice,54,47,7,7,12.96,over_production,17.5,2.5
+2026-10-01,item-salmon-04,Grilled Salmon,56,46,10,10,17.86,over_production,95.0,9.5
+2026-10-01,item-pizza-05,Margherita Pizza,128,105,23,23,17.97,over_production,73.6,3.2
+2026-10-01,item-salad-06,Caesar Salad,51,42,9,9,17.65,over_production,19.8,2.2
+2026-10-02,item-biryani-01,Chicken Biryani,160,117,43,43,26.88,over_production,223.6,5.2
+2026-10-02,item-paneer-02,Paneer Butter Masala,94,82,12,12,12.77,over_production,45.6,3.8
+2026-10-02,item-friedrice-03,Veg Fried Rice,94,66,28,28,29.79,over_production,70.0,2.5
+2026-10-02,item-salmon-04,Grilled Salmon,97,68,29,29,29.9,over_production,275.5,9.5
+2026-10-02,item-pizza-05,Margherita Pizza,101,83,18,18,17.82,over_production,57.6,3.2
+2026-10-02,item-salad-06,Caesar Salad,74,52,22,22,29.73,over_production,48.4,2.2
+2026-10-03,item-biryani-01,Chicken Biryani,127,118,9,9,7.09,over_production,46.8,5.2
+2026-10-03,item-paneer-02,Paneer Butter Masala,87,81,6,6,6.9,over_production,22.8,3.8
+2026-10-03,item-friedrice-03,Veg Fried Rice,70,61,9,9,12.86,over_production,22.5,2.5
+2026-10-03,item-salmon-04,Grilled Salmon,65,53,12,12,18.46,expired_shelf_life,114.0,9.5
+2026-10-03,item-pizza-05,Margherita Pizza,98,85,13,13,13.27,customer_leftover,41.6,3.2
+2026-10-03,item-salad-06,Caesar Salad,64,56,8,8,12.5,over_production,17.6,2.2
+2026-10-04,item-biryani-01,Chicken Biryani,166,130,36,36,21.69,over_production,187.2,5.2
+2026-10-04,item-paneer-02,Paneer Butter Masala,90,74,16,16,17.78,over_production,60.8,3.8
+2026-10-04,item-friedrice-03,Veg Fried Rice,76,59,17,17,22.37,over_production,42.5,2.5
+2026-10-04,item-salmon-04,Grilled Salmon,87,71,16,16,18.39,over_production,152.0,9.5
+2026-10-04,item-pizza-05,Margherita Pizza,118,103,15,15,12.71,over_production,48.0,3.2
+2026-10-04,item-salad-06,Caesar Salad,77,63,14,14,18.18,over_production,30.8,2.2
+2026-10-05,item-biryani-01,Chicken Biryani,99,86,13,13,13.13,over_production,67.6,5.2
+2026-10-05,item-paneer-02,Paneer Butter Masala,71,62,9,9,12.68,over_production,34.2,3.8
+2026-10-05,item-friedrice-03,Veg Fried Rice,60,56,4,4,6.67,over_production,10.0,2.5
+2026-10-05,item-salmon-04,Grilled Salmon,57,50,7,7,12.28,expired_shelf_life,66.5,9.5
+2026-10-05,item-pizza-05,Margherita Pizza,85,74,11,11,12.94,customer_leftover,35.2,3.2
+2026-10-05,item-salad-06,Caesar Salad,46,40,6,6,13.04,customer_leftover,13.2,2.2

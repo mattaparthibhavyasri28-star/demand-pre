@@ -1,0 +1,55 @@
+{
+  "selected_model": "XGBoost",
+  "version": "1.0.0",
+  "candidates": {
+    "LinearRegression": {
+      "mae": 7.622,
+      "rmse": 10.408,
+      "mape": 11.57,
+      "r2_score": 0.8534,
+      "sample_count": 438
+    },
+    "RandomForest": {
+      "mae": 5.507,
+      "rmse": 8.012,
+      "mape": 7.79,
+      "r2_score": 0.9131,
+      "sample_count": 438
+    },
+    "GradientBoosting": {
+      "mae": 5.246,
+      "rmse": 7.109,
+      "mape": 7.59,
+      "r2_score": 0.9316,
+      "sample_count": 438
+    },
+    "XGBoost": {
+      "mae": 5.163,
+      "rmse": 7.045,
+      "mape": 7.49,
+      "r2_score": 0.9328,
+      "sample_count": 438
+    }
+  },
+  "feature_importances": {
+    "item_code": 0.0696,
+    "day_of_week": 0.0867,
+    "is_weekend": 0.0,
+    "month": 0.005,
+    "sin_day_of_year": 0.0044,
+    "cos_day_of_year": 0.007,
+    "unit_price": 0.0103,
+    "promotion_active": 0.0712,
+    "holiday_flag": 0.0537,
+    "festival_flag": 0.0547,
+    "weather_temp": 0.0155,
+    "rainfall_mm": 0.0194,
+    "is_rainy": 0.0,
+    "sales_lag_1": 0.0094,
+    "sales_lag_7": 0.4193,
+    "sales_rolling_avg_7": 0.1678,
+    "sales_rolling_std_7": 0.006
+  },
+  "train_samples": 1752,
+  "test_samples": 438
+}
